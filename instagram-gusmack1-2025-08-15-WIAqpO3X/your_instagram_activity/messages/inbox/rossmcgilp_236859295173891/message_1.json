@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Ross McGilp"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ross McGilp",
+      "timestamp_ms": 1678912298267,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678912289389,
+      "content": "Hahaha took some time out",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ross McGilp",
+          "timestamp": 1678912298
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ross McGilp",
+      "timestamp_ms": 1678912272274,
+      "content": "YOURE BACK. I thought you were brown breid \u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3059259727212937149"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ross McGilp",
+  "is_still_participant": true,
+  "thread_path": "inbox/rossmcgilp_236859295173891",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690254338426,
+      "content": "Hey there! It's Lina from @beloryaoff, reaching out to you with an exciting opportunity!\r\n\r\nWe've been admiring your profile and can't help but notice your incredible sense of style and fashion. We think you would be a perfect fit for our glasses store. That's why we're reaching out to explore the possibility of a collaboration and create some amazing content together.\r\n\r\nDrop us a line at @beloryaoff and be sure to mention that Lina invited you. We can't wait to hear from you and discuss the possibilities! \u00f0\u009f\u0098\u008d Let's make magic happen! \u00e2\u009d\u00a4\u00ef\u00b8\u008f @beloryaoff",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690254338112,
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1090087282378026",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

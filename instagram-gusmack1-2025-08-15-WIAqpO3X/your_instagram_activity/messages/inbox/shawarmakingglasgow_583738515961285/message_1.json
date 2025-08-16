@@ -1,0 +1,137 @@
+{
+  "participants": [
+    {
+      "name": "SHAWARMA KING Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1718657982676,
+      "content": "You sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SHAWARMA KING Glasgow",
+      "timestamp_ms": 1646682557144,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SHAWARMA KING Glasgow",
+      "timestamp_ms": 1646682556206,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1646674754336,
+      "content": "Well done, dyno!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SHAWARMA KING Glasgow",
+          "timestamp": 1646682557
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1646674736719,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SHAWARMA KING Glasgow",
+          "timestamp": 1646682556
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SHAWARMA KING Glasgow",
+      "timestamp_ms": 1639216219653,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1639214118563,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SHAWARMA KING Glasgow",
+          "timestamp": 1639216219
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SHAWARMA KING Glasgow",
+      "timestamp_ms": 1629051052528,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1629050923932,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SHAWARMA KING Glasgow",
+          "timestamp": 1629051052
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SHAWARMA KING Glasgow",
+      "timestamp_ms": 1628356812189,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1628353399233,
+      "content": "Oooft",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SHAWARMA KING Glasgow",
+          "timestamp": 1628356812
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1628353374439,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SHAWARMA KING Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/shawarmakingglasgow_583738515961285",
+  "magic_words": [
+    
+  ]
+}

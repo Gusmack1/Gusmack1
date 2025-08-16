@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1661449187227,
+      "content": "Thanks for letting me know. We hope to see you soon \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1661449368
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1661449176365,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1661445530446,
+      "content": "Hey, I'm not going to be able to make it tonight unfortunately \u00f0\u009f\u0098\u00a5 I'm sure it will be a cracking night. I'm based in bishopbriggs so I'm gutted. Hopefully i can come another time.\n\nThanks for the invitation.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1661449176
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1661184539492,
+      "content": "Nice one \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1661184525561,
+      "content": "Yes of course \u00f0\u009f\u0098\u008a we look forward to seeing you!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1661184533
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1661184047442,
+      "content": "Can I bring a plus 1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1661184028662,
+      "content": "Sounds great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1661183983421,
+      "content": "Hello!\nFoodwulf is opening soon and we would like to invite you to our VIP event on Thursday 25th August to try our delicious food and enjoy our new space from 7pm to 10pm at our restaurant at Strathkelvin Retail Park in Bishopbriggs.\nWe look forward to seeing you \u00f0\u009f\u0098\u008a \nThe Foodwulf Team",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1661183998
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1661179621904,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_859892888730801",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "The Pakora Bar"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Pakora Bar",
+      "timestamp_ms": 1608036674061,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1608037106
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Pakora Bar",
+      "timestamp_ms": 1608036672810,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1608035399715,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Pakora Bar",
+          "timestamp": 1608036672
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Pakora Bar",
+  "is_still_participant": true,
+  "thread_path": "inbox/thepakorabar_457081345682860",
+  "magic_words": [
+    
+  ]
+}

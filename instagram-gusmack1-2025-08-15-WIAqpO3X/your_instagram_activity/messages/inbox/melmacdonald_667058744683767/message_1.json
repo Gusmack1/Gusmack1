@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "M E L  M A C D O N A L D"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1583613890781,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582463680145,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581795155297,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581251275837,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "M E L  M A C D O N A L D",
+  "is_still_participant": true,
+  "thread_path": "inbox/melmacdonald_667058744683767",
+  "magic_words": [
+    
+  ]
+}

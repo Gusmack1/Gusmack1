@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "John Maguire"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Maguire",
+      "timestamp_ms": 1577985035202,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1577985008744,
+      "content": "Np",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "John Maguire"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "John Maguire",
+      "timestamp_ms": 1577984997734,
+      "content": "Cheers Gus! Thanks for following. \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "John Maguire",
+  "is_still_participant": true,
+  "thread_path": "inbox/johnmaguire_567549397977325",
+  "magic_words": [
+    
+  ]
+}

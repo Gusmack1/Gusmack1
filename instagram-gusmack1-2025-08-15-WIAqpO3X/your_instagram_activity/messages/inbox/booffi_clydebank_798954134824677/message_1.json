@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "booffi_clydebank"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "booffi_clydebank",
+      "timestamp_ms": 1657728814987,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1657710188878,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "booffi_clydebank",
+          "timestamp": 1657728814
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "booffi_clydebank",
+      "timestamp_ms": 1653858334562,
+      "content": "Hey Gus \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bc\nI hope you're well. \u00f0\u009f\u0098\u008a\nWe noticed your foodie instagram and absolutely love your content .\n\nBOOFFI GLASGOW is an all you can eat world buffet with a modern twist. \nWe've recently undergone a management change and are now looking to boost our socials by collabing with foodies like yourself to get our name out there. \n\nWe offer \n\u00e2\u0080\u00a2 Indian \u00e2\u0080\u00a2 Italian \u00e2\u0080\u00a2 Chinese \u00e2\u0080\u00a2 Grill \u00e2\u0080\u00a2 Desserts \u00e2\u0080\u00a2 cocktails \u00e2\u0080\u00a2 slushes and much more .\n\nWe're offering a free visit to BOOFFI \n\u00e2\u0080\u00a2 A meal and any drink (our cocktails are fab \u00f0\u009f\u0098\u008b) for you and an friend (+ kids ) \nIn return for a few stories and possibly a post or reel showcasing the items and what you thought of them \u00f0\u009f\u00a5\u00b0\n\nLet me know if this is something that you'd be interested in\nAnd we can book you into one of our many booths.\n\nThanks \nMichelle \n\n@booffi_glasgow \n\n(Based next to empire cinema Clydebank)\n\nPart of the @puresweetglasgow brand \u00f0\u009f\u0098\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1653861901
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "booffi_clydebank",
+  "is_still_participant": true,
+  "thread_path": "inbox/booffi_clydebank_798954134824677",
+  "magic_words": [
+    
+  ]
+}

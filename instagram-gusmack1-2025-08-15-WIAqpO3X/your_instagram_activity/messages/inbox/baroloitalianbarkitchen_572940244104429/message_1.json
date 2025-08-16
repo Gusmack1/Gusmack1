@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Barolo Italian Bar & Kitchen"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Barolo Italian Bar & Kitchen",
+      "timestamp_ms": 1600344227830,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1600342370650,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Barolo Italian Bar & Kitchen",
+      "timestamp_ms": 1600292753267,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1600291811844,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2399744095222675615"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Barolo Italian Bar & Kitchen",
+  "is_still_participant": true,
+  "thread_path": "inbox/baroloitalianbarkitchen_572940244104429",
+  "magic_words": [
+    
+  ]
+}

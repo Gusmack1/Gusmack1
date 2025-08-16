@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Chicago Town Pizza"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157735505,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1693416289067,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3180928686717851925"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chicago Town Pizza",
+  "is_still_participant": true,
+  "thread_path": "inbox/chicagotownpizza_1084980266220250",
+  "magic_words": [
+    
+  ]
+}

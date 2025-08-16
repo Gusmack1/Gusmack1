@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Busselton Jetty"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1712273635597,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3339115687859395782"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Busselton Jetty",
+  "is_still_participant": true,
+  "thread_path": "inbox/busseltonjetty_1396343568430899",
+  "magic_words": [
+    
+  ]
+}

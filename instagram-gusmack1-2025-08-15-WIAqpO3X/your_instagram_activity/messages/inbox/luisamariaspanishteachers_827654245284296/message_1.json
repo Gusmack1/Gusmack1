@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Luisa&Maria | Spanish Teachers"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Luisa&Maria | Spanish Teachers",
+      "timestamp_ms": 1652989106045,
+      "content": "\u00c2\u00a1Hola \u00f0\u009f\u0091\u008b!\nThanks so much for the follow. Please check out and subscribe to our YouTube channel for short videos covering a range of topics to help children or adults with learning Spanish https://www.youtube.com/c/LuluMariaFunSpanish",
+      "share": {
+        "link": "https://www.youtube.com/c/LuluMariaFunSpanish"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Luisa&Maria | Spanish Teachers",
+  "is_still_participant": true,
+  "thread_path": "inbox/luisamariaspanishteachers_827654245284296",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "outbox eventos"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "outbox eventos",
+      "timestamp_ms": 1545697778080,
+      "content": "gusmack1, obrigado por seguir a Elements.\r\nAqui postamos toda a programa\u00c3\u00a7\u00c3\u00a3o, novidades e promo\u00c3\u00a7\u00c3\u00b5es que rolam na casa.\r\n#lovelements",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "outbox eventos",
+  "is_still_participant": true,
+  "thread_path": "inbox/outboxeventos_565994264799155",
+  "magic_words": [
+    
+  ]
+}

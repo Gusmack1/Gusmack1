@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Bats Langley"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bats Langley",
+      "timestamp_ms": 1578186665663,
+      "content": "It was so good",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578179870180,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bats Langley",
+  "is_still_participant": true,
+  "thread_path": "inbox/batslangley_505264597527753",
+  "magic_words": [
+    
+  ]
+}

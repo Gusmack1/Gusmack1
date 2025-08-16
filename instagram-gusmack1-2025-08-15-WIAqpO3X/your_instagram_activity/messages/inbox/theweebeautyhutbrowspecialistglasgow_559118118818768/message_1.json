@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "The Wee Beauty Hut, Brow Specialist, Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Wee Beauty Hut, Brow Specialist, Glasgow",
+      "timestamp_ms": 1583301690735,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1583277127396,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Wee Beauty Hut, Brow Specialist, Glasgow"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Wee Beauty Hut, Brow Specialist, Glasgow",
+      "timestamp_ms": 1567664071246,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1567632792743,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Wee Beauty Hut, Brow Specialist, Glasgow"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Wee Beauty Hut, Brow Specialist, Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/theweebeautyhutbrowspecialistglasgow_559118118818768",
+  "magic_words": [
+    
+  ]
+}

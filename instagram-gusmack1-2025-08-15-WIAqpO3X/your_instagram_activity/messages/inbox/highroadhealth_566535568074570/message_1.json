@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "High Road Health"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "High Road Health",
+      "timestamp_ms": 1581441621635,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581441128951,
+      "content": "No problem u too",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "High Road Health"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "High Road Health",
+      "timestamp_ms": 1581440563286,
+      "content": "Hiya \u00f0\u009f\u0098\u008a\n\nThank you so much for following me \u00f0\u009f\u0098\u0081\n\nIf you need any info or help with CBD please get in touch \u00e2\u009d\u00a4\n\nHave a fab evening \n\nGill x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "High Road Health",
+  "is_still_participant": true,
+  "thread_path": "inbox/highroadhealth_566535568074570",
+  "magic_words": [
+    
+  ]
+}

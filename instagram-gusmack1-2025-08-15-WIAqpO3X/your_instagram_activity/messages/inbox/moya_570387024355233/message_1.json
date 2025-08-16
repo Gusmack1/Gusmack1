@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Moya \u00f0\u009f\u00aa\u00a9"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1583601336633,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1580052045717,
+      "content": "Aye its a good laugh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Moya \u00f0\u009f\u00aa\u00a9",
+      "timestamp_ms": 1580051947497,
+      "content": "Best Jukebox ever in there \u00f0\u009f\u0091\u008c",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2229917169474851810"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Moya \u00f0\u009f\u00aa\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/moya_570387024355233",
+  "magic_words": [
+    
+  ]
+}

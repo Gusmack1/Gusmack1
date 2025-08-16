@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "PR Events & Communications Agency"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "PR Events & Communications Agency",
+      "timestamp_ms": 1631637106052,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1631637089411,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "PR Events & Communications Agency",
+          "timestamp": 1631637106
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "PR Events & Communications Agency",
+  "is_still_participant": true,
+  "thread_path": "inbox/preventscommunicationsagency_552377096053789",
+  "magic_words": [
+    
+  ]
+}

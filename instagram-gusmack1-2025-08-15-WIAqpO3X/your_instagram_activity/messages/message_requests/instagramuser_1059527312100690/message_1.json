@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1685637199045,
+      "content": "Hi there! \u00f0\u009f\u0091\u008b\n\nWe're on the lookout for ambassadors to represent our eyewear brand PLOUTO and we think you would be a perfect fit!\nWe would love to work with you and send you our products for free \u00f0\u009f\u0096\u00a4\n\nYou can find more details on this page @plouto.ambassador\n\nThank you for considering this opportunity and we look forward to hearing from you soon!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1685637198761,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/plouto.ambassador",
+        "profile_share_username": "plouto.ambassador",
+        "profile_share_name": "Plouto Ambassador Program"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1059527312100690",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

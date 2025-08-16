@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "The Tickled Trout"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157741506,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1688724143594,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3141567909578064954"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Tickled Trout",
+  "is_still_participant": true,
+  "thread_path": "inbox/thetickledtrout_1192985298770052",
+  "magic_words": [
+    
+  ]
+}

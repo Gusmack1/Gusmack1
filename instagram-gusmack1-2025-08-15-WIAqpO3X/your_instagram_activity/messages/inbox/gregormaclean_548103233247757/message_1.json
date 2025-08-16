@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Gregor Maclean"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578745404250,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578223651777,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gregor Maclean",
+  "is_still_participant": true,
+  "thread_path": "inbox/gregormaclean_548103233247757",
+  "magic_words": [
+    
+  ]
+}

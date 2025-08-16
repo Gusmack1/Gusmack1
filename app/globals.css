@@ -1,0 +1,60 @@
+@import "tailwindcss";
+
+:root {
+  /* Primary Colors - BBC Simplicity */
+  --color-primary-white: #ffffff;
+  --color-primary-light: #f8f9fa;
+  --color-accent-warm: #e67e22;
+  --color-text-dark: #2c3e50;
+
+  /* Instagram-inspired warm tones */
+  --color-cream: #fff5e6;
+  --color-orange: #ff6b35;
+  --color-golden: #f7931e;
+  --color-fresh-green: #2ecc71;
+
+  /* Food photography enhancement */
+  --color-food-red: #c0392b;
+  --color-food-brown: #8b4513;
+  --color-rating-gold: #d4af37;
+
+  /* Scottish palette - Isle of Skye Inspired */
+  --scot-primary: #9CB9D2; /* Portree harbor blue */
+  --scot-deep: #023059;    /* Naval blue for headers */
+  --scot-accent: #034C8C;  /* Fishing boat blue for CTAs */
+  --scot-warm: #8F394B;    /* Highland burgundy for emphasis */
+  --scot-supporting: #407C83; /* Scottish waters for backgrounds */
+
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-accent: var(--scot-accent);
+  --color-rating: var(--color-rating-gold);
+  --font-sans: var(--font-inter);
+  --font-display: var(--font-playfair);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+h1, h2, h3, h4, h5, h6 { font-family: var(--font-display), serif; }
+body { font-family: var(--font-sans), system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; }
+
+/* Review typography polishing */
+.prose { --tw-prose-body: var(--color-text-dark); }
+.prose p { font-size: 1.05rem; line-height: 1.8; }
+.prose h2 { font-family: var(--font-playfair), serif; color: var(--scot-deep); }
+.prose a { color: var(--scot-accent); text-decoration: underline; text-underline-offset: 2px; }
+.prose a[target="_blank"] { }
+
+/* Subtle editorial links */
+a { text-underline-offset: 2px; text-decoration-thickness: 1px; }
+a:hover { text-decoration: underline; }

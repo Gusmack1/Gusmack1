@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Wunderstock"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wunderstock",
+      "timestamp_ms": 1545851617855,
+      "content": "Wunderstock sent an attachment.",
+      "share": {
+        "link": "https://goo.gl/forms/sLljtQWzxVgSYvC93",
+        "share_text": "I'm working on Cosmo, an all-natural sleep aid that helps you enjoy deeper rest but still wake up feeling refreshed. Since people have so little time to rest, I want to help them make the most of it. If you've ever had trouble sleeping or wanted to sleep better, could you answer these 3 multiple cho..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wunderstock",
+  "is_still_participant": true,
+  "thread_path": "inbox/wunderstock_553357206063051",
+  "magic_words": [
+    
+  ]
+}

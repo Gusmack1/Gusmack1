@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u00a9\u00b7\u00f0\u009f\u0090\u00be\u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0091\u00a8\u00f0\u009f\u00a7\u00bf"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1607898912464,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0098\u0080\u00ef\u00b8\u008f\u00f0\u009f\u00a9\u00b7\u00f0\u009f\u0090\u00be\u00f0\u009f\u0091\u00a9\u00e2\u0080\u008d\u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u0080\u008d\u00f0\u009f\u0091\u00a8\u00f0\u009f\u00a7\u00bf",
+  "is_still_participant": true,
+  "thread_path": "inbox/560194708710294",
+  "magic_words": [
+    
+  ]
+}

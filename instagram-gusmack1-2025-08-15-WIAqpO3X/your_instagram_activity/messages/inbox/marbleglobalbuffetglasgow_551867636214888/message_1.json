@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Marble Global Buffet Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1663763928473,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1663763701087,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CixNpGvqLRP/?carousel_share_child_media_id=2932184831740130383_204320321",
+        "share_text": "Order Pictured - it's a buffet as much as I could fit on my plate. Chicken, mushroom and veg pakora, onion rings covered in South Indian garlic chicken sauce. Honey chicken, salt n chilli chicken, chicken in green peppers and blackbean sauce and something I've never tried before a prawn cheese ball. \n\nTime - 30 mins in the place.\n\nPresentation - see pics. Great and the decor inside was immaculate. \n\nQuality - 3/5 - it was above average for a buffet, everything was fresh when I went when it opened at 12. The salt and chilli chicken was a bit tough but other than that I couldn't complain. Also try the prawn cheese balls in the Chinese section they are delicious.\n\nQuantity - 5/5 - There were loads and a great selection. It's a buffet so stuff your face till you burst!\n\nValue for money - \u00c2\u00a312.99 to eat as much as you can. It's a bargain. I thought it would have been around the \u00c2\u00a320 mark.\n\nAdditionally - the place was busy which is always a good sign and could see food getting replaced and changed regularly. \n\n.\n.\n.\n.\n.\n#glasgowfood #glasgowfoodie #glasgowfoodies #glasgowfoodblog #glasgowfoodblogger #glasgowfoodlover #glasgowfoodanddrink #scottishfood #scottishfoodie #scottishfoodanddrink #scottishfoodbible #scottishfoodbloggers #scottishglasgowfoodies #allyoucaneat #scottishfoodies #scottishfoodblogger #scottishfoodblog #scottishfoodiegals #scotlandfood #scotlandfoodie #scotlandfoodanddrink #ukfoodie #ukfood #ukfoodies #ukfoodblogger #ukfoodbloggers #eastdunbartonshire #marbleglobalbuffet #buffet",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1663240878733,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2927799047302065348"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1585159363087,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2272803902809468455"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marble Global Buffet Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/marbleglobalbuffetglasgow_551867636214888",
+  "magic_words": [
+    
+  ]
+}

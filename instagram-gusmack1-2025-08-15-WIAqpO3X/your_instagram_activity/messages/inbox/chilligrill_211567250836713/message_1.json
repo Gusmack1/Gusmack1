@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Chilli Grill"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chilli Grill",
+      "timestamp_ms": 1679160405933,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679160096049,
+      "content": "You shared a story.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Chilli Grill",
+          "timestamp": 1679160405
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chilli Grill",
+      "timestamp_ms": 1625827718079,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1625827692357,
+      "content": "Sure anything to help \u00f0\u009f\u0098\u0083",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Chilli Grill",
+          "timestamp": 1625827718
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chilli Grill",
+      "timestamp_ms": 1625827575678,
+      "content": "Hi , hope your well, it\u00e2\u0080\u0099s Omar here , I hope you don\u00e2\u0080\u0099t mind me asking you, I seen that your Instagram followers are amazing, We would like you to promote our Instagram business page on your story & page etc,  what ever way you feel comfortable, any questions just messages me thanks, I would love to you make a few dish for you try them out, your more than welcome to pop in anytime, complementary x\n\nKind regards \nOmar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chilli Grill",
+  "is_still_participant": true,
+  "thread_path": "inbox/chilligrill_211567250836713",
+  "magic_words": [
+    
+  ]
+}

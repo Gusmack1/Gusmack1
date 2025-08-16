@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Heather Offord - Award winning Business Growth Consultant"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582731968744,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581271700628,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1576444450674,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Heather Offord - Award winning Business Growth Consultant",
+      "timestamp_ms": 1573768239777,
+      "content": "Heather sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://www.eventbrite.co.uk/e/loomshed-beer-launch-its-a-hebridean-thing-tickets-81969516029?ref=eios",
+        "share_text": "Glasgow Launch of Loomshed Beer!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1569709336553,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Heather Offord - Award winning Business Growth Consultant",
+  "is_still_participant": true,
+  "thread_path": "inbox/heatheroffordawardwinningbusinessgrowthconsultant_578358093556468",
+  "magic_words": [
+    
+  ]
+}

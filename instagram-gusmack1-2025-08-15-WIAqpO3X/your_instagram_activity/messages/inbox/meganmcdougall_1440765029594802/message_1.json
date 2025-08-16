@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Megan McDougall"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Megan McDougall",
+      "timestamp_ms": 1619718549210,
+      "content": "Brilliant we look forward to it!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megan McDougall",
+      "timestamp_ms": 1619718540907,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1619718529966,
+      "content": "Sure next time I'm heading in that way I'll give you a shout \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Megan McDougall",
+          "timestamp": 1619718540
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megan McDougall",
+      "timestamp_ms": 1619717621562,
+      "content": "It\u00e2\u0080\u0099s smash burger we are located on sauchiehall street we are looking to expand our dine in as we already have a loyal fan base for takeaway and deliveries and we would love to use your platform to do so!!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1619718487
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1619717469430,
+      "content": "Hello! Sure where from?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Megan McDougall",
+      "timestamp_ms": 1619713209724,
+      "content": "Helloo! We would love to have you come collect a burger on us to help expand our dine in!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1619713032333,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Megan McDougall",
+  "is_still_participant": true,
+  "thread_path": "inbox/meganmcdougall_1440765029594802",
+  "magic_words": [
+    
+  ]
+}

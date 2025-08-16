@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1714254720944,
+      "content": "Hello! \u00f0\u009f\u0091\u008b This is the team at @activejazzy.official and we're thrilled to connect with you!\r\n\r\nYour profile has truly caught our eye, showcasing such an inspiring sense of style and a passion for all things active. We believe your energy aligns perfectly with our activewear brand, and we're excited to explore a potential collaboration to create some incredible content together.\r\n\r\nSimply reply to story on our main page @activejazzy.official using the keyword \"Active\" and our team will reach out to you with more information.\r\nLooking forward to hearing from you and embarking on this journey of creativity and inspiration. \u00f0\u009f\u008c\u009f\u00f0\u009f\u0092\u00aa\r\n#stayJazzy #Stayactive",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1251580376228715",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

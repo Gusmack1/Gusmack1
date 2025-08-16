@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0094\u0096\u00f0\u009d\u0094\u00b1\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00ad\u00f0\u009d\u0094\u00a5\u00f0\u009d\u0094\u009e\u00f0\u009d\u0094\u00ab\u00f0\u009d\u0094\u00a6\u00f0\u009d\u0094\u00a6 \u00e2\u009d\u00a5\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bd\u00f0\u009f\u008c\u00be"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1604203616121,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0094\u0096\u00f0\u009d\u0094\u00b1\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00ad\u00f0\u009d\u0094\u00a5\u00f0\u009d\u0094\u009e\u00f0\u009d\u0094\u00ab\u00f0\u009d\u0094\u00a6\u00f0\u009d\u0094\u00a6 \u00e2\u009d\u00a5\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bd\u00f0\u009f\u008c\u00be",
+  "is_still_participant": true,
+  "thread_path": "inbox/stephanii_574062060656449",
+  "magic_words": [
+    
+  ]
+}

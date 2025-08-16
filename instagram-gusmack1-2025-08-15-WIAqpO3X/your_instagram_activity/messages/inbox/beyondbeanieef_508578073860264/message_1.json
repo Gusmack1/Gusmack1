@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "beyondbeanieef"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "beyondbeanieef",
+      "timestamp_ms": 1545767286429,
+      "content": "beyondbeanieef sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/beyondbeanie.com/bbrep",
+        "share_text": "Do Holiday Gifting right by supporting brands that give back! Every purchase is hand-signed by the artisan who made it + every purchase helps a child in need! Click here to support us as a customer Click here to learn how to earn cash and help children at the same time by becoming a Brand rep"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "beyondbeanieef",
+  "is_still_participant": true,
+  "thread_path": "inbox/beyondbeanieef_508578073860264",
+  "magic_words": [
+    
+  ]
+}

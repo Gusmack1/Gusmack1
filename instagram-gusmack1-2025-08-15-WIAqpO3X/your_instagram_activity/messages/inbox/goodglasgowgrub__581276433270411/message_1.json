@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "goodglasgowgrub_"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "goodglasgowgrub_",
+      "timestamp_ms": 1646844402037,
+      "content": "Very disappointing \u00f0\u009f\u0098\u009e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1646843739069,
+      "content": "Looks disgusting",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "goodglasgowgrub_",
+      "timestamp_ms": 1609881594870,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1609928529
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1587255681434,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "goodglasgowgrub_",
+  "is_still_participant": true,
+  "thread_path": "inbox/goodglasgowgrub__581276433270411",
+  "magic_words": [
+    
+  ]
+}

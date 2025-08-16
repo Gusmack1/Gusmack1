@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Fiona"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579807008330,
+      "content": "Yeah I noticed it wasn't a full pint either. I was trying to justify it cos it was the west end, the rest of the west end is a bump. I don't really go down there lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fiona",
+      "timestamp_ms": 1579806784087,
+      "content": "It was really filling and tasty. The wine was so expensive tho. X",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579803305412,
+      "content": "It was surprisingly filling although I think I tried most of the menu they were out of the haggis one",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579803260591,
+      "content": "Amazing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fiona",
+      "timestamp_ms": 1579803250071,
+      "content": "Great food wasn\u00e2\u0080\u0099t it?!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579803212593,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fiona",
+  "is_still_participant": true,
+  "thread_path": "inbox/fiona_572114387516356",
+  "magic_words": [
+    
+  ]
+}

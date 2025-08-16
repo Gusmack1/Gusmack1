@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Mike"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mike",
+      "timestamp_ms": 1547455163330,
+      "content": "Hi and thanks for the follow. My name is Michael Ghobrial and I'm a professional online marketer. I also have free training if you are interested in making money online, just check my bio. If you are not looking for an opportunity then I'm sorry to have bothered you and I wish a great day \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mike",
+      "timestamp_ms": 1546066835222,
+      "content": "Looking to boost sales/leads for your business? Frustrated from expensive Ads? Tap the link in my bio @mghobrialttm if you want to double your sales or generate new leads for your business.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mike",
+  "is_still_participant": true,
+  "thread_path": "inbox/mike_520055019380293",
+  "magic_words": [
+    
+  ]
+}

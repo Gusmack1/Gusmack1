@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "John Quartermain"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John Quartermain",
+      "timestamp_ms": 1593359654966,
+      "content": "Hi Gus,\n\nThanks for the follow.\nHave a great Sunday \u00f0\u009f\u0098\u008a\n\nThanks \n\nJohn",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "John Quartermain",
+  "is_still_participant": true,
+  "thread_path": "inbox/johnquartermain_529028745152602",
+  "magic_words": [
+    
+  ]
+}

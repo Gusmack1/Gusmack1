@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "Asda"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1701266785157,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3246783383869125737"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157737607,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1681300295061,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3079292359786671818"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Asda",
+  "is_still_participant": true,
+  "thread_path": "inbox/asda_288836892742453",
+  "magic_words": [
+    
+  ]
+}

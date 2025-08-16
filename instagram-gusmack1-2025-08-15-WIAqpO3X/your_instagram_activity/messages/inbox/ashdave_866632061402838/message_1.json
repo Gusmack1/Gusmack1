@@ -1,0 +1,116 @@
+{
+  "participants": [
+    {
+      "name": "Ash & Dave"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1706912693723,
+      "content": "I know, gutter",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3293865444782769469"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1679176901616,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3061402330796245266"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1658002071198,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1658002301
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2883852003973895340"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1652815143758,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2840328788756837437"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1652815141480,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2840328668380386882"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1652815138822,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2840328556308551308"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1652807173882,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1652814126
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2840251262885741491"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ash & Dave",
+      "timestamp_ms": 1650649388015,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1650652476
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ash & Dave",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashdave_866632061402838",
+  "magic_words": [
+    
+  ]
+}

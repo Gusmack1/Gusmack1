@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Karen"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579483041756,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Karen",
+  "is_still_participant": true,
+  "thread_path": "inbox/karen_532595684807385",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Chicago Town"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chicago Town",
+      "timestamp_ms": 1695157740417,
+      "content": "Hi gusmack1, sorry we're not here right now, we're away dreaming up new pizza ideas! We'll be back to answer all of your pizza questions 9-5 Mon-Fri (excluding bank holidays). If your message is about a product you have bought, please include a photo of the batch details from the white box on pack. Thanks - Chicago Town Team.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157735474,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chicago Town",
+      "timestamp_ms": 1693463481859,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1693416289066,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Chicago Town",
+          "timestamp": 1693463481
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3180928686717851925"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chicago Town",
+  "is_still_participant": true,
+  "thread_path": "inbox/chicagotown_1194117565315398",
+  "magic_words": [
+    
+  ]
+}

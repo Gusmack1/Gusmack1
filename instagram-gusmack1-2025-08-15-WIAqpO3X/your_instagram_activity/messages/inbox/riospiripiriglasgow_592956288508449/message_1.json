@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "RiosPiriPiriGlasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "RiosPiriPiriGlasgow",
+      "timestamp_ms": 1634463746251,
+      "content": "We are a new brand opened in Dennistoun, Glasgow called Rio\u00e2\u0080\u0099s Piri. We want to invite you to try our food and give us a review. You won\u00e2\u0080\u0099t be charged for the food, if you can make it please let me know. We would really appreciate if you could make some time for us. We do need any possible support \u00f0\u009f\u0098\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1634463788
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RiosPiriPiriGlasgow",
+      "timestamp_ms": 1634463706171,
+      "content": "Oh bless. Get well soon. \u00f0\u009f\u0099\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1634463741
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1634463207972,
+      "content": "I have that nasty cold thats going about. Yeah i do reviews its mostly a hobby \u00f0\u009f\u0098\u0081 always happy to support local businesses",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RiosPiriPiriGlasgow",
+      "timestamp_ms": 1634460915277,
+      "content": "Food*",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RiosPiriPiriGlasgow",
+      "timestamp_ms": 1634460909357,
+      "content": "We see that you do good reviews too?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RiosPiriPiriGlasgow",
+      "timestamp_ms": 1634460892773,
+      "content": "How are you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RiosPiriPiriGlasgow",
+      "timestamp_ms": 1634460883791,
+      "content": "Thank you",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1634460891
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "RiosPiriPiriGlasgow",
+      "timestamp_ms": 1634460880162,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1634453497316,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "RiosPiriPiriGlasgow",
+          "timestamp": 1634460880
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "RiosPiriPiriGlasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/riospiripiriglasgow_592956288508449",
+  "magic_words": [
+    
+  ]
+}

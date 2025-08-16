@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Sarah \u00f0\u009f\u008d\u00ba (feat. Mr GDG)"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157735942,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1680453506308,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662412115682,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1658624573062,
+      "content": "Could be worse, stop drinking that pish lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1649282035981,
+      "content": "Aunt bessies? I hope that tasted like totties lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sarah \u00f0\u009f\u008d\u00ba (feat. Mr GDG)",
+      "timestamp_ms": 1639778506258,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1639778291080,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sarah \u00f0\u009f\u008d\u00ba (feat. Mr GDG)",
+          "timestamp": 1639778506
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1639778554
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/girl_drinks_guinness/2730937258071168145"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarah \u00f0\u009f\u008d\u00ba (feat. Mr GDG)",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarahfeatmrgdg_1100511874032952",
+  "magic_words": [
+    
+  ]
+}

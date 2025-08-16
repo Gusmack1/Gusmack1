@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "The Pastery"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1592298601605,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "share": {
+        "link": "https://instagram.com/stories/thepastery/2332062582627708727"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Pastery",
+  "is_still_participant": true,
+  "thread_path": "inbox/thepastery_520604899326270",
+  "magic_words": [
+    
+  ]
+}

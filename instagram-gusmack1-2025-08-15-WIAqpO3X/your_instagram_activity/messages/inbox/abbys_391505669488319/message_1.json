@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "Abby\u00e2\u0080\u0099s"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157737560,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abby\u00e2\u0080\u0099s",
+      "timestamp_ms": 1681241570327,
+      "content": "Hey \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb \n\nThis year I am nominated for an award at the Scottish Health & Fitness awards for my handmade protein bars. \n\nIt would honestly mean the world to me if you could vote and share for me \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\nCategory is:\n\u00e2\u0080\u009cHealth food & supplement supplier\u00e2\u0080\u009d \n\nI would really appreciate it. \nThanks, Abby \u00f0\u009f\u0092\u009b\n\nhttps://www.shfawards.co.uk/user-voting-page/?filter_category=Health+food+and+supplement+supplier+2023#",
+      "share": {
+        "link": "https://www.shfawards.co.uk/user-voting-page/?filter_category=Health+food+and+supplement+supplier+2023",
+        "share_text": "Hey \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb \n\nThis year I am nominated for an award at the Scottish Health & Fitness awards for my handmade protein bars. \n\nIt would honestly mean the world to me if you could vote and share for me \u00f0\u009f\u0099\u008f\u00f0\u009f\u008f\u00bb\nCategory is:\n\u00e2\u0080\u009cHealth food & supplement supplier\u00e2\u0080\u009d \n\nI would really appreciate it. \nThanks, Abby \u00f0\u009f\u0092\u009b\n\nhttps://www.shfawards.co.uk/user-voting-page/?filter_category=Health+food+and+supplement+supplier+2023#"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abby\u00e2\u0080\u0099s",
+      "timestamp_ms": 1662962726829,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662911931802,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Abby\u00e2\u0080\u0099s",
+          "timestamp": 1662962726
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662911931174,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Abby\u00e2\u0080\u0099s",
+      "timestamp_ms": 1649502080866,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1649445854681,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Abby\u00e2\u0080\u0099s",
+          "timestamp": 1649502080
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Abby\u00e2\u0080\u0099s",
+  "is_still_participant": true,
+  "thread_path": "inbox/abbys_391505669488319",
+  "magic_words": [
+    
+  ]
+}

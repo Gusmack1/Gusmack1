@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Golden Cross"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Golden Cross",
+      "timestamp_ms": 1695157765330,
+      "content": "Hi, thanks for contacting us. We've received your message and appreciate you reaching out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157761811,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Golden Cross",
+  "is_still_participant": true,
+  "thread_path": "inbox/goldencross_1280063650059920",
+  "magic_words": [
+    
+  ]
+}

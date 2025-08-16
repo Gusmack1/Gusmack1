@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Blackfriars of Bell Street"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678914149719,
+      "content": "Hi sorry for not replying I took some time out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Blackfriars of Bell Street",
+      "timestamp_ms": 1674995978285,
+      "content": "Hey Gus, \nThanks for following us \u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bc\nWe\u00e2\u0080\u0099ve just launched our new food menu and would love to welcome you to try next week on the house! Are you free between Thursday-Sunday to come in? Let us know! \nBlackfriars \u00f0\u009f\u008d\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Blackfriars of Bell Street",
+      "timestamp_ms": 1657820400005,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1657810697832,
+      "content": "Quality yaaasss",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Blackfriars of Bell Street",
+          "timestamp": 1657820400
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Blackfriars of Bell Street",
+  "is_still_participant": true,
+  "thread_path": "inbox/blackfriarsofbellstreet_1141995126530299",
+  "magic_words": [
+    
+  ]
+}

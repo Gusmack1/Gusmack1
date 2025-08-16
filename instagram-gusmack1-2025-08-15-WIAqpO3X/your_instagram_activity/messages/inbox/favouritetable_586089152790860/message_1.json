@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Favouritetable"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Favouritetable",
+      "timestamp_ms": 1600261466769,
+      "content": "I am looking for a shoutout on your feed & story",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1600078278814,
+      "content": "Just got this what did u have in mind?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Favouritetable",
+      "timestamp_ms": 1599820939325,
+      "content": "Favouritetable sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/Favouritetable.com",
+        "share_text": "Favouritetable, a restaurant resource listing, providing restaurant bookings and reservations service online with some of the UK's top leading restaurants."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Favouritetable",
+  "is_still_participant": true,
+  "thread_path": "inbox/favouritetable_586089152790860",
+  "magic_words": [
+    
+  ]
+}

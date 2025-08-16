@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Paul Sweeney"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157743110,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1692135721319,
+      "content": "I applied for Ur job but it went tits up at the end Nd I couldn't be arsed putting all the shit in at the end lol. Essentially I can boost Ur reach and deal with all Ur social media. Hit me up. I have a real job outside this",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Paul Sweeney",
+  "is_still_participant": true,
+  "thread_path": "inbox/paulsweeney_1204648640929977",
+  "magic_words": [
+    
+  ]
+}

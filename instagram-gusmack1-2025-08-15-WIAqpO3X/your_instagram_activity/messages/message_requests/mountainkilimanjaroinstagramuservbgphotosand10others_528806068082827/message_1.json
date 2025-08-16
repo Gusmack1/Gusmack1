@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "#mountainkilimanjaro"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "VBG-photos\u00f0\u009f\u008d\u0083"
+    },
+    {
+      "name": "Jenae Depuydt"
+    },
+    {
+      "name": "Katarzyna Koz\u00c5\u0082owska"
+    },
+    {
+      "name": "Steve"
+    },
+    {
+      "name": "Thomas Nyffeler (Bern) \u00f0\u009f\u0087\u00a8\u00f0\u009f\u0087\u00ad"
+    },
+    {
+      "name": "HoneySweetPrintables"
+    },
+    {
+      "name": "Art-Time"
+    },
+    {
+      "name": "Matth\u00c3\u00a4us Welischanskij"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "Sarah \u00e2\u0093\u008b \u00f0\u009f\u008c\u00b1\u00f0\u009f\u0092\u009a"
+    },
+    {
+      "name": "\u00d0\u0093\u00d0\u0090\u00d0\u009d\u00d0\u0093\u00d0\u0090    \u00d0\u0093\u00d0\u0090\u00d0\u009d\u00d0\u0093\u00d0\u0090"
+    },
+    {
+      "name": "Logan Doyle"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marco Guidi",
+      "timestamp_ms": 1613390238189,
+      "content": "Marco Guidi left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1613389511554,
+      "content": "https://bit.ly/3ppsR0m",
+      "share": {
+        "link": "https://bit.ly/3ppsR0m"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "#mountainkilimanjaro, Instagram User, VBG-photos\u00f0\u009f\u008d\u0083 and 10 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/mountainkilimanjaroinstagramuservbgphotosand10others_528806068082827",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

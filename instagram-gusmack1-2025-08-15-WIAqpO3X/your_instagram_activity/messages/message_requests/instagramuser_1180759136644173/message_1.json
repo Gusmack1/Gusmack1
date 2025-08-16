@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1704232772501,
+      "content": "Hi there \u00f0\u009f\u0091\u008b. We would love to invite you to join our world of Petsofworld ambassadors, no matter how small or big your social following is! \u00f0\u009f\u0090\u00be \r\n \r\nIf you\u00e2\u0080\u0099re interested, we can send you 3 to 4 items of your choice for FREE. \u00f0\u009f\u008e\u0081Please send a DM \"Model \" to  @Petsofworld.official \r\nWe\u00e2\u0080\u0099re excited for you to become a Petsofworld Ambassador! \u00f0\u009f\u0090\u00b6 \r\n  \r\nWe look forward to hearing from you! \u00f0\u009f\u0090\u00b1 \r\n \r\n\u00f0\u009f\u0091\u0089\u00f0\u009f\u008f\u00bb @Petsofworld.official\u00f0\u009f\u0091\u0088\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1704232769363,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/onopets.official",
+        "profile_share_username": "onopets.official",
+        "profile_share_name": "OnoPets \u00f0\u009f\u0090\u00be"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1180759136644173",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

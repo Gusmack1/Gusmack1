@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Renee | Kitchen Witch"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1600627922994,
+      "content": "Everyone's gagging for an IKEA tsble",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renee | Kitchen Witch",
+      "timestamp_ms": 1600627885581,
+      "content": "It was very surreal. It wasn\u00e2\u0080\u0099t really that crowded once we actually got inside.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1600627818155,
+      "content": "What the actual fuck",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Renee | Kitchen Witch",
+      "timestamp_ms": 1592373971864,
+      "content": "Haha junk food is my passion.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1592349501941,
+      "content": "The problem u have is everyone is a food blogger these days. U need to stand out. I eat loads of crap and that seems to get likes lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Renee | Kitchen Witch",
+  "is_still_participant": true,
+  "thread_path": "inbox/reneekitchenwitch_535315444527041",
+  "magic_words": [
+    
+  ]
+}

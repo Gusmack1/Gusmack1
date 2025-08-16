@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Magic Stamp"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Magic Stamp",
+      "timestamp_ms": 1561714289012,
+      "content": "Hey Gus! Glasgow\u00e2\u0080\u0099s a big target for us, we do a good referral scheme if you know any places that might like the Magic Stamp!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Magic Stamp",
+  "is_still_participant": true,
+  "thread_path": "inbox/magicstamp_599405968125148",
+  "magic_words": [
+    
+  ]
+}

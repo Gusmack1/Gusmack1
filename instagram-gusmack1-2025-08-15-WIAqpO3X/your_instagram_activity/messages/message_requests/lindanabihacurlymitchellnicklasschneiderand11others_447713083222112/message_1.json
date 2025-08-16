@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "lindanabiha"
+    },
+    {
+      "name": "CurlyMitchell \u00f0\u009f\u0092\u0097"
+    },
+    {
+      "name": "Nicklas Schneider"
+    },
+    {
+      "name": "Stefan Holzer"
+    },
+    {
+      "name": "Laura Paris-Cowan"
+    },
+    {
+      "name": "Laura Stocks"
+    },
+    {
+      "name": "Poul \u00c3\u0098stergaard"
+    },
+    {
+      "name": "josefinejaegergaard"
+    },
+    {
+      "name": "Rhyan Parry"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Malene Huess Christiansen"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "2012gaia"
+    },
+    {
+      "name": "Gus M"
+    },
+    {
+      "name": "CHRISTINA MADSEN"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1613018820961,
+      "content": "https://bnc.lt/soJQ5q28Ldb",
+      "share": {
+        "link": "https://bnc.lt/soJQ5q28Ldb"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "lindanabiha, CurlyMitchell \u00f0\u009f\u0092\u0097, Nicklas Schneider and 11 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lindanabihacurlymitchellnicklasschneiderand11others_447713083222112",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

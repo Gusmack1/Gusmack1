@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "dot + del"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "dot + del",
+      "timestamp_ms": 1656934978065,
+      "content": "*that",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "dot + del",
+      "timestamp_ms": 1656934972056,
+      "content": "Whoops! You\u00e2\u0080\u0099re not Lois\u00f0\u009f\u0098\u0085 sorry about they !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "dot + del",
+      "timestamp_ms": 1656934928489,
+      "content": "Hi Lois just following up, let me know if you\u00e2\u0080\u0099re interested! Cheers\u00f0\u009f\u0092\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "dot + del",
+      "timestamp_ms": 1655722496315,
+      "content": "Hi! We look after the restaurant Gost & we\u00e2\u0080\u0099d love to invite you for a meal. If you\u00e2\u0080\u0099re interested, do you mind giving Hayley an email? hayley@dotanddel.co.uk and she can share details. Thanks! \u00f0\u009f\u0092\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "dot + del",
+  "is_still_participant": true,
+  "thread_path": "inbox/dotdel_813820000004757",
+  "magic_words": [
+    
+  ]
+}

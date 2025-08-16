@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1711738466090,
+      "content": "Hi, I'm Hannah, a girl who believes in fate and the soul mate whom I have been seeking for years. But I didn't meet the right person yet. sad \u00f0\u009f\u0098\u0094. So I have been thinking this would be fun to send a message to you like spinning a wheel of fortune and telling if you are my lot. catch up on whatsapp\u00ef\u00bc\u009a13615899555",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1233519468034806",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

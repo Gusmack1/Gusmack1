@@ -1,0 +1,78 @@
+{
+  "participants": [
+    {
+      "name": "AK / Chan Lam"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AK / Chan Lam",
+      "timestamp_ms": 1631021690382,
+      "content": "Lol",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1631021857
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2657110934172640300"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AK / Chan Lam",
+      "timestamp_ms": 1612520081144,
+      "content": "Completely agree. 5guys is so overrated, and the UK price is just the final nail",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1612520163
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2501598113955074553"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AK / Chan Lam",
+      "timestamp_ms": 1570746389475,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2151657129488204757"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AK / Chan Lam",
+      "timestamp_ms": 1562143452759,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2079062295053843577"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AK / Chan Lam",
+  "is_still_participant": true,
+  "thread_path": "inbox/akchanlam_561268585275634",
+  "magic_words": [
+    
+  ]
+}

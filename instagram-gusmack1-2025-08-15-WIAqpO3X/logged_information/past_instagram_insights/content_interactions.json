@@ -1,0 +1,102 @@
+{
+  "organic_insights_interactions": [
+    {
+      "title": "",
+      "media_map_data": {
+        
+      },
+      "string_map_data": {
+        "Date Range": {
+          "href": "",
+          "value": "May 13 - Aug 10",
+          "timestamp": 0
+        },
+        "Content Interactions": {
+          "href": "",
+          "value": "8",
+          "timestamp": 0
+        },
+        "Content Interactions Delta": {
+          "href": "",
+          "value": "-62% vs Feb 12 - May 12",
+          "timestamp": 0
+        },
+        "Post Interactions": {
+          "href": "",
+          "value": "8",
+          "timestamp": 0
+        },
+        "Post Interactions Delta": {
+          "href": "",
+          "value": "-62% vs Feb 12 - May 12",
+          "timestamp": 0
+        },
+        "Post Likes": {
+          "href": "",
+          "value": "8",
+          "timestamp": 0
+        },
+        "Story Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Story Interactions Delta": {
+          "href": "",
+          "value": "0% vs Feb 12 - May 12",
+          "timestamp": 0
+        },
+        "Video Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Video Interactions Delta": {
+          "href": "",
+          "value": "0% vs Feb 12 - May 12",
+          "timestamp": 0
+        },
+        "Reels Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Reels Interactions Delta": {
+          "href": "",
+          "value": "0% vs Feb 12 - May 12",
+          "timestamp": 0
+        },
+        "Live Video Interactions": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        },
+        "Live Video Interactions Delta": {
+          "href": "",
+          "value": "0% vs Feb 12 - May 12",
+          "timestamp": 0
+        },
+        "Accounts engaged": {
+          "href": "",
+          "value": "11",
+          "timestamp": 0
+        },
+        "Accounts Engaged Delta": {
+          "href": "",
+          "value": "-54.2% vs Feb 12 - May 12",
+          "timestamp": 0
+        },
+        "Engaged Account By Follow Type": {
+          "href": "",
+          "value": "Followers: 63.6%, Non-followers: 36.4%",
+          "timestamp": 0
+        },
+        "You engaged delta% more accounts that weren\u00e2\u0080\u0099t following you compared to previous period": {
+          "href": "",
+          "value": "-80% vs Feb 12 - May 12",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

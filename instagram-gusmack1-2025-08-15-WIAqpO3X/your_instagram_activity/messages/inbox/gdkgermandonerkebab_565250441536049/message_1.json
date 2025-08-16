@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "GDK - German Doner Kebab"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157739192,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1682271543790,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3087439867004175541"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GDK - German Doner Kebab",
+      "timestamp_ms": 1636387183266,
+      "content": "Amazing let us know the above details and we\u00e2\u0080\u0099ll book you in!\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GDK - German Doner Kebab",
+      "timestamp_ms": 1636387172142,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1636386747789,
+      "content": "Sure sounds good",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "GDK - German Doner Kebab",
+          "timestamp": 1636387172
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GDK - German Doner Kebab",
+      "timestamp_ms": 1636386150474,
+      "content": "Hey!\n\nWe have some exciting news... By popular demand, we have collaborated with Doritos and created a limited edition Chilli Heatwave Krunch Burger for a short time only \u00f0\u009f\u0094\u00a5\n\nThe burger will launch on 15th November and we would love to invite you and a friend down to your local GDK store to try it, in exchange for a feed post and story on your page \u00f0\u009f\u008d\u0094\n\nIf you'd be up for this, just let us know your local GDK store, a date after 15th November and time that suits you (between 11am-11pm). We will send all the details shortly \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GDK - German Doner Kebab",
+  "is_still_participant": true,
+  "thread_path": "inbox/gdkgermandonerkebab_565250441536049",
+  "magic_words": [
+    
+  ]
+}

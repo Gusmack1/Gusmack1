@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Hubble and Bubble"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hubble and Bubble",
+      "timestamp_ms": 1580991885725,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1580989157420,
+      "content": "Nice one",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Hubble and Bubble"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hubble and Bubble",
+      "timestamp_ms": 1580979765705,
+      "content": "Hi thank you for following us. As you are a new follower, we are offering 10% off to new customers for your first order Type FIRST into checkout to receive a Full 10%off not to be used with any other offer . Cheryl x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hubble and Bubble",
+  "is_still_participant": true,
+  "thread_path": "inbox/hubbleandbubble_530925718295032",
+  "magic_words": [
+    
+  ]
+}

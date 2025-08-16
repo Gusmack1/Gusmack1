@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Pius Olasanmi"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pius Olasanmi",
+      "timestamp_ms": 1619861994530,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pius Olasanmi",
+  "is_still_participant": true,
+  "thread_path": "inbox/piusolasanmi_1633459780375211",
+  "magic_words": [
+    
+  ]
+}

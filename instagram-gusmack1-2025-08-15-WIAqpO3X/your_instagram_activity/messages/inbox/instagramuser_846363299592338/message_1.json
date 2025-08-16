@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622469043159,
+      "content": "No thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1622469025123,
+      "content": "Thanks for your reply. We will be happy to explain at one of our \u00c2\u00a0Brand Ambassador Webinars how you can earn through representing FlavOil. \u00c2\u00a0\nThere are several options of commercial cooperation. Our next \u00c2\u00a0online events for food bloggers will take place at 1 pm London time on 1 \u00c2\u00a0June or 3 June at 7 pm London time \nPlease let me know if you are interested?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622468985362,
+      "content": "What is it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1622468724900,
+      "content": "Hello, we really liked your account and wondered if you\u00e2\u0080\u0099d be interested in cooperating with our brand? @flavoil is the manufacturer of renowned High Oleic Oil, an oil synonymous with health properties and sustainable production.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_846363299592338",
+  "magic_words": [
+    
+  ]
+}

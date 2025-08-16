@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Debbie Kilgour"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1592340873740,
+      "content": "I know its changed",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Debbie Kilgour",
+      "timestamp_ms": 1592340573414,
+      "content": "Offft looks so different!",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2332643208251936359"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Debbie Kilgour",
+  "is_still_participant": true,
+  "thread_path": "inbox/debbiekilgour_553751509352662",
+  "magic_words": [
+    
+  ]
+}

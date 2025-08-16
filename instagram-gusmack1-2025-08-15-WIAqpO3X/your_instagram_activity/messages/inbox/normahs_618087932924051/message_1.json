@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Normah\u00e2\u0080\u0099s"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Normah\u00e2\u0080\u0099s",
+      "timestamp_ms": 1596198807587,
+      "content": "Normah\u00e2\u0080\u0099s sent an attachment.",
+      "share": {
+        "link": "https://payitforward.london.gov.uk/help-normahs-through-the-current-pandemic-1",
+        "share_text": "Without your support, a family business restaurant like us can't survive at this rough time."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Normah\u00e2\u0080\u0099s",
+      "timestamp_ms": 1596198805574,
+      "content": "Hi,",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Normah\u00e2\u0080\u0099s",
+  "is_still_participant": true,
+  "thread_path": "inbox/normahs_618087932924051",
+  "magic_words": [
+    
+  ]
+}

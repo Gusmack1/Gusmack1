@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Ghost Shot"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1658005554839,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2883882006140815179"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1658001979428,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2883852003973895340"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ghost Shot",
+  "is_still_participant": true,
+  "thread_path": "inbox/ghostshot_832991918087565",
+  "magic_words": [
+    
+  ]
+}

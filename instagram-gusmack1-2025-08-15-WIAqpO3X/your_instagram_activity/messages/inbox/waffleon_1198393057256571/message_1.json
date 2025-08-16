@@ -1,0 +1,172 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622630989488,
+      "content": "Perfect",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622630985564,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622630479032,
+      "content": "Maybe the weekend I'll get back to u.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+          "timestamp": 1622630985
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622630425603,
+      "content": "Would this week be goood for you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622630088197,
+      "content": "No problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622630064526,
+      "content": "So i can set it up \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622630040873,
+      "content": "Let me know your availability",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622630030315,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622629535929,
+      "content": "No",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+          "timestamp": 1622630030
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622628222165,
+      "content": "You can visit any review any of our products. Would you be charging for that?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1622629537
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622626031648,
+      "content": "Depends on the requirements",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622626011525,
+      "content": "Hey, usually I would come visit or get sent a product  and if it's good I do a post on my ig. I have full editorial control. Anything out with that there's a charge.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622491949994,
+      "content": "Sure would be waiting",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622452763672,
+      "content": "I'll get back to you, working at the moment \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622447555526,
+      "content": "?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622382331799,
+      "content": "You can tell us how you usually work",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622382316397,
+      "content": "You can visit us to try any of our products",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622382292813,
+      "content": "Sure what did u have in mind?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+      "timestamp_ms": 1622382232625,
+      "content": "Hello \nMy name is Rameel and I represent Waffle On, a family run small dessert place.\nI have been following your profile/blog for a while now and I greatly appreciate the quality of your content. Hence, I find your brand that you have built to be a perfect match for Waffle On, thus I would relish opportunity to collaborate a campaign with you. \nLooking forward to hearing back from you, I wish you well in the meantime.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0091\u00be\u00f0\u009d\u0092\u0082\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u0087\u00f0\u009d\u0092\u008d\u00f0\u009d\u0092\u0086 \u00f0\u009d\u0091\u00b6\u00f0\u009d\u0092\u008f \u00f0\u009f\u00a7\u0087",
+  "is_still_participant": true,
+  "thread_path": "inbox/waffleon_1198393057256571",
+  "magic_words": [
+    
+  ]
+}

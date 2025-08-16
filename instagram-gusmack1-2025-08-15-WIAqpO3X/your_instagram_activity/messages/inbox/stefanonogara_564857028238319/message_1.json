@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Stefano Nogara"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stefano Nogara",
+      "timestamp_ms": 1565215596614,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2105243618562542983"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stefano Nogara",
+  "is_still_participant": true,
+  "thread_path": "inbox/stefanonogara_564857028238319",
+  "magic_words": [
+    
+  ]
+}

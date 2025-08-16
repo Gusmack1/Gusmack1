@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "The A Side"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The A Side",
+      "timestamp_ms": 1553501262581,
+      "content": "The A sent an attachment.",
+      "share": {
+        "link": "https://vivanucci.com/collections/best-sellers"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1553501228659,
+      "content": "U contacted me. Why would I be a great ambassador for your brand?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The A Side",
+      "timestamp_ms": 1553501166921,
+      "content": "All we ask though, is that if we do move ahead together, you tag us in a pic of you wearing it and we will feature you on our page.\n\nSo, in a few sentences, tell us why you think you would be a great ambassador?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The A Side",
+      "timestamp_ms": 1553501159817,
+      "content": "Hey bro!\n\nWe have been reaching out to a few guys like you, who fit our style, to potentially collab.  \n\nWe don\u00e2\u0080\u0099t normally do this, but if decide to work together, we would be happy to offer you 50% off everything in our store, so that you can try out our dope new threads and come onboard as an official ambassador.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1553501139945,
+      "content": "Sent by @vivanucci_managing_team",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1553501110555,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/theaside_562661618459969/photos/53487483_789108741457095_8576160800069825978_n_2822718087962783.jpg",
+          "creation_timestamp": 1602448479
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The A Side",
+  "is_still_participant": true,
+  "thread_path": "inbox/theaside_562661618459969",
+  "magic_words": [
+    
+  ]
+}

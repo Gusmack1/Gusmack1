@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "HypeGrid.io"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "HypeGrid.io",
+      "timestamp_ms": 1665759723409,
+      "content": "Hello from Franchise& and CUPP, \n\nUnfortunately, we've just been informed that our launch date has been delayed. We will be sending out new VIP event date by next week. \n\nWe apologies for any inconvenience and we look forward to seeing you soon. \n\nFranchise& and CUPP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HypeGrid.io",
+      "timestamp_ms": 1665488576659,
+      "content": "\"Hello from Franchise& and CUPP,\n\nCUPP is a UK bubble tea brand, offering premium bubble teas, coffees and iced teas to lovely customers in beautiful stores. CUPP prides itself on using only the best ingredients, fresh fruit purees, organic milk and premium milk alternatives. Serving the tastiest bubble tea in the UK!\n\nNext up \u00e2\u0080\u0093 CUPP are opening a new store on Byres Road, Glasgow and we'd love to invite local influencers!\nIf you're a social media influencer on Instagram, Facebook and Tiktok- we'd love for you to come along to our opening.\n\nYou'll be invited to try CUPP\u00e2\u0080\u0099s tasty bubble teas for free and join for the VIP Day fun, where you can bring a friend along. In return we require exciting content about your CUPP experience, inclusive of a grid post/or reel and a story feature. Other incentives will be available.\n\nPlease let us know if you are available to come along to our VIP Day on Thursday 20th October 2022\nWe look forward to working with you!\n\nTeam Franchise& and CUPP.\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "HypeGrid.io",
+      "timestamp_ms": 1665480852939,
+      "content": "\"Hello from CUPP,\n\nWe are a UK bubble tea brand, offering premium bubble teas, coffees and iced tea's to our lovely customers in our beautiful stores. CUPP prides itself on using only the best ingredients, fresh fruit purees, organic milk and premium milk alternatives. Serving the tastiest bubble tea in the UK!\n\nNext up - we're opening a new store on Bryers road, Glasgow and we'd love to invite local influencers!\nIf you're a social media influencer on Instagram, Facebook and Tiktok, with 2K or more followers - we'd love to chat with you.\n\nYou'll be invited to try our tasty bubble teas and join for the VIP and launch day fun. In return we require exciting content about your CUPP experience, inclusive of a grid post/or reel and a story feature. Other incentives will be available.\n\nIf this is something you'd be interested in please contact our Marketing team at - marketing@cuppbubbletea.co.uk, alternatively DM @cuppbubbletea\n\nWe look forward to working with you!\n\nTeam CUPP\"",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "HypeGrid.io",
+  "is_still_participant": true,
+  "thread_path": "message_requests/hypegridio_898676778185745",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

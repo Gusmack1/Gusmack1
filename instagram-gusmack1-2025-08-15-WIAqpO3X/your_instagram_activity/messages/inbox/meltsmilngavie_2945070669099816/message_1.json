@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Melts Milngavie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Melts Milngavie",
+      "timestamp_ms": 1624528031384,
+      "content": "Of course \u00f0\u009f\u00a4\u00a9\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1624528037
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1624528009273,
+      "content": "Hey this sounds great, can i get back to you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Melts Milngavie",
+      "timestamp_ms": 1623933145995,
+      "content": "Hey ? How do you feel about trying some of our food out for free and do a little colab\u00f0\u009f\u008d\u00a6\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Melts Milngavie",
+  "is_still_participant": true,
+  "thread_path": "inbox/meltsmilngavie_2945070669099816",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Keith Caraway"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1530865906357,
+      "content": "Ur a roaster hahahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Keith Caraway",
+  "is_still_participant": true,
+  "thread_path": "inbox/keithcaraway_565122561550134",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jennifer Rodden"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jennifer Rodden",
+      "timestamp_ms": 1650862441056,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650836894446,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Jennifer Rodden",
+          "timestamp": 1650862441
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jennifer Rodden",
+  "is_still_participant": true,
+  "thread_path": "inbox/jenniferrodden_767550667544791",
+  "magic_words": [
+    
+  ]
+}

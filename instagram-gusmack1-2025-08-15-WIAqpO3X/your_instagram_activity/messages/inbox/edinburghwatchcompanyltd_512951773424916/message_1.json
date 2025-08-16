@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Edinburgh Watch Company Ltd"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Edinburgh Watch Company Ltd",
+      "timestamp_ms": 1545833067981,
+      "content": "Edinburgh sent an attachment.",
+      "share": {
+        "link": "https://edinburghwatchcompany.co.uk/product-category/all",
+        "share_text": "Credit subject to status and affordability. Terms & Conditions Apply. Credit is approved by Hitachi Personal Finance, a division of Hitachi Capital (UK) PLC Authorised and Regulated by the Financial Conduct Authority."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Edinburgh Watch Company Ltd",
+  "is_still_participant": true,
+  "thread_path": "inbox/edinburghwatchcompanyltd_512951773424916",
+  "magic_words": [
+    
+  ]
+}

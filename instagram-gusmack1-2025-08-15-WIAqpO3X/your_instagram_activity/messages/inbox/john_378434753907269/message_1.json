@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "John"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "John",
+      "timestamp_ms": 1647851807284,
+      "content": "Love your feed, loads of places to try now \u00f0\u009f\u0091\u008d\u00f0\u009f\u0091\u008d\u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "John",
+  "is_still_participant": true,
+  "thread_path": "inbox/john_378434753907269",
+  "magic_words": [
+    
+  ]
+}

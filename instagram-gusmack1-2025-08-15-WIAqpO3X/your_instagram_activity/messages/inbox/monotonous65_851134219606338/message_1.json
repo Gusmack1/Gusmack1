@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Monotonous 65"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1660505059644,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Monotonous 65",
+  "is_still_participant": true,
+  "thread_path": "inbox/monotonous65_851134219606338",
+  "magic_words": [
+    
+  ]
+}

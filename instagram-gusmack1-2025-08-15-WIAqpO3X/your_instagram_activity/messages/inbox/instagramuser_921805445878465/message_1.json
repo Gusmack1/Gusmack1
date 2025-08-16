@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1661763563735,
+      "content": "Thats great Gus, thank you! I'll get this ordered for you today! x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1661763576
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1661453235645,
+      "content": "My address is 32 Menteith avenue bishopbriggs Glasgow G641HP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1661453179755,
+      "content": "Hey Tory, that would be great. I love a good whisky x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1661444274218,
+      "content": "Hi Gus!\n\nHow are you? I\u00e2\u0080\u0099m reaching out on behalf of my client @spearheadwhisky, a non-traditional new whisky brand that form part of the Loch Lomond Group! Spearhead is a much sweeter, lighter whisky and is amazing in cocktails! We love your page and would love to send you out a PR package including samples and their new merchandise to try out! \u00f0\u009f\u00a5\u0083\n\nPlease let me know if this is something that you would be interested in!\n\nThanks\n\nTory x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1661453218
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_921805445878465",
+  "magic_words": [
+    
+  ]
+}

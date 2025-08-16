@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "If Kenz was a Food Blogger..."
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1610130032386,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "If Kenz was a Food Blogger...",
+      "timestamp_ms": 1610036090694,
+      "content": "Don\u00e2\u0080\u0099t listen to the haters \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 Pakora on a pizza is also a treat!! Best of both worlds/no need to choose between takeaways!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1610130033
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2481478214742394015"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "If Kenz was a Food Blogger...",
+  "is_still_participant": true,
+  "thread_path": "inbox/ifkenzwasafoodblogger_518689422851151",
+  "magic_words": [
+    
+  ]
+}

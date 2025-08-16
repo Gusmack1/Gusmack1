@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Shanice"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shanice",
+      "timestamp_ms": 1588537995134,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1588537705623,
+      "content": "Hahaha thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Shanice"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Shanice",
+      "timestamp_ms": 1588535615564,
+      "content": "Oh wow if a profile has ever made me hungry before it\u00e2\u0080\u0099s yours \u00f0\u009f\u0098\u0082\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bc",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shanice",
+  "is_still_participant": true,
+  "thread_path": "inbox/shanice_511787753541318",
+  "magic_words": [
+    
+  ]
+}

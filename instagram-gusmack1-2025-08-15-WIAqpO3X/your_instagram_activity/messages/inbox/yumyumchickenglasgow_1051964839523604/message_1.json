@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Yum Yum Chicken | Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157740337,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1684776826164,
+      "content": "Awww can't make it sorry. I'm not in the UK at the moment. Hopefully I have the opportunity to work with you guys when I'm back. Hope the launch is fantastic. \n\n\u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Yum Yum Chicken | Glasgow",
+      "timestamp_ms": 1684523547307,
+      "content": "Good evening, \n\nWe\u00e2\u0080\u0099d like to invite you to the exclusive launch of Bing Bang Bosh on May 26th at 4:30pm. Experience our innovative menu and connect with other food enthusiasts and content creators. \n\nAs a thank you, we'll provide you with a complimentary meal in exchange for an honest social media review. RSVP to this email to mark your interest and availability. \n\nWarm regards, \n\nChristophe \nBing Bang Bosh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Yum Yum Chicken | Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/yumyumchickenglasgow_1051964839523604",
+  "magic_words": [
+    
+  ]
+}

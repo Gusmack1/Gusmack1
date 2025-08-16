@@ -1,0 +1,94 @@
+{
+  "participants": [
+    {
+      "name": "Rita"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1590939656054,
+      "content": "I can't collect \u00f0\u009f\u0098\u009e",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rita",
+      "timestamp_ms": 1590933926835,
+      "content": "I can do Thursday or Friday?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rita",
+      "timestamp_ms": 1590933882626,
+      "content": "Are you able to collect I\u00e2\u0080\u0099m in giffnock?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1590933148035,
+      "content": "You can deliver if u can. I live in bishopbriggs and any day suits",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1590933004112,
+      "content": "What is it I do? Lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rita",
+      "timestamp_ms": 1590932976215,
+      "content": "Aw fab! What day would suit you best?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rita",
+      "timestamp_ms": 1590932975730,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1590932708624,
+      "content": "I love Indian food",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Rita"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1590932698567,
+      "content": "Sure that would be great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rita",
+      "timestamp_ms": 1590932458858,
+      "content": "Hey I hope your well, I was wondering if you\u00e2\u0080\u0099d be interested in collaborating? We offer a range of authentic Indian food and desserts, would you like to try some in return for sharing my page with your followers?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rita",
+  "is_still_participant": true,
+  "thread_path": "inbox/rita_512901453429948",
+  "magic_words": [
+    
+  ]
+}

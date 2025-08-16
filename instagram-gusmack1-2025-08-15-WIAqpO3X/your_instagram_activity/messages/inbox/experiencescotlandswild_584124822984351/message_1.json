@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Experience Scotland's Wild"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Experience Scotland's Wild",
+      "timestamp_ms": 1590328669037,
+      "content": "Experience sent an attachment.",
+      "share": {
+        "link": "http://www.scotlandswild.com/",
+        "share_text": "5 Star Active Sightseeing Tours in Loch Lomond and the Trossachs National park. Extra small group tours focusing on exploring Scotland."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Experience Scotland's Wild",
+  "is_still_participant": true,
+  "thread_path": "inbox/experiencescotlandswild_584124822984351",
+  "magic_words": [
+    
+  ]
+}

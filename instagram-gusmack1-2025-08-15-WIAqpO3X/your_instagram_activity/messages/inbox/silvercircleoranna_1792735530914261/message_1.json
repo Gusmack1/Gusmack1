@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Silver Circle -- Or Anna"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632939056201,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Silver Circle -- Or Anna",
+  "is_still_participant": true,
+  "thread_path": "inbox/silvercircleoranna_1792735530914261",
+  "magic_words": [
+    
+  ]
+}

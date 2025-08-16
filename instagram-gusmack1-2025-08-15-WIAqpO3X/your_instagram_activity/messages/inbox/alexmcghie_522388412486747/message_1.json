@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Alex McGhie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1535309451048,
+      "content": "Immigrants",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alex McGhie",
+  "is_still_participant": true,
+  "thread_path": "inbox/alexmcghie_522388412486747",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0094\u0084\u00f0\u009d\u0094\u00aa\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00a9\u00f0\u009d\u0094\u00a6\u00f0\u009d\u0094\u009e \u00e2\u0098\u0085\u00f0\u009f\u008d\u0092 \u00f0\u009d\u0094\u0085\u00f0\u009d\u0094\u009e\u00f0\u009d\u0094\u00b6\u00f0\u009d\u0094\u00a9\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00af \u00e2\u0098\u0085\u00f0\u009f\u008d\u0092"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561735821824,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0094\u0084\u00f0\u009d\u0094\u00aa\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00a9\u00f0\u009d\u0094\u00a6\u00f0\u009d\u0094\u009e \u00e2\u0098\u0085\u00f0\u009f\u008d\u0092 \u00f0\u009d\u0094\u0085\u00f0\u009d\u0094\u009e\u00f0\u009d\u0094\u00b6\u00f0\u009d\u0094\u00a9\u00f0\u009d\u0094\u00a2\u00f0\u009d\u0094\u00af \u00e2\u0098\u0085\u00f0\u009f\u008d\u0092",
+  "is_still_participant": true,
+  "thread_path": "inbox/ameliabayler_554842002577976",
+  "magic_words": [
+    
+  ]
+}

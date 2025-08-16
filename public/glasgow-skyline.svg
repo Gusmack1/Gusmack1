@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 300" role="img" aria-label="Glasgow skyline silhouette">
+  <rect width="1600" height="300" fill="none"/>
+  <g fill="#023059">
+    <path d="M0 260h80v-30h40v-20h60v50h50v-80h50v60h70v-40h60v40h50v-55h40v35h60v25h70v-60h50v60h60v-40h50v40h60v-70h40v70h60v-45h60v45h60v-30h60v30h100v40H0z" opacity="0.9"/>
+    <path d="M0 276h100v-36h60v-22h40v58h80v-72h60v50h80v-44h60v44h60v-64h40v44h60v20h100v26H0z" opacity="0.6"/>
+  </g>
+</svg>
+

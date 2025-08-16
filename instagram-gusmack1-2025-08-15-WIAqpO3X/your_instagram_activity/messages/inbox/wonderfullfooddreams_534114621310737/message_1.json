@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Wonderfull Food Dreams"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Wonderfull Food Dreams",
+      "timestamp_ms": 1606396688961,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Wonderfull Food Dreams",
+      "timestamp_ms": 1606396608747,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Wonderfull Food Dreams",
+  "is_still_participant": true,
+  "thread_path": "inbox/wonderfullfooddreams_534114621310737",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Italiano.br"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Italiano.br",
+      "timestamp_ms": 1595017931932,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/italiano.br/2355503584530707794"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Italiano.br",
+  "is_still_participant": true,
+  "thread_path": "inbox/italianobr_511121756941251",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "participants": [
+    {
+      "name": "glaeats"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "glaeats",
+      "timestamp_ms": 1607258539629,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1607274017
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "glaeats",
+      "timestamp_ms": 1606671081266,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1606671259
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2453256526057771405"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "glaeats",
+      "timestamp_ms": 1606329870257,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1606330736
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "glaeats",
+  "is_still_participant": true,
+  "thread_path": "inbox/glaeats_522393532480740",
+  "magic_words": [
+    
+  ]
+}

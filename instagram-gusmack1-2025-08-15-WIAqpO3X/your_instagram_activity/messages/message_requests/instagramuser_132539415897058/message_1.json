@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1665197890077,
+      "content": "Hey dear\u00f0\u009f\u0098\u008a! @gemifulbrand is currently looking for Models/Ambassadors to wear their newest jewelry collection \u00e2\u009a\u00a1\u00ef\u00b8\u008f\n\nBy being an ambassador, you will get 3 FREE JEWELRY\u00e2\u009c\u00a8 huge exposure and plus lots of other amazing benefits!\n\nDM \"Collab\" to the main page @gemifulbrand to find out more about this opportunity!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1665197889481,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/gemifulbrand",
+        "profile_share_username": "gemifulbrand",
+        "profile_share_name": "We Are Gemiful"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1665197888889,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_132539415897058",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0097\u009a\u00f0\u009d\u009f\u00b2\u00f0\u009d\u009f\u00b5"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009d\u0097\u009a\u00f0\u009d\u009f\u00b2\u00f0\u009d\u009f\u00b5",
+      "timestamp_ms": 1672837288486,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/message_requests/g69_1036092917793342/photos/323333304_1560449911091223_550781693634947201_n_698677995253903.jpg",
+          "creation_timestamp": 1672837287
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0097\u009a\u00f0\u009d\u009f\u00b2\u00f0\u009d\u009f\u00b5",
+      "timestamp_ms": 1672837279199,
+      "content": "Hello \u00f0\u009f\u0098\u0083\nWe would love to invite you along to our brand relaunch on Thursday the 5th of January. Join us for an evening celebrating our collection with a few drinks, good food and DJ James Slaven \u00f0\u009f\u0098\u008e\u00f0\u009f\u00a5\u0082 We will also be joined by Urban Funk Barbers and Praline by Alex Gibb \u00f0\u009f\u00a5\u00b3\n\n\nSee you there! \nMark, founder of G69 Clothing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0097\u009a\u00f0\u009d\u009f\u00b2\u00f0\u009d\u009f\u00b5",
+  "is_still_participant": true,
+  "thread_path": "message_requests/g69_1036092917793342",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

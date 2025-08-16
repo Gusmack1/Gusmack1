@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Ochickenaus"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ochickenaus",
+      "timestamp_ms": 1741074504634,
+      "content": "Hello,we are Ochicken,a fried chicken restaurant! We would like to invite you to collaborate with us.All you need to do is come to our store,taste our fried chicken,and post a video of your tasting experience on instagram.If you are interested in collaborating,please reply to us with your preferred way of cooperation.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ochickenaus",
+  "is_still_participant": true,
+  "thread_path": "message_requests/ochickenaus_1482877726432311",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

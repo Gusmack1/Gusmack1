@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Great Snacks"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1664226508614,
+      "content": "32 Menteith avenue bishopbriggs Glasgow G641HP. Sure send loads hahaha Ty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Great Snacks",
+      "timestamp_ms": 1664224593445,
+      "content": "Would be interesting to hear some honest feedback.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Great Snacks",
+      "timestamp_ms": 1664224571589,
+      "content": "Let me know if you're up for reviewing our snacks. Drop me your address and I'll send you some.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Great Snacks",
+  "is_still_participant": true,
+  "thread_path": "inbox/greatsnacks_886051762781580",
+  "magic_words": [
+    
+  ]
+}

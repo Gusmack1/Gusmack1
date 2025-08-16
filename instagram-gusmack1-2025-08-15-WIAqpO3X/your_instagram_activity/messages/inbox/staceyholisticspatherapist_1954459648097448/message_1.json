@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Stacey - Holistic/Spa Therapist"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stacey - Holistic/Spa Therapist",
+      "timestamp_ms": 1641909475539,
+      "content": "Hey! \nThanks for following! Hope you\u00e2\u0080\u0099re well\nX",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stacey - Holistic/Spa Therapist",
+  "is_still_participant": true,
+  "thread_path": "inbox/staceyholisticspatherapist_1954459648097448",
+  "magic_words": [
+    
+  ]
+}

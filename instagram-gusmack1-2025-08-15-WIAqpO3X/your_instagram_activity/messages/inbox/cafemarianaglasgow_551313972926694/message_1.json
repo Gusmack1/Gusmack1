@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Cafe Mariana Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cafe Mariana Glasgow",
+      "timestamp_ms": 1594820431606,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cafe Mariana Glasgow",
+      "timestamp_ms": 1594820429003,
+      "content": "Thanks for contacting Cafe Mariana, We will respond to your message as soon as possible.\nIf this is a resevation request please call on 0141 776 7777 or visit https://www.cafemariana.co.uk/contact",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594820427785,
+      "content": "No problem \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cafe Mariana Glasgow",
+      "timestamp_ms": 1594820417844,
+      "content": "Thanks for sharing!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cafe Mariana Glasgow",
+      "timestamp_ms": 1594820412110,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594820259577,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Cafe Mariana Glasgow"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2353845392641468822"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cafe Mariana Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/cafemarianaglasgow_551313972926694",
+  "magic_words": [
+    
+  ]
+}

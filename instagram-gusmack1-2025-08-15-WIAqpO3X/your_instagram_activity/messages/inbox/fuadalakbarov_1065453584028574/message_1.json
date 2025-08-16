@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Fuad Alakbarov"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fuad Alakbarov",
+      "timestamp_ms": 1645004274508,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/fuadalakbarov_1065453584028574/audio/audioclip164500427400016695_471116601311408.mp4",
+          "creation_timestamp": 1645004274
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fuad Alakbarov",
+      "timestamp_ms": 1645004228812,
+      "audio_files": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/fuadalakbarov_1065453584028574/audio/audioclip16450042280009799_368192258144481.mp4",
+          "creation_timestamp": 1645004228
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fuad Alakbarov",
+      "timestamp_ms": 1645004177723,
+      "content": "Made me sick)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645004170524,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fuad Alakbarov",
+      "timestamp_ms": 1645004093737,
+      "content": "Awful",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2774817574492839828"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fuad Alakbarov",
+  "is_still_participant": true,
+  "thread_path": "inbox/fuadalakbarov_1065453584028574",
+  "magic_words": [
+    
+  ]
+}

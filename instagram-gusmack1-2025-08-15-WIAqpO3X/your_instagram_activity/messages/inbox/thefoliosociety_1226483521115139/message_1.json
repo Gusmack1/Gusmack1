@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "The Folio Society"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1705524531730,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3282500103514639833"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Folio Society",
+      "timestamp_ms": 1701770859852,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1701721307089,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Folio Society",
+          "timestamp": 1701770859
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3250596335080922801"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1619271385003,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2558956278649861112"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Folio Society",
+  "is_still_participant": true,
+  "thread_path": "inbox/thefoliosociety_1226483521115139",
+  "magic_words": [
+    
+  ]
+}

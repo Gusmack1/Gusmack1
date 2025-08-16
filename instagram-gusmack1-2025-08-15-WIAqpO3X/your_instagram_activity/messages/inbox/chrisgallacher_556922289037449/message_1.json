@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Chris Gallacher"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Gallacher",
+      "timestamp_ms": 1570446111910,
+      "content": "I\u00e2\u0080\u0099m open to offers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gallacher",
+      "timestamp_ms": 1570441609470,
+      "content": "Ok thanks \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1570406225085,
+      "content": "I'll come back to u",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1570404304294,
+      "content": "Oooft cool enjoy ur work \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Gallacher",
+      "timestamp_ms": 1570403259223,
+      "content": "Hi gus,thanks for enquiring about the price of the table I make bespoke furniture and the table is a one off it costs \u00c2\u00a3800",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chris Gallacher",
+  "is_still_participant": true,
+  "thread_path": "inbox/chrisgallacher_556922289037449",
+  "magic_words": [
+    
+  ]
+}

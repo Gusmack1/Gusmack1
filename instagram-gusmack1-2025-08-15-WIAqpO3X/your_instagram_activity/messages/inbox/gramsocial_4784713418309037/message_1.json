@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Gram Social"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Gram Social",
+      "timestamp_ms": 1644485436618,
+      "content": "Perfect, I just let me know and I'll get you booked in \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1644493469
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gram Social",
+      "timestamp_ms": 1644485402885,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1644428418085,
+      "content": "Hi Pam, no trouble at all. Back in the office next week so i will give u a shout on my availability. Possibly Friday the 18th.\n\nGus\n\u00f0\u009f\u008e\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Gram Social",
+          "timestamp": 1644485402
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gram Social",
+      "timestamp_ms": 1644407746348,
+      "content": "Hey Gus, I hope you don\u00e2\u0080\u0099t mind our reaching out to you. We are currently working with the delicious @yayasglasgow who do the most delicious Kebabs and Piri Piri Chicken ever! And the guys would love to invite you in this month if you would like to stop by and pick up a lovely dinner for two. They have locations at Paisley Road West & Fenwick Road.\n\n\nIf you would like to pop in just let me know and I can arrange this for you.\u00c2\u00a0\n\nThanks\u00c2\u00a0\n\nPam\u00f0\u009f\u008d\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gram Social",
+  "is_still_participant": true,
+  "thread_path": "inbox/gramsocial_4784713418309037",
+  "magic_words": [
+    
+  ]
+}

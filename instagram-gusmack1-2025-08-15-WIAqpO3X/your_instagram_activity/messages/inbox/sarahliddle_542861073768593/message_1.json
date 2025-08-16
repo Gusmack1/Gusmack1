@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sarah Liddle"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1554752232447,
+      "content": "Smoking x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarah Liddle",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarahliddle_542861073768593",
+  "magic_words": [
+    
+  ]
+}

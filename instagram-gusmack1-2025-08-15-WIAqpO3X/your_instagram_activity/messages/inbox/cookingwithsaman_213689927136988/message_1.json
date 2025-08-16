@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "cookingwithsaman"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "cookingwithsaman",
+      "timestamp_ms": 1623790955021,
+      "content": "https://youtu.be/gk2q9C9yCsM",
+      "share": {
+        "link": "https://youtu.be/gk2q9C9yCsM"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "cookingwithsaman",
+      "timestamp_ms": 1623790954398,
+      "content": "Please subscribe my Channel \nYou're support means a lot \u00f0\u009f\u0098\u008a.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "cookingwithsaman",
+      "timestamp_ms": 1623790952024,
+      "content": "Very nice posts! We should support each other by subscribing each others channels\u00f0\u009f\u00a5\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "cookingwithsaman",
+  "is_still_participant": true,
+  "thread_path": "inbox/cookingwithsaman_213689927136988",
+  "magic_words": [
+    
+  ]
+}

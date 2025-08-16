@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "OLD ACCOUNT - Follow @chaophrayathai"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "OLD ACCOUNT - Follow @chaophrayathai",
+      "timestamp_ms": 1616690537112,
+      "content": "Leave this with me Gus, I\u00e2\u0080\u0099ll speak to the guys at Glasgow and have this arranged for you \u00f0\u009f\u0098\u008a\u00f0\u009f\u0099\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1616705673
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1616504234350,
+      "content": "Yeah I'm Glasgow based \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "OLD ACCOUNT - Follow @chaophrayathai",
+      "timestamp_ms": 1616502548826,
+      "content": "Amazing news \u00f0\u009f\u0098\u008a\n\nDelighted to hear you\u00e2\u0080\u0099d like to be involved! \n\nSo silly me, I\u00e2\u0080\u0099ve just realised you\u00e2\u0080\u0099re based in Glasgow and not Aberdeen! Is this correct? \n\nIf this is the case, I will ask the Business Development Manager at Glasgow to contact you and pick up where we left \u00f0\u009f\u0099\u008f\u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1616167680029,
+      "content": "I would love to join you and my community would love to see and hear about you guys. I have visited the chaophraya in Glasgow (if you guys are the same co) and it was fantastic. Especially the cocktails lol \n\nLook forward to hearing back from you \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "OLD ACCOUNT - Follow @chaophrayathai",
+      "timestamp_ms": 1616166964570,
+      "content": "Hey Gus! \n\nLuke here, part of the Business Development team for Chaophraya \u00f0\u009f\u0098\u008a\n\nWe are looking for the most engaged social influencers across the city who would like to help us spread the word about our brand and share our passion for food and drink to our community.\nIn this new chapter for Chaophraya we aim to provide our service excellence with our takeaway/delivery service so you can enjoy the taste of Thai from your own home.\n\nOur invitation to you, is to join our Chaophraya family and take part in receiving a complimentary Chaophraya Dine at Home package up to the value of \u00c2\u00a340, followed by sharing your experience to your online community via an Instagram grid post and story with use of aesthetically pleasing images of your experience / order that we can re-share on our social channels \u00f0\u009f\u0098\u008a\n\nYour passion and enthusiasm for creating content for your followers is inspiring and it would be an honour if you would join us on this venture.\n\nSpeak soon! \n\nLuke Brophy",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1616167535
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1562916961650,
+      "content": "Np",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "OLD ACCOUNT - Follow @chaophrayathai",
+      "timestamp_ms": 1562916761803,
+      "content": "Thank you \u00f0\u009f\u0099\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "OLD ACCOUNT - Follow @chaophrayathai",
+  "is_still_participant": true,
+  "thread_path": "inbox/oldaccountfollowchaophrayathai_570163024378754",
+  "magic_words": [
+    
+  ]
+}

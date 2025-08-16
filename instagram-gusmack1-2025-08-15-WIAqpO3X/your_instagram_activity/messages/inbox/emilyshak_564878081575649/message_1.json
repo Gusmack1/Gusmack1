@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "E M I L Y S H A K"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582506512723,
+      "content": "Congratulations",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "E M I L Y S H A K",
+  "is_still_participant": true,
+  "thread_path": "inbox/emilyshak_564878081575649",
+  "magic_words": [
+    
+  ]
+}

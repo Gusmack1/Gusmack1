@@ -1,0 +1,5 @@
+[33m505a98b[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m Remove all reviews and review functionality - Clean build ready for deployment
+[33m0285f61[m feat(review): research-backed Kimchi Cult review with Glasgow context, dish highlights, comparisons, and practical info
+[33m06d16ca[m feat(reviews): refine to original structured analysis and expand to 5k words
+[33m264f4db[m feat: add expanded batch of website-sourced reviews
+[33m741e2f5[m fix(scraper): use Cheerio<any> type to satisfy TS across cheerio versions

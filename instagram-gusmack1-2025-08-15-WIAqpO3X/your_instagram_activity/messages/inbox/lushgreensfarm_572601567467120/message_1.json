@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Lush Greens Farm"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lush Greens Farm",
+      "timestamp_ms": 1559323704382,
+      "content": "Nice!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1559320938233,
+      "content": "Nice one will do. Should be back soon :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lush Greens Farm",
+      "timestamp_ms": 1559320900266,
+      "content": "Cool! Next time let us know and we\u00e2\u0080\u0099ll hook you up with some micros",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1559320830442,
+      "content": "Was over visiting my sis but back in Glasgow now \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lush Greens Farm",
+      "timestamp_ms": 1559320751548,
+      "content": "Hey! Love all the food photos! Are you located in Florida at all?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lush Greens Farm",
+  "is_still_participant": true,
+  "thread_path": "inbox/lushgreensfarm_572601567467120",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "Miller & Carter Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679307038301,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1593525334067,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2342982763580521756"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1589376823359,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2308182513309559256"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578446995680,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2216496491178433959"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1577982380322,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2212598994131239834"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1564077733412,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2095958384616814128"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1562063563081,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2079062295053843577"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miller & Carter Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/millercarterglasgow_535713654488133",
+  "magic_words": [
+    
+  ]
+}

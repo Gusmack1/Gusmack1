@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Michael Harrison"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1556826178248,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2035127931794406879"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Michael Harrison",
+  "is_still_participant": true,
+  "thread_path": "inbox/michaelharrison_542635273803436",
+  "magic_words": [
+    
+  ]
+}

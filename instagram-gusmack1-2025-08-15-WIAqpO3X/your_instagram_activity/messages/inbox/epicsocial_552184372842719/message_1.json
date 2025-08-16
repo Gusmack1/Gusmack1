@@ -1,0 +1,92 @@
+{
+  "participants": [
+    {
+      "name": "Epic Social"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Epic Social",
+      "timestamp_ms": 1586949989578,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1586949919358,
+      "content": "No problem thanks \u00f0\u009f\u0098\u0083",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Epic Social"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Epic Social",
+      "timestamp_ms": 1586941066418,
+      "content": "Hi Gus, unfortunately this isn't a paid promotion just a gifted one on this occasion. Thank you for getting back to me though! x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1586880945299,
+      "content": "Hi no problem. The nearest GDK to me is renfield Street in Glasgow and I would use uber eats \u00f0\u009f\u0098\u0081. I just read the message again and this type of promotion would cost \u00c2\u00a3100 so I can send you an invoice once it's done with the analytics. X",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Epic Social",
+      "timestamp_ms": 1586877458144,
+      "content": "Hi Gus thanks so much for getting back to me!\n\nAll I need from you is your local GDK store and whether you\u00e2\u0080\u0099d prefer to use ubereats or deliveroo \u00f0\u009f\u0098\u0084 xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Epic Social",
+      "timestamp_ms": 1586877402985,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1586877117504,
+      "content": "Sounds great yeah send away and I'll sort you guys out \u00f0\u009f\u0098\u0081\u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Epic Social"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Epic Social",
+      "timestamp_ms": 1586861920083,
+      "content": "Hi Gus! \n\nI have some great news that will hopefully bring some fun to your day during these hard times locked up inside! GDK are launching their brand-new Boss Box meal very soon that is a delivery only exclusive and we would love for you all to try it!! \u00f0\u009f\u008e\u0089\n\nThe Boss Box includes kebab, fries, a portion of Doner spring rolls, 3 sauces and a slimline drink. An amazing unique box meal delivered straight to your door by either Deliveroo or Uber Eats! I will provide you with a unique code that will allow you to get this meal for free when entered into Deliveroo/Uber Eats.\n\nThis gifted meal would be in exchange for an Instagram feed post of the boss box and/or you, along with the relevant hashtags which I will provide. If you would be interested in this great offer let me know and I'll arrange this for you!\n\nThanks,\n\nKatie xxx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Epic Social",
+  "is_still_participant": true,
+  "thread_path": "inbox/epicsocial_552184372842719",
+  "magic_words": [
+    
+  ]
+}

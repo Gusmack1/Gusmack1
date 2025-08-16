@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Karl connolly"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1591889949019,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2329264140408210682"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Karl connolly",
+  "is_still_participant": true,
+  "thread_path": "inbox/karlconnolly_546777300058180",
+  "magic_words": [
+    
+  ]
+}

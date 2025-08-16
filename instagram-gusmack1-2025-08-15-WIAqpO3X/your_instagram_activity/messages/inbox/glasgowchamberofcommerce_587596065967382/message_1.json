@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Glasgow Chamber of Commerce"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1659451076523,
+      "content": "Hey, I think u have the wrong account.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow Chamber of Commerce",
+      "timestamp_ms": 1659439424767,
+      "content": "Hi Gus,\n\nI am writing to hopefully gain your support for @DYWGlasgow\u00e2\u0080\u0099s #NoWrongPath campaign and help us reassure young Scots this exam day that there\u00e2\u0080\u0099s #NoWrongPath to success. We aim to demonstrate that many people within interesting job roles across Scotland may not have taken a traditional path to get there!\n\nWe\u00e2\u0080\u0099d love if you could take a short video or picture with advice and your own journey to success for all those receiving their exam results. If you could share it on your story or feed on Tues 9 August using #NoWrongPath and tagging @DYWGlasgow that would be fantastic, or we would also be happy for you to send it to us and we can post it on our channels.\n\nAll the info is on http://nowrongpath.scot or just drop me a message Iona.Clarke@glasgowchamberofcommerce.com\n\nWe would be delighted to have your involvement as Scottish young people need our support more than ever this results day!\n\nThank you so much,\n\nIona",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1597399579067,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Glasgow Chamber of Commerce",
+  "is_still_participant": true,
+  "thread_path": "inbox/glasgowchamberofcommerce_587596065967382",
+  "magic_words": [
+    
+  ]
+}

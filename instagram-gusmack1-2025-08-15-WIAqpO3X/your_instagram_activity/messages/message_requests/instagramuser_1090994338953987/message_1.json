@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690407680677,
+      "content": "Hello there! This is Lea, representing @aurorajewelsoff, a stunning jewelry brand that believes in the power of elegance and sophistication.\r\n\r\n\r\nYour profile has truly caught our attention with its captivating charm and unique appeal. We are absolutely fascinated and would be thrilled to collaborate with you. To express our appreciation, we would like to offer you some of our remarkable jewelry pieces completely free of charge.\r\n\r\nIf you're as excited as we are, simply send us a message on our official Instagram page @aurorajewelsoff. We can't wait to hear from you and embark on this incredible journey together.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1690407680077,
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1090994338953987",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

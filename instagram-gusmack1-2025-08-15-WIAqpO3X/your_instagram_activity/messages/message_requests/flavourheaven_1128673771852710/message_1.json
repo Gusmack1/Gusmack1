@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Flavour Heaven"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Flavour Heaven",
+      "timestamp_ms": 1702681830284,
+      "content": "Please follow this account. A perfect Christmas gift for car lovers.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flavour Heaven",
+      "timestamp_ms": 1702681830023,
+      "content": "Flavour sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/autoregonline",
+        "profile_share_username": "autoregonline",
+        "profile_share_name": "Auto Reg Online"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Flavour Heaven",
+  "is_still_participant": true,
+  "thread_path": "message_requests/flavourheaven_1128673771852710",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

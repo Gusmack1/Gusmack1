@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Pauline \u00f0\u009f\u008c\u00bb"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Pauline \u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1582792377613,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582762779017,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Pauline \u00f0\u009f\u008c\u00bb"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Pauline \u00f0\u009f\u008c\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/pauline_545273300208292",
+  "magic_words": [
+    
+  ]
+}

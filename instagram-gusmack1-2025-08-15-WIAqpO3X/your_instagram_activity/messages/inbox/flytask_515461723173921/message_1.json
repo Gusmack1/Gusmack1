@@ -1,0 +1,52 @@
+{
+  "participants": [
+    {
+      "name": "Flytask"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Flytask",
+      "timestamp_ms": 1620290491901,
+      "content": "Hi Guys! \n\nAs the UK hospitality industry reopens, it really does feel like the industry is ready to bounce back from the pandemic once and for all. Make sure your venue is focusing on the best ways to streamline operations, improve your marketing and save money as you reopen and rebuild your business.\n\nDownload our FREE guide for hospitality businesses which includes:\u00c2\u00a0\n\n\u00e2\u0096\u00aa\u00ef\u00b8\u008fTop 5 general tips on how to rebuild in 2021\n\u00e2\u0096\u00aa\u00ef\u00b8\u008fHow to utilise marketing techniques to acquire and engage a strong customer base\n\u00e2\u0096\u00aa\u00ef\u00b8\u008fUsing social media to grow your business\n\u00e2\u0096\u00aa\u00ef\u00b8\u008fHow to use open banking to cut costs and improve the customer experience\n\nTo download this complimentary guide today, click the link below.\u00c2\u00a0\n\nhttps://bit.ly/yoello",
+      "share": {
+        "link": "https://bit.ly/yoello"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flytask",
+      "timestamp_ms": 1618052274011,
+      "content": "Hey guys! We seen one of your amazing customers has nominated you for our \u00c2\u00a330,000 hospitality reopening giveaway! \u00f0\u009f\u008d\u00bb\u00f0\u009f\u0094\u00a5\n\nIf you want to enter this giveaway make sure you use this link below and sign up so we can contact you if you win, remember there\u00e2\u0080\u0099s only 1 days left \u00f0\u009f\u0092\u009b \n\nhttps://giveaway.yoello.com",
+      "share": {
+        "link": "https://giveaway.yoello.com/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1617182498899,
+      "content": "Me",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Flytask",
+      "timestamp_ms": 1617182194403,
+      "content": "Hi Gus, I just wanted to reach out to you as we have a \u00c2\u00a330,000 hospitality competition on at the moment and would love if you could share/tag any hospitality venues you think deserve this prize \u00f0\u009f\u008d\u00ba\u00f0\u009f\u0092\u00b8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Flytask",
+  "is_still_participant": true,
+  "thread_path": "inbox/flytask_515461723173921",
+  "magic_words": [
+    
+  ]
+}

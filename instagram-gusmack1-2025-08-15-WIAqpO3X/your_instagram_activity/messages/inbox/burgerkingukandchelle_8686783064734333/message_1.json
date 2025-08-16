@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Burger King UK"
+    },
+    {
+      "name": "Chelle"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chelle",
+      "timestamp_ms": 1730917242202,
+      "share": {
+        "link": "https://instagram.com/stories/foodie_girl_adventures/3495509475491958411"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Burger King UK and Chelle",
+  "is_still_participant": true,
+  "thread_path": "inbox/burgerkingukandchelle_8686783064734333",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  }
+}

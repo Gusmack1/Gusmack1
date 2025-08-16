@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u009c"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u009c",
+      "timestamp_ms": 1557082948361,
+      "content": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u009c sent an attachment.",
+      "share": {
+        "link": "https://www.pubgmobile.com/en/event/bargain/?module=1007000&uid=5240897608&orderid=295642781&name=Aminjan1999&src=system&adjust_t=1ccqjjq_28blkbm&adjust_deeplink=igame1320%3A%2F%2Fmodule%3D1007000%26uid%3D5240897608%26orderid%3D295642781%26name%3DAminjan1999%26src%3Dsystem&region=gl",
+        "share_text": "Please help me with purchasing this item at a discount!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u009c",
+  "is_still_participant": true,
+  "thread_path": "inbox/601060661294273",
+  "magic_words": [
+    
+  ]
+}

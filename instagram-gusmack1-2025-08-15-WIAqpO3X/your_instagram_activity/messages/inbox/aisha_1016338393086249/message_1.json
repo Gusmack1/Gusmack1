@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "AISHA \u00f0\u009f\u00a4\u008e"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "AISHA \u00f0\u009f\u00a4\u008e",
+      "timestamp_ms": 1679250919691,
+      "content": "It was so good!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "AISHA \u00f0\u009f\u00a4\u008e",
+      "timestamp_ms": 1679250906881,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679160122650,
+      "content": "You shared a story.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "AISHA \u00f0\u009f\u00a4\u008e",
+          "timestamp": 1679250906
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AISHA \u00f0\u009f\u00a4\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/aisha_1016338393086249",
+  "magic_words": [
+    
+  ]
+}

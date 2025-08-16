@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Lido Troon"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679163366492,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lido Troon",
+  "is_still_participant": true,
+  "thread_path": "inbox/lidotroon_1139645060761245",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ashley\u00e2\u0080\u0099s Yummy Eats"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582242412988,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ashley\u00e2\u0080\u0099s Yummy Eats",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashleysyummyeats_286111549556064",
+  "magic_words": [
+    
+  ]
+}

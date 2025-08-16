@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "MEDI ME UK"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MEDI ME UK",
+      "timestamp_ms": 1648804602188,
+      "share": {
+        "original_content_owner": "medime_uk"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "MEDI ME UK",
+      "timestamp_ms": 1648404238846,
+      "content": "Hello,\nThanks for following us. We are happy to assist if you are interested in any of our services.\nBest regards \nMaral Tasciyan \nDirector",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MEDI ME UK",
+  "is_still_participant": true,
+  "thread_path": "inbox/medimeuk_848723746526547",
+  "magic_words": [
+    
+  ]
+}

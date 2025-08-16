@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "swishers42067"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662393933951,
+      "content": "I paid 15 for a 16 inch Donner yesterday it was bangin. Had the rest of it for lunch",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662393862612,
+      "content": "Aye mate Dyno",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "swishers42067",
+      "timestamp_ms": 1662393832753,
+      "content": "Sizzlers my go to, onions off n hot dogs on haha was 12 quid for a large yesterday pure fireee",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662393564483,
+      "content": "Aye, I usually take the onion and mushrooms off a mighty meaty and get extra cheese and hotdogs on it. \u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "swishers42067",
+      "timestamp_ms": 1662393412646,
+      "content": "A got a pizza yesterday and got hot dog slices on it was bangin bud.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1662393492
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2920658307975306970"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "swishers42067",
+  "is_still_participant": true,
+  "thread_path": "inbox/swishers42067_975327057201317",
+  "magic_words": [
+    
+  ]
+}

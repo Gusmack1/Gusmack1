@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1716066220573,
+      "content": "Hello, can you please send a message to @buddyscarf\n\u00f0\u009f\u0090\u00b6 they want to collaborate with you!\nWe're looking for a few photogenic pets that can wear our bandanas and provide us with some photos. You will be getting free exclusive products as well as a featuring on their official page! @buddyscarf \u00f0\u009f\u0090\u00b6\n  \nJust message us @buddyscarf now \u00f0\u009f\u0098\u008d Can\u00e2\u0080\u0099t wait to hear from you!!  \n  \nTell them Eva invited you\u00e2\u009d\u00a4\u00ef\u00b8\u008f @buddyscarf",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1716066217224,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/buddyscarf",
+        "profile_share_username": "buddyscarf",
+        "profile_share_name": "Buddyscarf \u00e2\u0084\u00a2"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1265272671526152",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

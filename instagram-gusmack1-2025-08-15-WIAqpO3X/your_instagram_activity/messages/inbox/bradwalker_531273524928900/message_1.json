@@ -1,0 +1,87 @@
+{
+  "participants": [
+    {
+      "name": "Brad Walker"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594892738293,
+      "content": "Veg lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brad Walker",
+      "timestamp_ms": 1594892719781,
+      "content": "Mate it\u00e2\u0080\u0099s class! Honestly best burger I have tried but I have only seen one in Ibiza it\u00e2\u0080\u0099s a chain but very few of them! \n\nSweet mate I\u00e2\u0080\u0099ll send a few options. \n\nAre you fussy with certain foods or that mate ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594892542748,
+      "content": "Never heard of that one mate lol sure send me whatever and I'll have a look \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brad Walker",
+      "timestamp_ms": 1594892379466,
+      "content": "Right I see bro! To be honest mate I\u00e2\u0080\u0099m really flexible with how we do it. \n\nWe could do that if you like man maybe just plan it the day ahead or whatever. I could also send you a few variations of my go to options when out and about and you can post them if you ever come across them bro? \n\nJust seen the 6 burger stack also! I had a 7x7 burger from steak and shake once you ever heard of it?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brad Walker",
+      "timestamp_ms": 1594892153481,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594891775800,
+      "content": "I don't have a set thing I just munch what I want lol. Do u want me to message u what I'm going to post then u add a healthier option to try?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Brad Walker"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brad Walker",
+      "timestamp_ms": 1594891596763,
+      "content": "Cheers for the reply mate \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb\n\nWell mate I was thinking as I\u00e2\u0080\u0099m a PT I could recommend some healthier options for when eating out and on the go. \n\nI seen you recently posted a subway and I actually have like go to options for my clients to go check out from there.\n\nI\u00e2\u0080\u0099m not sure if this is something you would do but if it is I\u00e2\u0080\u0099m sure we could put our heads together and make it some good content \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594891415655,
+      "content": "Sure what u thinking?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brad Walker",
+      "timestamp_ms": 1594891084970,
+      "content": "Hey how are you doing. I had an idea for a collab if you would be interested mate \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brad Walker",
+  "is_still_participant": true,
+  "thread_path": "inbox/bradwalker_531273524928900",
+  "magic_words": [
+    
+  ]
+}

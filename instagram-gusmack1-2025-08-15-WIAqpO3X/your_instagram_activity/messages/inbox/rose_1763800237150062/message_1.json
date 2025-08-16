@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0095\u00bd\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098\u00f0\u009d\u0096\u008a"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1652462411910,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638805120716,
+      "content": "No worries \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bd\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098\u00f0\u009d\u0096\u008a",
+      "timestamp_ms": 1638805040570,
+      "content": "Thank ya! \u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1638805113
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009d\u0095\u00bd\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098\u00f0\u009d\u0096\u008a",
+      "timestamp_ms": 1638805034805,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638754696103,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009d\u0095\u00bd\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098\u00f0\u009d\u0096\u008a",
+          "timestamp": 1638805034
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638608702379,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0095\u00bd\u00f0\u009d\u0096\u0094\u00f0\u009d\u0096\u0098\u00f0\u009d\u0096\u008a",
+  "is_still_participant": true,
+  "thread_path": "inbox/rose_1763800237150062",
+  "magic_words": [
+    
+  ]
+}

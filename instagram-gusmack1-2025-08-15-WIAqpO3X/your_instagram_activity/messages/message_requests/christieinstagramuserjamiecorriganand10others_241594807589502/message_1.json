@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "Christie"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Jamie Corrigan"
+    },
+    {
+      "name": "jordii401"
+    },
+    {
+      "name": "Brooke \u00f0\u009f\u008c\u008a"
+    },
+    {
+      "name": "Robin (HE/HIM)"
+    },
+    {
+      "name": "Sian Meloni"
+    },
+    {
+      "name": "Graeme Stillie"
+    },
+    {
+      "name": "Eva \u00f0\u009f\u008e\u0088"
+    },
+    {
+      "name": "EJ Ramos"
+    },
+    {
+      "name": "Marquise Williams"
+    },
+    {
+      "name": "Tiago Senne"
+    },
+    {
+      "name": "Reeves Terrell"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amie Cooling",
+      "timestamp_ms": 1614094008466,
+      "content": "Amie Cooling left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Christie, Instagram User, Jamie Corrigan and 10 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/christieinstagramuserjamiecorriganand10others_241594807589502",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

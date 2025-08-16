@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "The Last Bookstore Bar"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Last Bookstore Bar",
+      "timestamp_ms": 1693926872502,
+      "content": "Afternoon Gus, really sorry about the late response, would you still be looking to come in?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1693567085597,
+      "content": "Can we come tomorrow about 6 for dinner?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1693397968994,
+      "content": "Nice Ty. I will need to get back to u with a date and time if that's ok \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Last Bookstore Bar",
+      "timestamp_ms": 1693397860700,
+      "content": "Yes of course !",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1693340312382,
+      "content": "Hey thanks for the invite. Can I bring a plus 1?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Last Bookstore Bar",
+      "timestamp_ms": 1692888289959,
+      "content": "\u00f0\u009f\u00a6\u009eYou\u00e2\u0080\u0099re Invited For a Free Meal!\u00f0\u009f\u00a6\u00aa\u00f0\u009f\u00a4\u00a4\n\nWarm greetings from the Fat Lobster team! We cordially invite you to indulge in an extraordinary dining experience. Where flavours are crafted with precision, ambiance is curated with elegance, and every dish is an expression of culinary finesse. \n\nAs a token of our appreciation for your dedication to food, we'd be honoured to treat you to a complimentary meal that reflects our dedication to the craft. In return, we kindly ask for your honest review in the form of an Instagram Reel. \n\nYour genuine feedback holds immense value to us, helping us refine our dishes and service as well as assisting fellow food enthusiasts in their food explorations.\n\nWe understand your schedules are busy, so we'd love to know about your availability. \nKindly RSVP to this message to confirm your interest and availability. \n\nShould you have any questions, dietary preferences, or special requirements, please don't hesitate to reach out to us. \n\nWarm regards,\n\nChristophe\nFat Lobster",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Last Bookstore Bar",
+  "is_still_participant": true,
+  "thread_path": "inbox/thelastbookstorebar_1106213230765431",
+  "magic_words": [
+    
+  ]
+}

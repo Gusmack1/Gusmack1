@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Ruby Worrall"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ruby Worrall",
+      "timestamp_ms": 1607706760915,
+      "content": "\u00f0\u009f\u00a5\u00b0\u00f0\u009f\u00a5\u00b0",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1607708094
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Ruby Worrall",
+      "timestamp_ms": 1607706758969,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1607704196219,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ruby Worrall",
+          "timestamp": 1607706758
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ruby Worrall",
+  "is_still_participant": true,
+  "thread_path": "inbox/rubyworrall_503098917742579",
+  "magic_words": [
+    
+  ]
+}

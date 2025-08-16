@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "David Eadie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "David Eadie",
+      "timestamp_ms": 1545781235533,
+      "content": "David sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/www.facebook.com/diveadiemusic"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David Eadie",
+  "is_still_participant": true,
+  "thread_path": "inbox/davideadie_589391759125770",
+  "magic_words": [
+    
+  ]
+}

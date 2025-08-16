@@ -1,0 +1,44 @@
+{
+  "participants": [
+    {
+      "name": "thescottish_foodie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "thescottish_foodie",
+      "timestamp_ms": 1598350573110,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1598350479543,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "thescottish_foodie"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2383459020466243125"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "thescottish_foodie",
+  "is_still_participant": true,
+  "thread_path": "inbox/thescottish_foodie_571234607610999",
+  "magic_words": [
+    
+  ]
+}

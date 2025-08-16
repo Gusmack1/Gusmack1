@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Champagne Eric Philippe"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1546469384235,
+      "content": "Send. Me champagne then",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Champagne Eric Philippe",
+      "timestamp_ms": 1546466558866,
+      "content": "Would you like to know more about us?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Champagne Eric Philippe",
+      "timestamp_ms": 1546466556695,
+      "content": "Ah well for those occasions, it should only be the best :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1545947319310,
+      "content": "No, i only drink champagne on rare occasions :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Champagne Eric Philippe",
+      "timestamp_ms": 1545943306158,
+      "content": "Have you heard of us before?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1545847981454,
+      "content": "Nope",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Champagne Eric Philippe",
+      "timestamp_ms": 1545846931673,
+      "content": "Bonjour Gus!  Thank you for following our Champagne Brand!  Have you tried our Grand Cru Brut Rose Champagne before?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Champagne Eric Philippe",
+  "is_still_participant": true,
+  "thread_path": "inbox/champagneericphilippe_501583941228930",
+  "magic_words": [
+    
+  ]
+}

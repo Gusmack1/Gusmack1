@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "veronicam_foodphoto"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "veronicam_foodphoto",
+      "timestamp_ms": 1584089229750,
+      "content": "You should recommend a good kebab  place \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bc",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "veronicam_foodphoto",
+      "timestamp_ms": 1584089205789,
+      "content": "Oh no it\u00e2\u0080\u0099s fine I didn\u00e2\u0080\u0099t take it personally\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584059307547,
+      "content": "So when u say the best kebabs in town I know ur talking shite. That's all I meant. Apologies x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584059226164,
+      "content": "Apologies I'm not out to get u but ur all over the hashtags I'm using and I know my shit when it comes to kebabs lol x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1580156682301,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/veronicam_foodphoto/2230645004095105366"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "veronicam_foodphoto",
+  "is_still_participant": true,
+  "thread_path": "inbox/veronicam_foodphoto_606298804105078",
+  "magic_words": [
+    
+  ]
+}

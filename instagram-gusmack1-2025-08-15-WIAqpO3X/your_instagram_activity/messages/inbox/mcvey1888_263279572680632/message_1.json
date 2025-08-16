@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "mcvey1888"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650399797911,
+      "content": "Dafty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mcvey1888",
+  "is_still_participant": true,
+  "thread_path": "inbox/mcvey1888_263279572680632",
+  "magic_words": [
+    
+  ]
+}

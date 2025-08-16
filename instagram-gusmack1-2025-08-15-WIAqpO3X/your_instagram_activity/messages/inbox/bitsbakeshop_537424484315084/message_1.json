@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Bits Bake Shop"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bits Bake Shop",
+      "timestamp_ms": 1578755290750,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578741488937,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bits Bake Shop"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bits Bake Shop",
+  "is_still_participant": true,
+  "thread_path": "inbox/bitsbakeshop_537424484315084",
+  "magic_words": [
+    
+  ]
+}

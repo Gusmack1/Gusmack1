@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1610193007490,
+      "content": "Will there next time. Indian dreams curry pizzas are insane",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1610130013688,
+      "content": "Lol dinas is good as well they have a pizza deal and u get garlic bread with it and a drink. I like dinas chilli sauce",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1610119769618,
+      "content": "Alright mate, you\u00e2\u0080\u0099ve  turned me into a Indian dream loyal for pizza but fancy trying Dinas, what would you say is better?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_577978546926474",
+  "magic_words": [
+    
+  ]
+}

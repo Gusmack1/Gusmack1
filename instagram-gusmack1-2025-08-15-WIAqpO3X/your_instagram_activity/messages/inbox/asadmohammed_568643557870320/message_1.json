@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "asad.mohammed"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "asad.mohammed",
+      "timestamp_ms": 1625453239883,
+      "content": "Hi mate, you still interested in a collab?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "asad.mohammed",
+      "timestamp_ms": 1624880459323,
+      "content": "That\u00e2\u0080\u0099s fine mate I\u00e2\u0080\u0099ve got 2 stores in Glasgow, one in Giffnock and one in cardonald whichever one suits you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1624633832305,
+      "content": "Hi mate that sounds great. Sorry about the late reply this was in my spam. Ill be in Glasgow on monday if you fancy collaborating.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "asad.mohammed",
+      "timestamp_ms": 1618706808972,
+      "content": "Thanks for getting back to me, I was thinking you can have a look at the menu and order some food, post a review of the food and some stories. How does that sound?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1616585653123,
+      "content": "Hey I'm well u? Sure what did you have in mind?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "asad.mohammed",
+      "timestamp_ms": 1616517004079,
+      "content": "Hi Gus, hope your good. I own a fast food place in Glasgow called Yayas, I wanted to ask if you would like to collaborate with Yayas. Looking forward to hear from you.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "asad.mohammed",
+  "is_still_participant": true,
+  "thread_path": "inbox/asadmohammed_568643557870320",
+  "magic_words": [
+    
+  ]
+}

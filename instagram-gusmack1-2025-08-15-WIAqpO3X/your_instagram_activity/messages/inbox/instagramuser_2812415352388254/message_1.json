@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1646755580751,
+      "content": "\u00f0\u009f\u0092\u009dHello Good day, Are you interested in learning how to earn up to \u00c2\u00a345,000 and more daily and weekly directly to your Cash App, PayPal, bitcoin wallet, bank account, or any withdrawal details you wish to from the comfort of your home investing with bitcoin trading and cryptocurrency mining platform?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_2812415352388254",
+  "magic_words": [
+    
+  ]
+}

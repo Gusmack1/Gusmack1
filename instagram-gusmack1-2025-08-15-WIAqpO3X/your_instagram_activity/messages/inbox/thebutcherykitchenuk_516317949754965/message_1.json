@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "The Butchery Kitchen UK"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1595516686217,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2359687444621136457"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Butchery Kitchen UK",
+  "is_still_participant": true,
+  "thread_path": "inbox/thebutcherykitchenuk_516317949754965",
+  "magic_words": [
+    
+  ]
+}

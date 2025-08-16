@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Gentleman Jack"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623425063954,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2593799802408890320"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gentleman Jack",
+  "is_still_participant": true,
+  "thread_path": "inbox/gentlemanjack_1466168510403538",
+  "magic_words": [
+    
+  ]
+}

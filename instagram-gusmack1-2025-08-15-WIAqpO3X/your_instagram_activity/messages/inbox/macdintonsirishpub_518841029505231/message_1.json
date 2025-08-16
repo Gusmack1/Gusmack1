@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "MacDinton's Irish Pub"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "MacDinton's Irish Pub",
+      "timestamp_ms": 1545774804066,
+      "content": "MacDinton's sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "MacDinton's Irish Pub",
+  "is_still_participant": true,
+  "thread_path": "inbox/macdintonsirishpub_518841029505231",
+  "magic_words": [
+    
+  ]
+}

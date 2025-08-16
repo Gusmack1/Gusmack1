@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Kathryn Lamb"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1649636548894,
+      "content": "Get to bed its late hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kathryn Lamb",
+      "timestamp_ms": 1649636516441,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1649635378100,
+      "content": "All good \u00f0\u009f\u00a5\u0093",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kathryn Lamb",
+          "timestamp": 1649636516
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kathryn Lamb",
+      "timestamp_ms": 1649635333515,
+      "content": "Thanks for the follow! \nMy goodness\u00e2\u0080\u00a6can\u00e2\u0080\u0099t wait to check out some of these eateries! \u00f0\u009f\u008d\u0094\u00f0\u009f\u008d\u0095\u00f0\u009f\u008d\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1649635369
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kathryn Lamb",
+  "is_still_participant": true,
+  "thread_path": "inbox/kathrynlamb_790530939000173",
+  "magic_words": [
+    
+  ]
+}

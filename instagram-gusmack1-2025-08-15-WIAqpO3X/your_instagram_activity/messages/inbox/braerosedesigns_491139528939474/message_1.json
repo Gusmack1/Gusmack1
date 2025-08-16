@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Brae & Rose Designs"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brae & Rose Designs",
+      "timestamp_ms": 1615460315472,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1615460339
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brae & Rose Designs",
+  "is_still_participant": true,
+  "thread_path": "inbox/braerosedesigns_491139528939474",
+  "magic_words": [
+    
+  ]
+}

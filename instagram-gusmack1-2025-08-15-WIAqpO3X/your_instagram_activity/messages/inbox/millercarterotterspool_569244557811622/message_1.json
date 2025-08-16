@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Miller & Carter Otterspool"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578446995680,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2216496491178433959"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miller & Carter Otterspool",
+  "is_still_participant": true,
+  "thread_path": "inbox/millercarterotterspool_569244557811622",
+  "magic_words": [
+    
+  ]
+}

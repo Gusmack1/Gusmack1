@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1553714072060,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://myctfo.tv/tprich",
+        "share_text": "Discover our free income opportunity And unique copyrighted compensation plan! Register today and join an online meeting to Hear more from people just like you who are Using the system and getting results."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1553711906728,
+      "content": "Naw mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1553711732645,
+      "content": "Have you tried CBD?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1553115151022,
+      "content": "Hi! I\u00e2\u0080\u0099m a retired ice cream manufacturing specialist! That gives me zero medical credentials (although my father was a doctor!)\n\n1\u00ef\u00b8\u008f\u00e2\u0083\u00a3 My wife suffered for over 8 years with fibromyalgia. She was in daily prescription pain meds.\n\n2\u00ef\u00b8\u008f\u00e2\u0083\u00a3 In January of 2018, a family member suggested she try CBD oil.\n\n3\u00ef\u00b8\u008f\u00e2\u0083\u00a3 As of today, she has been off ALL prescription pain meds for over 1 year!\n\n4\u00ef\u00b8\u008f\u00e2\u0083\u00a3 That made me want to share this with the world, so I became a distributor for CTFO products.\n\n5\u00ef\u00b8\u008f\u00e2\u0083\u00a3 They say it works for many things. For me, it helps with some aches and pains and improves my sleep. But, that is nothing compared to what it has done for my wife!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_518091016249534",
+  "magic_words": [
+    
+  ]
+}

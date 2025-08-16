@@ -1,0 +1,69 @@
+{
+  "profile_user": [
+    {
+      "title": "User Information",
+      "media_map_data": {
+        "Profile Photo": {
+          "uri": "media/profile/202008/118071355_1418769484989553_3876324429333368709_n_17870240281903258.jpg",
+          "creation_timestamp": 1598178130,
+          "media_metadata": {
+            "camera_metadata": {
+              "has_camera_metadata": false
+            }
+          },
+          "title": "",
+          "cross_post_source": {
+            "source_app": "FB"
+          }
+        }
+      },
+      "string_map_data": {
+        "Email": {
+          "href": "",
+          "value": "gusmack1@mail.com",
+          "timestamp": 0
+        },
+        "Phone Confirmed": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Username": {
+          "href": "",
+          "value": "gusmack1",
+          "timestamp": 0
+        },
+        "Name": {
+          "href": "",
+          "value": "Glasgow | food | foodie | Scottish",
+          "timestamp": 0
+        },
+        "Bio": {
+          "href": "",
+          "value": "OG food reviewer + on Google\nLets Collab dm me or email gusmack1@mail.com\n#scottishglasgowfoodies",
+          "timestamp": 0
+        },
+        "Gender": {
+          "href": "",
+          "value": "male",
+          "timestamp": 0
+        },
+        "Date of birth": {
+          "href": "",
+          "value": "1982-03-29",
+          "timestamp": 0
+        },
+        "Private Account": {
+          "href": "",
+          "value": "False",
+          "timestamp": 0
+        },
+        "Emoji Pong High Score": {
+          "href": "",
+          "value": "0",
+          "timestamp": 0
+        }
+      }
+    }
+  ]
+}

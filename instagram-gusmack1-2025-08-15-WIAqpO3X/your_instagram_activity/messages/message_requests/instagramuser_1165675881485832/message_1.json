@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1702057656357,
+      "content": "Hi, I'm Maria from Rivera marketing department. After looking over your Instagram profile, we think you'd be a great addition to our team \u00f0\u009f\u0099\u008c. Interested in joining our ambassador program? We're giving free products and offering fantastic discounts to our new ambassadors. \r\n\r\nPlease contact our main page as soon as possible @rivera.activewear\r\n\r\nRest assured, this message is not spam; our team will confirm its authenticity.\u00f0\u009f\u00ab\u00a1\r\n \r\nThis offer expires very soon as we have limited spots for\u00c2\u00a0our\u00c2\u00a0team.\u00c2\u00a0\u00e2\u009d\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1702057655697,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/rivera.activewear",
+        "profile_share_username": "rivera.activewear",
+        "profile_share_name": "RIVERA"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1165675881485832",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

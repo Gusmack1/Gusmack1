@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "SPEY"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1610551042353,
+      "content": "Not a problem. The more whisky the better hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SPEY",
+      "timestamp_ms": 1610550712670,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SPEY",
+      "timestamp_ms": 1610550711316,
+      "content": "Excellent! Thanks so much for forwarding your address.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1610551014
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1610546354955,
+      "content": "No vegetarian here lol sure this sounds epic I was wondering what to do on the 25th\n\nMy address is 32 Menteith avenue Bishopbriggs g641hp \n\nThanks alot",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "SPEY",
+          "timestamp": 1610550712
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SPEY",
+      "timestamp_ms": 1610546206540,
+      "content": "Hi Gus,\n\nI wanted to get in touch as I am working with Macsween of Edinburgh who would like to send you a gift to celebrate Burns Night at home this year.\n\nMacsween will be hosting a virtual Burns Supper on Facebook Live on the 25th January, joined by Scottish comedian Karen Dunbar and whisky Master Blender, Dr. Rachel Barrie. The event will celebrate Scotland\u00e2\u0080\u0099s national poet at a time when most will be at home instead of taking part in the usual celebrations with friends in person. \n\nWe\u00e2\u0080\u0099d love to send you some haggis and whisky for you to enjoy on the night! Can you please let me know your postal address if you would like to receive this? It would also be great if you can let me know if you are vegetarian/vegan and would prefer not to receive the classic haggis in your gift box.\n\nThanks so much,\nAlison",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SPEY",
+  "is_still_participant": true,
+  "thread_path": "inbox/spey_572982327431805",
+  "magic_words": [
+    
+  ]
+}

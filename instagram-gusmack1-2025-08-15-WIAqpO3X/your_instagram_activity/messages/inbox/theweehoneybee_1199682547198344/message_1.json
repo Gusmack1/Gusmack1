@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "The Wee Honey Bee"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632488031154,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/theweehoney_bee/2669604331193975365"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Wee Honey Bee",
+  "is_still_participant": true,
+  "thread_path": "inbox/theweehoneybee_1199682547198344",
+  "magic_words": [
+    
+  ]
+}

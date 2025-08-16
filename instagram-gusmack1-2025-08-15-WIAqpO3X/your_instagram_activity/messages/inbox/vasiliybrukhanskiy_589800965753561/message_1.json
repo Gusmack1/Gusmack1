@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Vasiliy Brukhanskiy"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1553346425438,
+      "content": "Yes :)",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2005903701937397315"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vasiliy Brukhanskiy",
+  "is_still_participant": true,
+  "thread_path": "inbox/vasiliybrukhanskiy_589800965753561",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "FunkyMonkeyGlasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "FunkyMonkeyGlasgow",
+      "timestamp_ms": 1652543254140,
+      "content": "Hi! Thanks for following us! Are you located in Glasgow? We'd be happy if you came by and see what it is we're doing here \u00f0\u009f\u0098\u008a and if you're interested, we could possibly collaborate?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FunkyMonkeyGlasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/funkymonkeyglasgow_1130693400824363",
+  "magic_words": [
+    
+  ]
+}

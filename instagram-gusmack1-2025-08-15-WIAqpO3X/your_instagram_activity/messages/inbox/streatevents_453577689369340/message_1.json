@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "strEAT Events"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "strEAT Events",
+      "timestamp_ms": 1607027806400,
+      "content": "Hey Gus hope your well! We recently launched our Christmas Hampers as a way to help support small food & drink businesses. \n\nIn these next few weeks leading to Christmas we are trying to get some additional exposure. I was wondering if you'd be kind enough to share our hampers and tag in your stories? It would be so appreciated \u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "strEAT Events",
+  "is_still_participant": true,
+  "thread_path": "inbox/streatevents_453577689369340",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "beth reid"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1588326381522,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "beth reid",
+      "timestamp_ms": 1588326342572,
+      "content": "Why sad face haha?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1588258008754,
+      "content": "\u00f0\u009f\u0098\u00a2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "beth reid",
+  "is_still_participant": true,
+  "thread_path": "inbox/bethreid_312355643640696",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "The Couple FOODIE Hub"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Couple FOODIE Hub",
+      "timestamp_ms": 1588515447430,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1588505441644,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Couple FOODIE Hub"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Couple FOODIE Hub",
+  "is_still_participant": true,
+  "thread_path": "inbox/thecouplefoodiehub_304149394457920",
+  "magic_words": [
+    
+  ]
+}

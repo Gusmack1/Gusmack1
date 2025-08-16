@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Franco\u00e2\u0080\u0099s Of Stockbridge"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157756732,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Franco\u00e2\u0080\u0099s Of Stockbridge",
+  "is_still_participant": true,
+  "thread_path": "inbox/francosofstockbridge_1272733677458146",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "royaloryx"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "royaloryx",
+      "timestamp_ms": 1545982907095,
+      "content": "Hi there ??\nWe are travel agency in Muscat, sultanate of oman ????\n\n1: We offer  the visa for sultanate of Oman ???? And Dubai ???? \n2: Air ticket\n3: hotel booking\n4: Rent car\n5: Airport transfer\n6: Holiday packages \n\nWe will offer good price with excellent facilities.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "royaloryx",
+  "is_still_participant": true,
+  "thread_path": "inbox/royaloryx_579925043404099",
+  "magic_words": [
+    
+  ]
+}

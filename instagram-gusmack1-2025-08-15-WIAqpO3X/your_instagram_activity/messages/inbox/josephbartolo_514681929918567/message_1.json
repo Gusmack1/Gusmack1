@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Joseph Bartolo"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Joseph Bartolo",
+      "timestamp_ms": 1596677260905,
+      "content": "Thank you for the follow!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joseph Bartolo",
+  "is_still_participant": true,
+  "thread_path": "inbox/josephbartolo_514681929918567",
+  "magic_words": [
+    
+  ]
+}

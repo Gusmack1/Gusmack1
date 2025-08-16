@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Cafe love is..."
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cafe love is...",
+      "timestamp_ms": 1718053104081,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/message_requests/cafeloveis_1279821760071243/photos/441971848_346584908211327_7006682573646021001_n_401371269567827.jpg",
+          "creation_timestamp": 1718053103
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Cafe love is...",
+      "timestamp_ms": 1718053101269,
+      "content": "Hello,\n\nI hope you\u00e2\u0080\u0099re doing well.\n\nWe\u00e2\u0080\u0099re thrilled to announce the opening of our new cafe! We would be delighted if you could visit us and share your thoughts with us, as well as on social media, about our cafe and the food we offer. \n\nAttached is a picture of our menu for your reference. We look forward to welcoming you soon!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cafe love is...",
+  "is_still_participant": true,
+  "thread_path": "message_requests/cafeloveis_1279821760071243",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

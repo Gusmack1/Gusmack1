@@ -1,0 +1,108 @@
+{
+  "participants": [
+    {
+      "name": "Miller & Carter UK"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1644422970742,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1593542230762,
+      "content": "Oh thanks very much",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miller & Carter UK",
+      "timestamp_ms": 1593540309015,
+      "content": "You should have an email from us - check spam and junk if not in usual inbox \u00f0\u009f\u0093\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1593539689269,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/hotmail.com",
+        "share_text": "Get free Outlook email and calendar, plus Office Online apps like Word, Excel, and PowerPoint. Sign in to access your Outlook, Hotmail or Live email account."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Miller & Carter UK",
+      "timestamp_ms": 1593539200480,
+      "content": "Hi there - thanks for sharing the pic. Hopefully it won\u00e2\u0080\u0099t be too long before we reopen in Scotland. What\u00e2\u0080\u0099s your email and we will send you a little something in time for your next visit?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1593525334067,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2342982763580521756"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1589376823359,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2308182513309559256"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578446995680,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2216496491178433959"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1577982380322,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2212598994131239834"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1562052054163,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2078965730574320947"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Miller & Carter UK",
+  "is_still_participant": true,
+  "thread_path": "inbox/millercarteruk_538554744201732",
+  "magic_words": [
+    
+  ]
+}

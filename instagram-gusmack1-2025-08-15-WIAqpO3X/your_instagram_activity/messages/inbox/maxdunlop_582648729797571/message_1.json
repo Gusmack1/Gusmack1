@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Max Dunlop"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561406282842,
+      "content": "Cool bud cheers \u00f0\u009f\u00a5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Dunlop",
+      "timestamp_ms": 1561406265626,
+      "content": "No bother mate , just geez a shout if you\u00e2\u0080\u0099re ever needing wan",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561406233906,
+      "content": "I just use my phone mate lol if I start taking this serious then maybe. Thanks for the offer",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Max Dunlop",
+      "timestamp_ms": 1561406176904,
+      "content": "Are you looking for a dslr camera by any chance , i have one in very good condition been used once , charger , batteries and sd card included. Bought it for \u00c2\u00a3450 looking to sell for \u00c2\u00a3270-\u00c2\u00a3300",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Max Dunlop",
+  "is_still_participant": true,
+  "thread_path": "inbox/maxdunlop_582648729797571",
+  "magic_words": [
+    
+  ]
+}

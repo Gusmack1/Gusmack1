@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "zahra carville"
+    },
+    {
+      "name": "Stephanie Webb"
+    },
+    {
+      "name": "Katherine Thompson \u00e2\u009c\u00a8"
+    },
+    {
+      "name": "Lani Scrymgour"
+    },
+    {
+      "name": "Sammy Walsh"
+    },
+    {
+      "name": "Eleanor Hannah"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Robert John Henigman"
+    },
+    {
+      "name": "Hugo Bedolla"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Sean"
+    },
+    {
+      "name": "Patty Tiscare\u00c3\u00b1o \u00f0\u009f\u008d\u0092"
+    },
+    {
+      "name": "Alejandro"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ali Kayhan",
+      "timestamp_ms": 1615177792156,
+      "content": "Ali Kayhan left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1615175283423,
+      "content": "https://bnc.lt/I3iRFeERqeb",
+      "share": {
+        "link": "https://bnc.lt/I3iRFeERqeb"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "zahra carville, Stephanie Webb, Katherine Thompson \u00e2\u009c\u00a8 and 10 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/zahracarvillestephaniewebbkatherinethompsonand10others_255932972665564",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

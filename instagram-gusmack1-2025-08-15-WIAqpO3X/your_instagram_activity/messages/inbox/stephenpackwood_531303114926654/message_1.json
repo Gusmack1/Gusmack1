@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Stephen Packwood"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1601485163453,
+      "content": "No problem. Don't know them but I stay in bishy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stephen Packwood",
+      "timestamp_ms": 1601484927797,
+      "content": "Hi mate \u00f0\u009f\u0091\u008b \n\nI saw you like a post so I thought I\u00e2\u0080\u0099d give you a follow as your insta is ace!\n\nI saw you\u00e2\u0080\u0099re followed by pizzahawker too, do you know them?\n\nSteve",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stephen Packwood",
+  "is_still_participant": true,
+  "thread_path": "inbox/stephenpackwood_531303114926654",
+  "magic_words": [
+    
+  ]
+}

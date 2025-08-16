@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Alison Anderson"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alison Anderson",
+      "timestamp_ms": 1601694720089,
+      "content": "Hey there! Thank you for checking me out. I'd like to recommend you have a look at @heels_matter as well. She is among my best friends, travels to some amazing locations and quite possibly one of the best people that you could possibly ever meet.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alison Anderson",
+  "is_still_participant": true,
+  "thread_path": "inbox/alisonanderson_518397359547024",
+  "magic_words": [
+    
+  ]
+}

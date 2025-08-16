@@ -1,0 +1,131 @@
+{
+  "participants": [
+    {
+      "name": "WOLF Italian Street Food Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157739569,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WOLF Italian Street Food Glasgow",
+      "timestamp_ms": 1682489565887,
+      "content": "Hello - WOLF are having a free party and you\u00e2\u0080\u0099re invited!  It\u00e2\u0080\u0099s really limited tickets so get in quick!!\n\nhttps://www.eventbrite.co.uk/e/wolf-after-work-party-launch-tickets-620879977727",
+      "share": {
+        "link": "https://www.eventbrite.co.uk/e/wolf-after-work-party-launch-tickets-620879977727",
+        "share_text": "Hello - WOLF are having a free party and you\u00e2\u0080\u0099re invited!  It\u00e2\u0080\u0099s really limited tickets so get in quick!!\n\nhttps://www.eventbrite.co.uk/e/wolf-after-work-party-launch-tickets-620879977727"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WOLF Italian Street Food Glasgow",
+      "timestamp_ms": 1681844499276,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679160042435,
+      "content": "Ok np thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "WOLF Italian Street Food Glasgow",
+          "timestamp": 1681844499
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WOLF Italian Street Food Glasgow",
+      "timestamp_ms": 1679160025699,
+      "content": "No rush next week is busy so even the week after!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1679160033
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WOLF Italian Street Food Glasgow",
+      "timestamp_ms": 1679160010605,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679159595406,
+      "content": "Nice one, I will come back to you. Don't know my availability next week yet. It all looks good \u00f0\u009f\u0098\u0083",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "WOLF Italian Street Food Glasgow",
+          "timestamp": 1679160010
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WOLF Italian Street Food Glasgow",
+      "timestamp_ms": 1679067930227,
+      "content": "Hi - how are you? We would LOVE to invite you in to try out awesome Italian Street Food! Just let us know when you can make it and we can offer 2 x mains, 2 x sides and 2 x drinks on us! In return, we would love to see some stories and maybe a post if possible. We are open Mon-Fri from 7.30am-3pm .  Look forward to hearing from you! Heather x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1679159554
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678999949743,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678999938364,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678999933992,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "WOLF Italian Street Food Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/wolfitalianstreetfoodglasgow_1015190953200993",
+  "magic_words": [
+    
+  ]
+}

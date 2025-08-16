@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Monty Hitchcock"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Monty Hitchcock",
+      "timestamp_ms": 1629284507858,
+      "content": "Yeah we are open 4-8 Friday and Saturday",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1629281123404,
+      "content": "Apologies, i cant make it for the thurs now ive got other work commitments. Are there other days?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monty Hitchcock",
+      "timestamp_ms": 1629220593413,
+      "content": "No you are welcome to come join us. How many invites would you be looking for?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1628986034766,
+      "content": "Hey u full on the thurs?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Monty Hitchcock",
+  "is_still_participant": true,
+  "thread_path": "inbox/montyhitchcock_445956026429130",
+  "magic_words": [
+    
+  ]
+}

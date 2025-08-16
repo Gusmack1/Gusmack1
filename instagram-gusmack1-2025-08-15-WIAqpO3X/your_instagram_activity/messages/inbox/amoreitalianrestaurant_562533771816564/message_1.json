@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "Amore Italian Restaurant"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amore Italian Restaurant",
+      "timestamp_ms": 1697626849537,
+      "content": "Could you also provide us a contact number?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amore Italian Restaurant",
+      "timestamp_ms": 1697626838500,
+      "content": "That\u00e2\u0080\u0099s great! What day and what time would suit you the best?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1697626621542,
+      "content": "Sounds good. My email address is gusmack1@mail.com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amore Italian Restaurant",
+      "timestamp_ms": 1697616564042,
+      "content": "Hey Foodie,\n\nWe hope you are well :)\n\nWe would love to offer you a complimentary meal for 2 people?!\n\nWhat we had in mind was to offer you 1x Starter to Share, 1x Main Course Each & 1x Dessert to Share with also 1x Cocktail/Mocktail or Soft Drinks Each ?\n\n\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\u00e2\u0080\u0094\n\nIn return, we would ask that you kindly do the following...\n\nExperience video/reel to share to your Instagram grid & story & Tik Tok account of the food you received tagging and collaborating with @amoremerchantcity\n\nIf this offer sounds up your street, then please get back in touch with your mobile number & email address and we can arrange a day and time that suits us both.\n\nMany Thanks,\nThe Amore Family",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1697626375
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Amore Italian Restaurant",
+      "timestamp_ms": 1611406211804,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1611337797613,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Amore Italian Restaurant",
+          "timestamp": 1611406211
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amore Italian Restaurant",
+  "is_still_participant": true,
+  "thread_path": "inbox/amoreitalianrestaurant_562533771816564",
+  "magic_words": [
+    
+  ]
+}

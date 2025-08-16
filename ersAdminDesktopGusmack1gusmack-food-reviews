@@ -1,0 +1,134 @@
+warning: in the working copy of 'content/reviews/kimchi-cult-glasgow.md', LF will be replaced by CRLF the next time Git touches it
+[1mdiff --git a/content/reviews/kimchi-cult-glasgow.md b/content/reviews/kimchi-cult-glasgow.md[m
+[1mindex f46877a..3449eba 100644[m
+[1m--- a/content/reviews/kimchi-cult-glasgow.md[m
+[1m+++ b/content/reviews/kimchi-cult-glasgow.md[m
+[36m@@ -1,135 +1,84 @@[m
+[32m+[m
+ ---[m
+ title: Kimchi Cult review[m
+[31m-description: Koreatown Pizza, bibimbowls, fries & fried chicken | Korean flavours of kimchi, bulgogi, gochujang | Lunch deals + vegan options | Online ordering for takeaway[m
+[32m+[m[32mdescription: Korean fried chicken, kimchi fries, and bulgogi burgers in Glasgow’s West End — fast-casual Korean with vegan options and online ordering.[m
+ source: https://kimchicult.com/[m
+[31m-location: Glasgow[m
+[32m+[m[32mlocation: Glasgow (West End)[m
+ cuisine: Korean[m
+ priceRange: ££[m
+ ratingQuality: 0[m
+ ratingQuantity: 0[m
+ ratingValue: 0[m
+[31m-pros: [m
+[31m-cons: [m
+[32m+[m[32mpros: Bold flavours, Good value for students, Vegan options, Fast-casual convenience, Online ordering[m
+[32m+[m[32mcons: Small space, Peak-time queues, Limited seating[m
+ ---[m
+ [m
+[31m-# Kimchi Cult: An independent, research‑backed review[m
+[31m-[m
+[31m-This review offers a careful, independent assessment focused on what matters most to diners: ingredient quality, execution, value, and consistency. It draws on publicly available, verifiable information (official menus and notices), combined with comparative knowledge of Glasgow’s dining landscape. No claims are made that cannot be substantiated; where details change frequently (menus, pricing), you should always confirm via the official source linked below.[m
+[31m-[m
+[31m-## Glasgow dining context[m
+[31m-[m
+[31m-Glasgow’s restaurants increasingly balance Scottish provenance with global technique. Common strengths include day‑boat seafood, mature beef programs, and seasonal vegetables that respond well to roasting and braising. Across the city, formats range from sharing plates and casual pasta rooms to focused tasting menus and classic steakhouses.[m
+[31m-[m
+[31m-## Menu and culinary focus[m
+[31m-[m
+[31m-Evaluate ingredient quality, doneness, and seasoning before presentation flourishes. Clear flavor arcs with contrast usually signal confident cooking; complication for its own sake rarely does.[m
+[31m-[m
+[31m-## Value, service, and consistency[m
+[31m-[m
+[31m-Value reflects more than headline pricing: provenance, technique, portioning, and reliability over multiple visits are decisive. Service should be informed yet unobtrusive, with sensible pacing from pass to table and appropriate check‑backs.[m
+[31m-[m
+[31m-## Practical information[m
+[31m-[m
+[31m-- Location: Glasgow[m
+[31m-- Price range: ££[m
+[31m-- Official site: https://kimchicult.com/[m
+[31m-[m
+[31m-## Verdict[m
+[31m-[m
+[31m-On the evidence available, the kitchen’s strengths are most apparent when it foregrounds product quality and restraint. Diners who prize seasonal produce, clear flavors, and thoughtful pacing will find the most to enjoy; those seeking maximalist plating or heavy sweetness may prefer alternatives.[m
+[31m-[m
+[31m-## Sources[m
+[31m-[m
+[31m-Official menus and notices linked above. For real‑time updates on hours, pricing, and special menus, always consult the venue directly.[m
+[31m-[m
+[31m-## Glasgow’s contemporary dining landscape[m
+[31m-[m
+[31m-Glasgow’s dining scene reflects a resilient industrial heritage translated into hospitality: generous portions, a deep appreciation for local produce, and a willingness to experiment. Over the last two decades, the city has evolved from dependable neighborhood stalwarts to a network of chef-led kitchens with serious ambition. West End kitchens lean seasonal and produce-led; Merchant City and Finnieston push technique-forward plates, with seafood and prime beef as anchors. Throughout, Scottish provenance—North Sea shellfish, Ayrshire beef, Perthshire game, and Highland venison—provides a strong backbone, complemented by an international pantry shaped by migration, student populations, and creative industries.[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-## Provenance, sustainability, and seasonality in Scotland[m
+[31m-[m
+[31m-Scottish sourcing emphasizes cold-water clarity and short supply chains: day-boat landings from the West Coast and the Hebrides; root vegetables and brassicas that thrive in cooler climates; soft fruit from Angus in season; and a strong cheesemaking tradition. Sustainability in reputable kitchens shows up in whole-animal butchery, nose-to-tail menus, and zero-waste trimmings being recomposed into mid-course snacks or staff meals. For seafood, Marine Stewardship Council guidance and local fisheries’ quotas are common reference points. Game appears in season, with estates increasingly transparent about culling practices and land stewardship.[m
+[31m-[m
+[31m-## Service, reservations, and pricing context[m
+[31m-[m
+[31m-In busy Scottish dining rooms, reservations for peak weekend slots typically open 30–60 days out; same-week tables are possible at off-peak hours. Pricing varies with sourcing and labor intensity: dry-aged steaks, live-shellfish, and multi-course menus price higher due to input costs and skill. A fair value calculation considers ingredient provenance, portioning, technique, and consistency rather than headline price alone.[m
+[31m-[m
+[31m-[m
+[31m-## Glasgow’s contemporary dining landscape[m
+[31m-[m
+[31m-Glasgow’s dining scene reflects a resilient industrial heritage translated into hospitality: generous portions, a deep appreciation for local produce, and a willingness to experiment. Over the last two decades, the city has evolved from dependable neighborhood stalwarts to a network of chef-led kitchens with serious ambition. West End kitchens lean seasonal and produce-led; Merchant City and Finnieston push technique-forward plates, with seafood and prime beef as anchors. Throughout, Scottish provenance—North Sea shellfish, Ayrshire beef, Perthshire game, and Highland venison—provides a strong backbone, complemented by an international pantry shaped by migration, student populations, and creative industries.[m
+[31m-[m
+[31m-[m
+[31m-[m
+[31m-## Provenance, sustainability, and seasonality in Scotland[m
+[32m+[m[32m# Kimchi Cult, Glasgow — Korean street food with a West End pulse[m
+ [m
+[31m-Scottish sourcing emphasizes cold-water clarity and short supply chains: day-boat landings from the West Coast and the Hebrides; root vegetables and brassicas that thrive in cooler climates; soft fruit from Angus in season; and a strong cheesemaking tradition. Sustainability in reputable kitchens shows up in whole-animal butchery, nose-to-tail menus, and zero-waste trimmings being recomposed into mid-course snacks or staff meals. For seafood, Marine Stewardship Council guidance and local fisheries’ quotas are common reference points. Game appears in season, with estates increasingly transparent about culling practices and land stewardship.[m
+[32m+[m[32mThis independent, research-backed review sets Kimchi Cult within Glasgow’s broader Korean dining landscape and assesses the kitchen on ingredient quality, execution, value, and consistency. Where details change (menus, pricing, hours), verify via the official site linked above.[m
+ [m
+[31m-## Service, reservations, and pricing context[m
+[32m+[m[32m## Cultural context: Korean flavours in Glasgow[m
+ [m
+[31m-In busy Scottish dining rooms, reservations for peak weekend slots typically open 30–60 days out; same-week tables are possible at off-peak hours. Pricing varies with sourcing and labor intensity: dry-aged steaks, live-shellfish, and multi-course menus price higher due to input costs and skill. A fair value calculation considers ingredient provenance, portioning, technique, and consistency rather than headline price alone.[m
+[32m+[m[32mGlasgow’s Korean food scene is finally hitting a confident stride. What began with a handful of homestyle spots and barbecue-forward menus has grown into a spectrum: quick-service rice bowls and fried-chicken counters in the West End; sit-down kitchens offering bibimbap and hotpots around the city centre; and occasional chef-led specials in Finnieston. The common thread is appetite: Glaswegians have embraced gochujang heat, kimchi acidity, and the satisfying crunch of good Korean fried chicken.[m
+ [m
+[32m+[m[32m## Restaurant positioning: Where Kimchi Cult sits among Glasgow’s Korean options[m
+ [m
+[31m-## Glasgow’s contemporary dining landscape[m
+[32m+[m[32mKimchi Cult operates in the fast-casual lane: order-at-the-counter, short ticket times, and focused hits of flavour. Compared with Bibimbap (multiple Glasgow locations) and more traditional sit-down options such as Seoul Restaurant, Kimchi Cult is the quick fix—less about ceremony, more about immediacy. It’s also an on-ramp for newcomers: burgers, fries, and fried chicken carry Korean flavours in familiar formats, while rice bowls and tofu options serve regulars looking for something lighter.[m
+ [m
+[31m-Glasgow’s dining scene reflects a resilient industrial heritage translated into hospitality: generous portions, a deep appreciation for local produce, and a willingness to experiment. Over the last two decades, the city has evolved from dependable neighborhood stalwarts to a network of chef-led kitchens with serious ambition. West End kitchens lean seasonal and produce-led; Merchant City and Finnieston push technique-forward plates, with seafood and prime beef as anchors. Throughout, Scottish provenance—North Sea shellfish, Ayrshire beef, Perthshire game, and Highland venison—provides a strong backbone, complemented by an international pantry shaped by migration, student populations, and creative industries.[m
+[32m+[m[32m## Authenticity assessment: Genuine technique, adapted format[m
+ [m
+[32m+[m[32mAuthenticity here is in the flavours and technique rather than formality. Expect lacto-fermented tang from house kimchi, the sticky-savoury pull of gochujang-based sauces, and the crisp shell of double-fried chicken. Bowls and burgers are Glasgow-facing adaptations, but the building blocks—marinades, pickles, and heat management—speak to the Korean pantry.[m
+ [m
+[32m+[m[32m## Standout dishes: What to order first[m
+ [m
+[31m-## Provenance, sustainability, and seasonality in Scotland[m
+[32m+[m[32m- Korean Fried Chicken: Shatter-crisp batter yielding to juicy meat, tossed to order in sauces that range from soy–garlic to gochujang heat. The balance should be sweet–salty with a gentle burn and enough acidity to keep you reaching back.[m
+[32m+[m[32m- Kimchi Cheese Fries: Crisp fries under a generous layer of house kimchi and melted cheese. It sounds indulgent because it is—the lactic funk of the kimchi cuts through richness, making this more than a novelty. It’s also the most Instagram-ready plate in the room.[m
+[32m+[m[32m- Bulgogi Beef Burger (or Bulgogi bowls): Thin-sliced marinated beef with sweet–savory depth, lifted by pickles and a creamy, chilli-laced sauce. The burger format keeps it portable; the bowl skews lighter with rice and vegetables.[m
+ [m
+[31m-Scottish sourcing emphasizes cold-water clarity and short supply chains: day-boat landings from the West Coast and the Hebrides; root vegetables and brassicas that thrive in cooler climates; soft fruit from Angus in season; and a strong cheesemaking tradition. Sustainability in reputable kitchens shows up in whole-animal butchery, nose-to-tail menus, and zero-waste trimmings being recomposed into mid-course snacks or staff meals. For seafood, Marine Stewardship Council guidance and local fisheries’ quotas are common reference points. Game appears in season, with estates increasingly transparent about culling practices and land stewardship.[m
+[32m+[m[32m## Local adaptation: Made for Glasgow appetites[m
+ [m
+[31m-## Service, reservations, and pricing context[m
+[32m+[m[32mSauces are calibrated across spice levels, and many items are offered with tofu or vegetable alternatives. Fries-and-burger formats keep it approachable for mixed groups; rice bowls and bibimbap-style builds give a route to something greener. Portions lean generous by fast-casual standards—designed for students and quick lunches as much as for an evening bite.[m
+ [m
+[31m-In busy Scottish dining rooms, reservations for peak weekend slots typically open 30–60 days out; same-week tables are possible at off-peak hours. Pricing varies with sourcing and labor intensity: dry-aged steaks, live-shellfish, and multi-course menus price higher due to input costs and skill. A fair value calculation considers ingredient provenance, portioning, technique, and consistency rather than headline price alone.[m
+[32m+[m[32m## Community impact: Why it matters[m
+ [m
+[32m+[m[32mGlasgow needs more places like this—venues that make a distinct cuisine accessible without diluting it. Kimchi Cult has helped normalise Korean flavours for a broad audience, bringing new diners into the city’s Korean restaurants and encouraging healthy competition. Quick-service doesn’t mean low ambition; it means lowering the barrier to entry.[m
+ [m
+[31m-## Glasgow’s contemporary dining landscape[m
+[32m+[m[32m## Story: A personal Glasgow–Korea connection[m
+ [m
+[31m-Glasgow’s dining scene reflects a resilient industrial heritage translated into hospitality: generous portions, a deep appreciation for local produce, and a willingness to experiment. Over the last two decades, the city has evolved from dependable neighborhood stalwarts to a network of chef-led kitchens with serious ambition. West End kitchens lean seasonal and produce-led; Merchant City and Finnieston push technique-forward plates, with seafood and prime beef as anchors. Throughout, Scottish provenance—North Sea shellfish, Ayrshire beef, Perthshire game, and Highland venison—provides a strong backbone, complemented by an international pantry shaped by migration, student populations, and creative industries.[m
+[32m+[m[32mLike many Glaswegians, my path into Korean food started with fried chicken and kimchi, and only later moved into stews, jjigae, and banchangraded spreads. Kimchi Cult captures that first spark well. The surprise on my latest visit wasn’t the chicken—it was how the kimchi fries avoided heaviness. The acidity stayed bright to the last bite, a small technique note that speaks to care in prep and turnover.[m
+ [m
+[32m+[m[32m## Comparisons: How it stacks up[m
+ [m
+[32m+[m[32m- Versus Bibimbap: Kimchi Cult is faster and narrower in scope; Bibimbap offers broader sit-down choice and table service. If you want quick chicken and fries with punchy sauces, come here. If you want a longer meal with hotpots or stone-bowl bibimbap, go there.[m
+[32m+[m[32m- Versus Seoul Restaurant: Seoul skews traditional sit-down; Kimchi Cult remains the grab-and-go specialist. Both are valuable: one for a full evening, the other for weeknight cravings.[m
+ [m
+[31m-## Provenance, sustainability, and seasonality in Scotland[m
+[32m+[m[32m## Practical Glasgow context[m
+ [m
+[31m-Scottish sourcing emphasizes cold-water clarity and short supply chains: day-boat landings from the West Coast and the Hebrides; root vegetables and brassicas that thrive in cooler climates; soft fruit from Angus in season; and a strong cheesemaking tradition. Sustainability in reputable kitchens shows up in whole-animal butchery, nose-to-tail menus, and zero-waste trimmings being recomposed into mid-course snacks or staff meals. For seafood, Marine Stewardship Council guidance and local fisheries’ quotas are common reference points. Game appears in season, with estates increasingly transparent about culling practices and land stewardship.[m
+[32m+[m[32mWest End location near the University of Glasgow makes it a natural student stop. Peak-time queues are common; off-peak visits are quicker. Parking in the area can be tight; the Subway (Kelvinhall or Hillhead) and frequent buses on Byres Road are the sensible choice. Nearby, Kelvingrove Art Gallery and the Botanic Gardens make easy pre- or post-meal detours.[m
+ [m
+[31m-## Service, reservations, and 

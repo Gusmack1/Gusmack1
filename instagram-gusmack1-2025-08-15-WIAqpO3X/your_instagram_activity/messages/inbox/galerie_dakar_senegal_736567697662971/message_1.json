@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Galerie_Dakar_senegal"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1655720257803,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Galerie_Dakar_senegal",
+  "is_still_participant": true,
+  "thread_path": "inbox/galerie_dakar_senegal_736567697662971",
+  "magic_words": [
+    
+  ]
+}

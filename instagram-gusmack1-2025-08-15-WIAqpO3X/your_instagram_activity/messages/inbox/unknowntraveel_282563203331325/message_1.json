@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "unknowntraveel"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "unknowntraveel",
+      "timestamp_ms": 1591119939976,
+      "content": "unknowntraveel sent an attachment.",
+      "share": {
+        "link": "http://www.youtube.com/unknownpresets",
+        "share_text": "Hi Guys Welcome To My Channel Take your editing to the next level. Free Lightroom Mobile Tutorial and Presets Don't forget to SUBSCRIBE and LIKE for more tut..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "unknowntraveel",
+  "is_still_participant": true,
+  "thread_path": "inbox/unknowntraveel_282563203331325",
+  "magic_words": [
+    
+  ]
+}

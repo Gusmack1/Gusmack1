@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Jeanannette Doyle"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jeanannette Doyle",
+      "timestamp_ms": 1718000718509,
+      "content": "Hi \nIt\u00e2\u0080\u0099s jeanannette here from Launch .. Hope you don\u00e2\u0080\u0099t think I\u00e2\u0080\u0099m being cheeky sending this to you , but would just like to make you aware of our great coffee shop in Bothwell Street that\u00e2\u0080\u0099s different to all the rest .  All profits go to feeding children in Glasgow !! Please check us out .  Pop in , meet the team and enjoy lunch on us . \nHope to see you \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jeanannette Doyle",
+      "timestamp_ms": 1718000718217,
+      "content": "Jeanannette sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C76RcnWM4a4/?id=3385094803106793144_9206927084",
+        "share_text": "Our new, sustainable mugs have landed! \u00f0\u009f\u009a\u0080\u00e2\u0098\u0095\n\nOur shop manager JP couldn't live without his so off to France it went!\u00e2\u009c\u0088\u00ef\u00b8\u008f Where will you take yours ?\n\nShare & tag us in all your Pics!\u00f0\u009f\u0093\u00b8 Prize for the best photo!\u00f0\u009f\u009a\u0080\n\nEvery purchase helps feed 2 Children - What you waiting for!\n\n#1in4 #sustainability #kindness #hungry #glasgowschildren #launchfoods",
+        "original_content_owner": "launchfoods"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jeanannette Doyle",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jeanannettedoyle_1361612978555847",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

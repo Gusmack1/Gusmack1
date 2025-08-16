@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Juliekemp Kemp"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578175107507,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Juliekemp Kemp",
+  "is_still_participant": true,
+  "thread_path": "inbox/juliekempkemp_519150389471721",
+  "magic_words": [
+    
+  ]
+}

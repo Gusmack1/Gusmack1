@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Five Guys Burgers & Fries"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1612468429157,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2501888947348496056"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1612433757024,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2501598113955074553"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Five Guys Burgers & Fries",
+  "is_still_participant": true,
+  "thread_path": "inbox/fiveguysburgersfries_593415935390572",
+  "magic_words": [
+    
+  ]
+}

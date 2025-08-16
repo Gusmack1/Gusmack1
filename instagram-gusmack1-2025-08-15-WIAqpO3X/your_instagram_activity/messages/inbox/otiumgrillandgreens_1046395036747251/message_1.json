@@ -1,0 +1,71 @@
+{
+  "participants": [
+    {
+      "name": "Otium Grill and Greens"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157739862,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Otium Grill and Greens",
+      "timestamp_ms": 1683737282009,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Otium Grill and Greens",
+      "timestamp_ms": 1683676152973,
+      "content": "awesome!! see you soon!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1683675820169,
+      "content": "Nice I will be there in a week",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Otium Grill and Greens",
+          "timestamp": 1683737282
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Otium Grill and Greens",
+      "timestamp_ms": 1683673001439,
+      "content": "Hey there! We\u00e2\u0080\u0099re Otium Grill and Greens, new to the South Lake Union neighborhood. We specialize in fresh greens & lean meats with a great assortment of wines, craft beer & cocktails \u00f0\u009f\u00a5\u0097 Breakfast: 7am-11am, Lunch: 11am-3pm, and Dinner: 3pm-9pm. Our Lounge Bar menu is offered daily from 9pm-10pm.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1683675823
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Otium Grill and Greens",
+  "is_still_participant": true,
+  "thread_path": "inbox/otiumgrillandgreens_1046395036747251",
+  "magic_words": [
+    
+  ]
+}

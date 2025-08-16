@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1607066738480,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://bnc.lt/vtlAkzn7Vbb"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_514909949895765",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

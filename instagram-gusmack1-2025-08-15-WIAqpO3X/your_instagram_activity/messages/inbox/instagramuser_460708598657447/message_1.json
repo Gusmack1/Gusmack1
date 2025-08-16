@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1595483803883,
+      "content": "U said it lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1595459244592,
+      "content": "Just came across your Instagram and I am Obsessed already. Gave up dieting a few years back trying to make myself smaller and now I\u00e2\u0080\u0099m enjoying life eating as much and whatever I want! It\u00e2\u0080\u0099s the best way to live life! Great food inspo!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_460708598657447",
+  "magic_words": [
+    
+  ]
+}

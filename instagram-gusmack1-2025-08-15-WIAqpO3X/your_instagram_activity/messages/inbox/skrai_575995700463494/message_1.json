@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sk Rai"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sk Rai",
+      "timestamp_ms": 1611908916334,
+      "content": "Hyy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sk Rai",
+  "is_still_participant": true,
+  "thread_path": "inbox/skrai_575995700463494",
+  "magic_words": [
+    
+  ]
+}

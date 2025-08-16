@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "sc"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1570563979499,
+      "content": "No idea mate. That was in my mates uncles house but was a belter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sc",
+      "timestamp_ms": 1570473631939,
+      "content": "What burner you got mate?",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2148912091293286790"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sc",
+  "is_still_participant": true,
+  "thread_path": "inbox/sc_535435331182611",
+  "magic_words": [
+    
+  ]
+}

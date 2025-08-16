@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Greenlight Studio - Content Creators"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Greenlight Studio - Content Creators",
+      "timestamp_ms": 1658595098264,
+      "content": "Yes of course, no problem! Will definitely arrange again",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1658595072944,
+      "content": "Hey, looks amazing but I won't be able to make it unfortunately. I won't be in the country.\n\nAnother time maybe?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Greenlight Studio - Content Creators",
+      "timestamp_ms": 1658592907445,
+      "content": "Hey, hope you\u00e2\u0080\u0099re well! I am contacting on behalf of @burgurgrill to see if you\u00e2\u0080\u0099d be up for a collab at their new store opening in Hamilton on August 1st! Please let me know if you\u00e2\u0080\u0099d be interested!\n\nThanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Greenlight Studio - Content Creators",
+  "is_still_participant": true,
+  "thread_path": "inbox/greenlightstudiocontentcreators_838091297577627",
+  "magic_words": [
+    
+  ]
+}

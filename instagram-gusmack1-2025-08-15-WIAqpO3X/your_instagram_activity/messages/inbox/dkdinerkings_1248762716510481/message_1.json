@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "DK - Diner Kings"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DK - Diner Kings",
+      "timestamp_ms": 1713874060424,
+      "content": "Hey,\n\nHope you\u00e2\u0080\u0099re doing great! \u00f0\u009f\u0091\u008b I\u00e2\u0080\u0099m Boushra the social media manager for Dinerkings Glasgow, and I couldn\u00e2\u0080\u0099t help but notice your awesome content on Instagram. Your passion for food really shines through!\ndishes. We believe your honest feedback and unique perspective would be incredibly valuable to us. Plus, we\u00e2\u0080\u0099d be thrilled if you shared your experience with your followers!\n\nWe\u00e2\u0080\u0099re all about great food, good vibes, and building connections with fellow food enthusiasts like yourself.\n\nIf you\u00e2\u0080\u0099re interested, we\u00e2\u0080\u0099d be more than happy to arrange a visit for you at your convenience. Just let us know when works best for you, and we\u00e2\u0080\u0099ll take care of the rest.\n\nLooking forward to hopefully collaborating with you soon!\n\nBest,\nBoushra (Inteliprint - social media manager) \nDinerkings Glasgow",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1714249250
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DK - Diner Kings",
+  "is_still_participant": true,
+  "thread_path": "inbox/dkdinerkings_1248762716510481",
+  "magic_words": [
+    
+  ]
+}

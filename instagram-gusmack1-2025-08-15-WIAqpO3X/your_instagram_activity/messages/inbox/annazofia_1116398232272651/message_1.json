@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Anna Zofia"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anna Zofia",
+      "timestamp_ms": 1656403520007,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1656404433
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anna Zofia",
+  "is_still_participant": true,
+  "thread_path": "inbox/annazofia_1116398232272651",
+  "magic_words": [
+    
+  ]
+}

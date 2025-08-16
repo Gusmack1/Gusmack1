@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Corky's Lounge"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Corky's Lounge",
+      "timestamp_ms": 1550383010267,
+      "content": "Thank you so much for giving us a follow as we are excited to share with you our great content. Feel free to get in touch with any questions. Have a good one. Corky's Garage",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Corky's Lounge",
+  "is_still_participant": true,
+  "thread_path": "inbox/corkyslounge_570977970963066",
+  "magic_words": [
+    
+  ]
+}

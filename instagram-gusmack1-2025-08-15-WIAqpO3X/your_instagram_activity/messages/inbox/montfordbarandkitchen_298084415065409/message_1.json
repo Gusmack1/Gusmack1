@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Montford Bar and Kitchen"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Montford Bar and Kitchen",
+      "timestamp_ms": 1581289671458,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581287468599,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Montford Bar and Kitchen"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Montford Bar and Kitchen",
+  "is_still_participant": true,
+  "thread_path": "inbox/montfordbarandkitchen_298084415065409",
+  "magic_words": [
+    
+  ]
+}

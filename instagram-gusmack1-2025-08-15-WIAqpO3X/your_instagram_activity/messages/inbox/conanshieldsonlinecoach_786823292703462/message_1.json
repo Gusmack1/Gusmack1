@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Conan Shields | Online Coach"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Conan Shields | Online Coach",
+      "timestamp_ms": 1654268360552,
+      "content": "Hi mate thanks for the follow ! \nhow\u00e2\u0080\u0099s things! \n\nHow\u00e2\u0080\u0099s training going atm?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Conan Shields | Online Coach",
+  "is_still_participant": true,
+  "thread_path": "inbox/conanshieldsonlinecoach_786823292703462",
+  "magic_words": [
+    
+  ]
+}

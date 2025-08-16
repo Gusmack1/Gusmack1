@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Anjara Soa"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anjara Soa",
+      "timestamp_ms": 1653504846248,
+      "content": "I am so excited \u00f0\u009f\u0098\u0086",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anjara Soa",
+      "timestamp_ms": 1653504844956,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anjara Soa",
+      "timestamp_ms": 1652949457199,
+      "content": "If \u00c2\u00a34000 was deposited into your account now what would you use it for?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anjara Soa",
+  "is_still_participant": true,
+  "thread_path": "message_requests/anjarasoa_789790599072430",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

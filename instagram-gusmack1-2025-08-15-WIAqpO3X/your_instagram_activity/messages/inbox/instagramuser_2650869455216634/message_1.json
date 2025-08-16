@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1623227412683,
+      "content": "Hello \u00f0\u009f\u0091\u008b today June 9th\n\u00f0\u009f\u008f\u0086 Congratulations! You are very lucky to be selected as the winner and get a prize: an overnight stay in THE decedent Suite including the \u00e2\u0080\u0098Treat me like I\u00e2\u0080\u0099m Famous\u00e2\u0080\u0099 package AND a fully filled Bross Bagels breakfast.\nSign up as a free member to claim your prize and you will receive a gift redemption code.\nCLICK ON THE LINK BELOW\nhttps://brossbagelsofficial.blogspot.com/\nWhen you register successfully, take a screenshot and send it to us, since this is a gift redemption code and the message \"DONE\", we will wait 30 minutes after reading this message to finish recording, and if not, we will send it to someone else, remember that you are the lucky one to receive this message. . .\n\u00f0\u009f\u008f\u0086 \"Good luck\" \u00f0\u009f\u008f\u0086",
+      "share": {
+        "link": "https://brossbagelsofficial.blogspot.com/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_2650869455216634",
+  "magic_words": [
+    
+  ]
+}

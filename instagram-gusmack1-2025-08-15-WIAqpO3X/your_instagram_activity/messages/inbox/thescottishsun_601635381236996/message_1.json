@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "The Scottish Sun"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582460554247,
+      "content": "Hahaha only in Glasgow",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581849651054,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Scottish Sun",
+  "is_still_participant": true,
+  "thread_path": "inbox/thescottishsun_601635381236996",
+  "magic_words": [
+    
+  ]
+}

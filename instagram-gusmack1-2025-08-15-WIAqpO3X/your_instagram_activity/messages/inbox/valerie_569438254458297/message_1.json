@@ -1,0 +1,48 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0093\u008b\u00e2\u0092\u00b6\u00e2\u0093\u0081\u00e2\u0092\u00ba\u00e2\u0093\u0087\u00e2\u0092\u00be\u00e2\u0092\u00ba"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1587999473045,
+      "content": "Yeah will do",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0093\u008b\u00e2\u0092\u00b6\u00e2\u0093\u0081\u00e2\u0092\u00ba\u00e2\u0093\u0087\u00e2\u0092\u00be\u00e2\u0092\u00ba",
+      "timestamp_ms": 1587998894638,
+      "content": "I don\u00e2\u0080\u0099t do have so if  they post an updated menu would you mind sharing pls? \u00f0\u009f\u0098\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0093\u008b\u00e2\u0092\u00b6\u00e2\u0093\u0081\u00e2\u0092\u00ba\u00e2\u0093\u0087\u00e2\u0092\u00be\u00e2\u0092\u00ba",
+      "timestamp_ms": 1587994767655,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2295967241408563437"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0093\u008b\u00e2\u0092\u00b6\u00e2\u0093\u0081\u00e2\u0092\u00ba\u00e2\u0093\u0087\u00e2\u0092\u00be\u00e2\u0092\u00ba",
+  "is_still_participant": true,
+  "thread_path": "inbox/valerie_569438254458297",
+  "magic_words": [
+    
+  ]
+}

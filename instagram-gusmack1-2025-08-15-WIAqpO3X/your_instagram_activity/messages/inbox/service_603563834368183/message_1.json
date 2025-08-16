@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Service"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Service",
+      "timestamp_ms": 1564164709548,
+      "content": "Spell check !! Want !!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Service",
+      "timestamp_ms": 1564164694395,
+      "content": "Hi Gus,\n\nWe wave to put on a show in Glasgow in January ...we are looking for partners / sponsors & cool brands to feature !! Can you help us at all ? We focus on the smaller brands as they are the future!! \n\nBe great to catch up!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Service",
+  "is_still_participant": true,
+  "thread_path": "inbox/service_603563834368183",
+  "magic_words": [
+    
+  ]
+}

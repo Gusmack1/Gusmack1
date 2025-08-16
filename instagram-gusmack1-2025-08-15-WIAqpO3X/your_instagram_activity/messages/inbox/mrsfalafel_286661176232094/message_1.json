@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Mrs Falafel"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mrs Falafel",
+      "timestamp_ms": 1598535252763,
+      "content": "If you are able to attend x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mrs Falafel",
+      "timestamp_ms": 1598535241764,
+      "content": "Can you send me your full name, number and when you would like to join us? \u00f0\u009f\u0098\u008a\u00e2\u009d\u00a4",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1598534574522,
+      "content": "Looks good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1598534569723,
+      "content": "I'll need to get back to you \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mrs Falafel",
+      "timestamp_ms": 1598534140453,
+      "content": "We hope you are able to attend \u00e2\u009d\u00a4",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mrs Falafel",
+      "timestamp_ms": 1598534137270,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mrs Falafel",
+      "timestamp_ms": 1597053165331,
+      "content": "Superb!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1597053158781,
+      "content": "Hey, thanks alot I'll give you a shout \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mrs Falafel",
+      "timestamp_ms": 1597052773122,
+      "content": "Hey! Let us know when you are next in the area! We would love to treat you to a Mrs Falafel \u00f0\u009f\u0098\u008a\u00f0\u009f\u00a5\u0099",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mrs Falafel",
+  "is_still_participant": true,
+  "thread_path": "inbox/mrsfalafel_286661176232094",
+  "magic_words": [
+    
+  ]
+}

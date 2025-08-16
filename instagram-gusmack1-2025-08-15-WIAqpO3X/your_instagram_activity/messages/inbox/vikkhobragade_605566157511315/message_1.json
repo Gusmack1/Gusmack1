@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Vik Khobragade"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Vik Khobragade",
+      "timestamp_ms": 1566373505629,
+      "content": "Vik sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/invites/contact/?i=1woh3xfz7316m&utm_content=8iph777",
+        "share_text": "Create an account or log in to Instagram - A simple, fun & creative way to capture, edit & share photos, videos & messages with friends & family."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Vik Khobragade",
+  "is_still_participant": true,
+  "thread_path": "inbox/vikkhobragade_605566157511315",
+  "magic_words": [
+    
+  ]
+}

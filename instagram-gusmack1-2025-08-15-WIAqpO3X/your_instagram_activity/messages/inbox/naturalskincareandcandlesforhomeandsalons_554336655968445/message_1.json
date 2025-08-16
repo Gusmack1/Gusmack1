@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u008c\u00b1 Natural skincare and candles for home and salons"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u008c\u00b1 Natural skincare and candles for home and salons",
+      "timestamp_ms": 1578343625633,
+      "content": "\u00f0\u009f\u008c\u00b1 sent an attachment.",
+      "share": {
+        "link": "http://www.bamptonhouse.co.uk/",
+        "share_text": "Simple, botanical, natural skincare and candles, handcrafted with the finest organic ingredients and pure essential oils. 100% cruelty-free and chemical-free."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u008c\u00b1 Natural skincare and candles for home and salons",
+  "is_still_participant": true,
+  "thread_path": "inbox/naturalskincareandcandlesforhomeandsalons_554336655968445",
+  "magic_words": [
+    
+  ]
+}

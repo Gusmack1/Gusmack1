@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Master Waiter"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157742261,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Master Waiter",
+      "timestamp_ms": 1690575532487,
+      "content": "Master sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1690578668
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/reel/CvNGRtcqbPw/?id=3156206519166022640_327081567",
+        "share_text": "Tease your way into the weekend with our boozy afternoon tea. This includes fizz o arrival, a bespoke Ciroc cocktail and an afternoon tea platter! \u00f0\u009f\u00a5\u0082\n\nBook now using the link in our bio! \u00f0\u009f\u00a9\u00b7\n\n#afternoontea #brunching #brunch #boozyafternoontea #cocktails #fizz #glasgow #glasgowbar",
+        "original_content_owner": "enishglasgow"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Master Waiter",
+      "timestamp_ms": 1665328842428,
+      "content": "Yo \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb \n\nHope you are good! \n\nWe at Monterey Jack\u00e2\u0080\u0099s have launched our awesome new menu with loads of new stuff including a huge Vegan Range \u00f0\u009f\u008c\u00b1 \n\nWe would love you to pop into one of our venues and try it out along with our amazing new cocktails \u00f0\u009f\u008d\u00b8 \n\nLook forward to welcoming you soon \u00f0\u009f\u0094\u009c \n\nScott Beaton \nRegional Manager\nMonterey Jack\u00e2\u0080\u0099s \n\nScotlands Best Burger winners 2019-2022 \u00f0\u009f\u008d\u0094",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Master Waiter",
+  "is_still_participant": true,
+  "thread_path": "inbox/masterwaiter_897194778333945",
+  "magic_words": [
+    
+  ]
+}

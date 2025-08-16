@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "First Table"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "First Table",
+      "timestamp_ms": 1559882310835,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "First Table",
+      "timestamp_ms": 1559882307095,
+      "content": "First sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/www.firsttable.co.uk",
+        "share_text": "Book the first table of the night and you'll get 50% off the food bill for 2 to 4 people!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "First Table",
+  "is_still_participant": true,
+  "thread_path": "inbox/firsttable_507973973921675",
+  "magic_words": [
+    
+  ]
+}

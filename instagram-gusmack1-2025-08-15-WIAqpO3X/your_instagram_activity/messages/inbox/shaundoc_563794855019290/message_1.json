@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Shaun Doc"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shaun Doc",
+      "timestamp_ms": 1576490028469,
+      "content": "cracking hotel , got a bargain \u00c2\u00a395 for the night ,",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1576447595820,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shaun Doc",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaundoc_563794855019290",
+  "magic_words": [
+    
+  ]
+}

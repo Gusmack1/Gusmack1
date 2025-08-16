@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Helen Tsiolis\u00f0\u009f\u00a7\u00bf\u00f0\u009f\u0095\u008a"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Helen Tsiolis\u00f0\u009f\u00a7\u00bf\u00f0\u009f\u0095\u008a",
+      "timestamp_ms": 1626620665423,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1626620652181,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Helen Tsiolis\u00f0\u009f\u00a7\u00bf\u00f0\u009f\u0095\u008a",
+          "timestamp": 1626620665
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Helen Tsiolis\u00f0\u009f\u00a7\u00bf\u00f0\u009f\u0095\u008a",
+  "is_still_participant": true,
+  "thread_path": "inbox/helentsiolis_178096977565390",
+  "magic_words": [
+    
+  ]
+}

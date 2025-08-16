@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Brave/Nicola/Dawn \u00f0\u009f\u0098\u0082"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Brave/Nicola/Dawn \u00f0\u009f\u0098\u0082",
+      "timestamp_ms": 1611084963998,
+      "content": "Thank you so much for the follow \u00f0\u009f\u0092\u009c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1611085637
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brave/Nicola/Dawn \u00f0\u009f\u0098\u0082",
+  "is_still_participant": true,
+  "thread_path": "inbox/bravenicoladawn_506851710698019",
+  "magic_words": [
+    
+  ]
+}

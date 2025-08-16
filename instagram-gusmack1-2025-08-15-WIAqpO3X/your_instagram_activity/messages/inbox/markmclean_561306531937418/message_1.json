@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Mark McLean"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1546265657276,
+      "content": "What more do u want to know?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mark McLean",
+      "timestamp_ms": 1546260830830,
+      "content": "Hey, I think your stuff is quite amazing.  I would love to know more??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mark McLean",
+  "is_still_participant": true,
+  "thread_path": "inbox/markmclean_561306531937418",
+  "magic_words": [
+    
+  ]
+}

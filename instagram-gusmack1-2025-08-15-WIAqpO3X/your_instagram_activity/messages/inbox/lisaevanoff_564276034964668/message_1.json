@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Lisa Evanoff"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lisa Evanoff",
+      "timestamp_ms": 1562444989286,
+      "content": "It is but really good food... At least when I was there a few months back",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1562444953775,
+      "content": "Thought that was a bar",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lisa Evanoff",
+      "timestamp_ms": 1562444950556,
+      "content": "I think they have another location too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lisa Evanoff",
+      "timestamp_ms": 1562444918365,
+      "content": "153 bath street",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1562444788645,
+      "content": "Where's that?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lisa Evanoff",
+      "timestamp_ms": 1562444444214,
+      "content": "Butterfly and the Pig",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2082139347776621110"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lisa Evanoff",
+  "is_still_participant": true,
+  "thread_path": "inbox/lisaevanoff_564276034964668",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "participants": [
+    {
+      "name": "Monterey Jacks"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Monterey Jacks",
+      "timestamp_ms": 1577218096056,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1577213369340,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Monterey Jacks"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2206148070852694912"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monterey Jacks",
+      "timestamp_ms": 1577212295446,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Monterey Jacks",
+      "timestamp_ms": 1577212274624,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1577203292619,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Monterey Jacks"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2206063529026755951"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Monterey Jacks",
+  "is_still_participant": true,
+  "thread_path": "inbox/montereyjacks_553866066005617",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Lo\u00cc\u0081tus"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1545830969998,
+      "content": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lo\u00cc\u0081tus",
+      "timestamp_ms": 1545830963206,
+      "content": "Lo\u00cc\u0081tus sent an attachment.",
+      "share": {
+        "link": "https://www.lotustabacaria.com.br/",
+        "share_text": "A L\u00c3\u00b3tus Tabacaria est\u00c3\u00a1 desde 2016 no mercado de narguiles. Sempre trazendo novidades das melhores marcas, com o melhor pre\u00c3\u00a7o e rapidez na entrega ..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lo\u00cc\u0081tus",
+  "is_still_participant": true,
+  "thread_path": "inbox/lotus_545499490185649",
+  "magic_words": [
+    
+  ]
+}

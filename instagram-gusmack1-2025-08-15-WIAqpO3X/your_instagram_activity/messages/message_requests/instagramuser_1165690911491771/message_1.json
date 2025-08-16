@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1685650030009,
+      "content": "Hey pet enthusiasts! \u00f0\u009f\u0090\u00b6\u00f0\u009f\u0098\u00ba\n\nWe're on the lookout for ambassadors to represent our brand clothes, toys, accessories for pets, Pet Paws, and we think you would be a perfect fit! As an ambassador, you will have the opportunity to try out our unique pieces \u00f0\u009f\u0090\u0095 and be part of an exclusive community.\n\nSimply send a direct message to our main page @doctpaw using the keyword \"CODE\" and our team will get back to you with further details.\n\n\u00f0\u009f\u0091\u0089\u00f0\u009f\u008f\u00bb @doctpaw \u00f0\u009f\u0091\u0088\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1165690911491771",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

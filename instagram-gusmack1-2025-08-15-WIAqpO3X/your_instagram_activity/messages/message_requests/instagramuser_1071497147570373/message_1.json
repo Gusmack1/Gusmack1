@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1687393927117,
+      "content": "Hello, can you please send a message to @hppackofficial\n\u00f0\u009f\u0090\u00b6 they want to collaborate with you!\nWe're looking for a few photogenic pets that can wear our products and provide us with some photos. You will be getting free exclusive products as well as a featuring on their official page! @hppackofficial \u00f0\u009f\u0090\u00b6\n\nJust message us @hppackofficial now \u00f0\u009f\u0098\u008d Can\u00e2\u0080\u0099t wait to hear from you!!\n\nTell them Naila invited you\u00e2\u009d\u00a4\u00ef\u00b8\u008f @hppackofficial",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1687393926768,
+      "content": "Instagram User sent an attachment.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1071497147570373",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

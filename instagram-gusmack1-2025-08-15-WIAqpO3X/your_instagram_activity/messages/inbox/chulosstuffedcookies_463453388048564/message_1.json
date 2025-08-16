@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "CHULO\u00e2\u0080\u0099S STUFFED COOKIES"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679159729350,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1634453453660,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHULO\u00e2\u0080\u0099S STUFFED COOKIES",
+      "timestamp_ms": 1618569019034,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1618567706277,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CHULO\u00e2\u0080\u0099S STUFFED COOKIES",
+          "timestamp": 1618569019
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/chuloscookies/2552360919512178279"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "CHULO\u00e2\u0080\u0099S STUFFED COOKIES",
+  "is_still_participant": true,
+  "thread_path": "inbox/chulosstuffedcookies_463453388048564",
+  "magic_words": [
+    
+  ]
+}

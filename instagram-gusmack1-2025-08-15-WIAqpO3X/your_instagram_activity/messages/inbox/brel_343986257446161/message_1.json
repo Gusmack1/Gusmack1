@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Brel"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632838095126,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brel",
+      "timestamp_ms": 1624530300840,
+      "content": "No problem! If you want to drop an email to hello@brelbar.com with your name and your preferred days & times over the next week or so, the booking team will be able to get you sorted!\u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1624530325
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1624527987964,
+      "content": "Hey, this sounds great, can i get back to you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Brel",
+      "timestamp_ms": 1624442142657,
+      "content": "Hey!\u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bb\n\nHope you\u00e2\u0080\u0099re having a lovely week so far! \u00f0\u009f\u0098\u0081\n\nWe took one look at your page and got hungry so it\u00e2\u0080\u0099s only right that we invite you to Brel to do an official taste test of our delicious menu \u00f0\u009f\u0091\u0080(featuring 3 loaded burgers \u00f0\u009f\u008d\u0094)\n\nThe rundown:\n\u00f0\u009f\u0094\u00a5 You\u00e2\u0080\u0099ll be seated at one of our cosy outdoor firepits\n\u00f0\u009f\u008d\u00bd Served a main course and drink for you and a friend\n\u00f0\u009f\u008d\u00a1 Given our legendary s\u00e2\u0080\u0099mores to toast\n\nIf this sounds like a bit of you, let us know and we can get your booking sorted!\u00e2\u009c\u00a8\n\nThanks \u00f0\u009f\u0098\u008a\nIona",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brel",
+  "is_still_participant": true,
+  "thread_path": "inbox/brel_343986257446161",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157740239,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1682367560854,
+      "content": "Sure",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1682367343346,
+      "content": "Hi there \n\nThanks for getting back to me and taking the time to explain your rates. I\u00e2\u0080\u0099m sorry at this moment in time I don\u00e2\u0080\u0099t think the client has the budget for this. However, I can keep you in mind for campaigns with bigger budgets!?\n\nThanks\nSidra \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1682366747861,
+      "content": "Hi there, thanks for contacting me. Please be aware that this is out with my normal posting and any advertising would be at cost. I charge \u00c2\u00a3200 for a grid post which includes Facebook as it's linked in. This includes a story post as well. If you want a Google review this jumps up to \u00c2\u00a3500. I will invoice you first before I make the post and will share with you what I'm posting. Please advise if this is something you want to go ahead with?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1682366109863,
+      "content": "Hey! Sidra here from Oceanic Media. \n\nI hope you\u00e2\u0080\u0099re well! We love your content and think you\u00e2\u0080\u0099d be perfect for our next campaign.\nOn behalf of @parathaboxuk we would like to invite you to come and experience the fresh and authentic taste of our fan favourite Paratha wraps and more !\nParatha Box prides itself on food that is authentic, made with love and will keep you wanting to come back for more. \nYou\u00e2\u0080\u0099re invited to come and try a complementary meal on us, for you and a plus one, in exchange for a grid post/reel and a story post.\nWe would love the content to focus on educating your followers on what a Paratha is - describing what you\u00e2\u0080\u0099re eating and the authenticity of it. (We are happy to send more info regarding their food and their values as a restaurant \u00f0\u009f\u008d\u00bd\u00ef\u00b8\u008f)\n\nLocation: 491 Aikenhead Rd, Glasgow G42 0PW\nDate: Mon - Sun\nTime: 4pm onward \n\nPlease respond with a date and time that suits you, so we can arrange your visit as soon as possible \u00e2\u009c\u00a8 \n\nLook forward to hearing from you!\nSidra \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_975612860492136",
+  "magic_words": [
+    
+  ]
+}

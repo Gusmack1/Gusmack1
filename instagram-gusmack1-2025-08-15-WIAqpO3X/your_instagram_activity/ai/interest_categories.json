@@ -1,0 +1,104 @@
+[
+  {
+    "timestamp": 1754319710,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in humor and comedy"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754319710
+      }
+    ],
+    "fbid": "18524940613032322"
+  },
+  {
+    "timestamp": 1754319710,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in retro gaming and classic video games"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754319710
+      }
+    ],
+    "fbid": "18524940595032322"
+  },
+  {
+    "timestamp": 1754319710,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in food and drink"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754319710
+      }
+    ],
+    "fbid": "18524940592032322"
+  },
+  {
+    "timestamp": 1754319710,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in glasgow and scotland"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754319710
+      }
+    ],
+    "fbid": "18524940589032322"
+  },
+  {
+    "timestamp": 1754319710,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in music and concerts"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754319710
+      }
+    ],
+    "fbid": "18524940586032322"
+  },
+  {
+    "timestamp": 1754319710,
+    "media": [
+      
+    ],
+    "label_values": [
+      {
+        "label": "Interest",
+        "value": "The user might be interested in isle of skye and scottish culture"
+      },
+      {
+        "label": "Last updated time",
+        "timestamp_value": 1754319710
+      }
+    ],
+    "fbid": "18524940583032322"
+  }
+]

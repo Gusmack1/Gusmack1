@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Megan Smith"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1611214987770,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Megan Smith",
+  "is_still_participant": true,
+  "thread_path": "inbox/megansmith_577383740327246",
+  "magic_words": [
+    
+  ]
+}

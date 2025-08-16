@@ -1,0 +1,103 @@
+{
+  "participants": [
+    {
+      "name": "Mozza Pizza"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mozza Pizza",
+      "timestamp_ms": 1596662892028,
+      "content": "Hi \u00f0\u009f\u0091\u008b\u00f0\u009f\u008f\u00bd Mozza is launching in Silverburn and we would love to have you join us to celebrate \u00f0\u009f\u008e\u0089 There be lotsa Mozza pizza and drinks on us and fun and games for you to enjoy! You may bring up to 3 additional guests. All we need you to do is post about it on social media and tag us \u00f0\u009f\u008d\u0095 \nPlease let us know if you would like to attend on 14th or 15th August and we can get your reservation sorted.\n\nThe Mozza Team",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mozza Pizza",
+      "timestamp_ms": 1562055108909,
+      "content": "Just show this on the night to receive your free food & drinks \u00e2\u0098\u00ba\u00ef\u00b8\u008f\u00f0\u009f\u008d\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mozza Pizza",
+      "timestamp_ms": 1562055097830,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561991649420,
+      "content": "Sounds good thanks! \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mozza Pizza",
+      "timestamp_ms": 1561991609662,
+      "content": "We\u00e2\u0080\u0099ll send your free food and drinks ticket through ASAP \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mozza Pizza",
+      "timestamp_ms": 1561991591954,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561991561059,
+      "content": "Sure :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Mozza Pizza"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mozza Pizza",
+      "timestamp_ms": 1561991546696,
+      "content": "Great! Would you like to bring a plus one? \u00f0\u009f\u008d\u0095",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561991504861,
+      "content": "Count me in it sounds great",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Mozza Pizza",
+      "timestamp_ms": 1561991428442,
+      "content": "Let\u00e2\u0080\u0099s get #MadForMozza & #MadForRadioMozza \u00f0\u009f\u00a5\u00b3\n\u00c2\u00a0\nYou\u00e2\u0080\u0099re invited to our Radio Mozza event this Saturday night!\n\nThe concept behind Radio Mozza is late night food & music right in the heart of the city, you don\u00e2\u0080\u0099t have to pick between great late night music and great late night food because we\u00e2\u0080\u0099re serving up both! What makes us most excited about this concept is that we want to support local bands, DJs and musicians that want a bit more exposure. This week we have a local DJ on the decks \u00f0\u009f\u008e\u00b6\n\u00c2\u00a0\nDetails of the event:\n\u00f0\u009f\u0093\u0085Saturday 6th July\n\u00f0\u009f\u0095\u0098Arrival between 9pm \u00e2\u0080\u0093 10.30pm\n\u00f0\u009f\u008d\u0095Free Mozza Pizza\n\u00f0\u009f\u008d\u00b9Free Drinks\n\u00f0\u009f\u008e\u00b6Live Music\n\u00c2\u00a0\nWe\u00e2\u0080\u0099re are excited for this concept to take off in Glasgow to support local musicians as well as a great local restaurant! We hope you are able to pop in this weekend to enjoy the newest night out in Glasgow.\n\u00c2\u00a0\nLet us know if you can go and we\u00e2\u0080\u0099ll send you your ticket to free food & drink on the night! \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1560456603754,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/madformozza/2065580293013094490"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mozza Pizza",
+  "is_still_participant": true,
+  "thread_path": "inbox/mozzapizza_532220338169206",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "participants": [
+    {
+      "name": "CHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "CHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084",
+      "timestamp_ms": 1650902755301,
+      "content": "Nice 1",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1650902814
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084",
+      "timestamp_ms": 1650902743691,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650902737042,
+      "content": "I'll be there sat, can't wait to try, never been",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084",
+          "timestamp": 1650902743
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084",
+      "timestamp_ms": 1650902712159,
+      "content": "Appreciated mate",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1650902717
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650902635606,
+      "content": "All the chicken! Mwwwhhhaaaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "CHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084",
+      "timestamp_ms": 1650902607371,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650902250882,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "CHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084",
+          "timestamp": 1650902607
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0080\u008eCHICKEN SKOOP \u00c2\u00ae   \u00d8\u00ad\u00d9\u0084\u00d8\u00a7\u00d9\u0084\u00e2\u0080\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/chickenskooprhlal_5491659887519229",
+  "magic_words": [
+    
+  ]
+}

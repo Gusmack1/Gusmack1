@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "The Go-To Company"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Go-To Company",
+      "timestamp_ms": 1625517141698,
+      "content": "The products will be sent out to you this week. Thanks - Rhys",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Go-To Company",
+      "timestamp_ms": 1625517115060,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1625495725809,
+      "content": "Nice one, 32 menteith avenue BishopBriggs glasgow g641hp",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "The Go-To Company",
+          "timestamp": 1625517115
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "The Go-To Company",
+      "timestamp_ms": 1625482010117,
+      "content": "Hi there!\n\nHope you are well.\n\nOur client, @cheshirefarm produce a range of chilled potato products, which are all additive, preservative & gluten-free. Being a healthier alternative to your standard potato products and wanting to spread the word about their range, they\u00e2\u0080\u0099d love to send you a sample box out for free if you\u00e2\u0080\u0099d like to try? Their range includes:\n\n-Hand Cut Chips\n-Roast Potatoes with Goose Fat\n-Potato Wedges with Sea Salt and Black Pepper\n-Sliced Potatoes with Garlic and Rosemary\n-Spicy Potato Bites\n-Sweet Potato Chips\n-Potato Bites with Rosemary and Sea Salt\n\nPlease let me know your address and I\u00e2\u0080\u0099ll get them to send some out to you.\n\nThanks \n\nRhys",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Go-To Company",
+  "is_still_participant": true,
+  "thread_path": "inbox/thegotocompany_333703134949933",
+  "magic_words": [
+    
+  ]
+}

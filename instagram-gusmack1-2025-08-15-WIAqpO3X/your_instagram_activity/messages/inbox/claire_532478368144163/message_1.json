@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "c l a i r e \u00e2\u009c\u00a8"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1635938796556,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581289669900,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "c l a i r e \u00e2\u009c\u00a8",
+  "is_still_participant": true,
+  "thread_path": "inbox/claire_532478368144163",
+  "magic_words": [
+    
+  ]
+}

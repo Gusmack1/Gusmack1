@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "Swaran Indian Cuisine"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Swaran Indian Cuisine",
+      "timestamp_ms": 1663530305999,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Swaran Indian Cuisine",
+      "timestamp_ms": 1663530303054,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1663529908992,
+      "content": "You shared a story.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Swaran Indian Cuisine",
+          "timestamp": 1663530303
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1663530433
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Swaran Indian Cuisine",
+      "timestamp_ms": 1663529683504,
+      "content": "Hi gusmack1,\n\nThank you for getting in touch.\n\nPlease note for reservations give us a call on 0141 280 3798. After 3pm \n\nOpening hours are 4pm Till 10pm\n\nIf your query is in relation to anything else someone will be in touch!\n \nWww.swarancuisine.co.uk \n\nThank you,\n\nTeam Swaran",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1663529680735,
+      "content": "You sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Swaran Indian Cuisine",
+          "timestamp": 1663530305
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CiqPScqrhxV/?carousel_share_child_media_id=2930221745987001429_204320321",
+        "share_text": "Order Pictured - Chicken Bhuna, tandoori sharing platter, chicken pakora, Garlic prawns.\n\nTime - 1 hour 20 mins in the place.\n\nPresentation - see pics. Great the tandoori came out sizzling.\n\nQuality - 5/5 - it was Great, the sauces not too spicy and delicious. The chicken was nice and juicy. Best Bhuna in bishopbriggs? Probably. The perswari naan was the best I've had. Everyone thoroughly enjoyed it.\n\nQuantity - 4/5 - There were loads. I Couldn't fit in dessert and had too much rice but my niece could and they use tartan sprinkles next door which is great seeing local businesses supporting each other.\n\nValue for money - Good compared to similar places.\n\nAdditionally - the place was busy which is always a good sign. Shout out to the service as well it was spot on. I'm glad to have a restaurant like this in the area. A must visit if you're in the area. I was a local in the Briggs bar many moons ago and the old pool room from the Briggs bar has its own private dining experience seating about 20 people with glass doors. There was a 30th in there when we were seated.\n.\n.\n.\n.\n.\n#glasgowfood #glasgowfoodie #glasgowfoodies #glasgowfoodblog #glasgowfoodblogger #glasgowfoodlover #glasgowfoodanddrink #scottishfood #scottishfoodie #scottishfoodanddrink #scottishfoodbible #scottishfoodbloggers #scottishglasgowfoodies #scottishfoodies #scottishfoodblogger #scottishfoodblog #scottishfoodiegals #scotlandfood #scotlandfoodie #scotlandfoodanddrink #ukfoodie #ukfood #ukfoodies #ukfoodblogger #ukfoodbloggers #eastdunbartonshire #auchinairn #swaranbishopbriggs #swaranindiancuisine #tartansprinkles",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Swaran Indian Cuisine",
+  "is_still_participant": true,
+  "thread_path": "inbox/swaranindiancuisine_879822493404507",
+  "magic_words": [
+    
+  ]
+}

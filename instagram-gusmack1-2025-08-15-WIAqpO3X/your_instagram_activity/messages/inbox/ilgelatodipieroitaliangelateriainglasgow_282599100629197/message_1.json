@@ -1,0 +1,47 @@
+{
+  "participants": [
+    {
+      "name": "Il Gelato Di Piero | Italian Gelateria in Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Il Gelato Di Piero | Italian Gelateria in Glasgow",
+      "timestamp_ms": 1645051777294,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645042961600,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1645052251
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Il Gelato Di Piero | Italian Gelateria in Glasgow",
+          "timestamp": 1645051777
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/ilgelatodipiero/2775108590035257157"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Il Gelato Di Piero | Italian Gelateria in Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/ilgelatodipieroitaliangelateriainglasgow_282599100629197",
+  "magic_words": [
+    
+  ]
+}

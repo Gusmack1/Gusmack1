@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "hangrytwinssss"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "hangrytwinssss",
+      "timestamp_ms": 1649165675898,
+      "content": "we\u00e2\u0080\u0099re from hk but one of us is studying in the uk and one of us in ireland",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1649165642449,
+      "content": "Where r u based?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "hangrytwinssss",
+      "timestamp_ms": 1649165629547,
+      "content": "we\u00e2\u0080\u0099ve never collaborated with others so im not rly sure how it works\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "hangrytwinssss",
+      "timestamp_ms": 1649165609177,
+      "content": "maybe just a food post?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1649165511338,
+      "content": "Lol what did u have in mind?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "hangrytwinssss",
+      "timestamp_ms": 1649165394594,
+      "content": "heyy i was just wondering whether u wanna do a collaboration post together \u00f0\u009f\u0098\u0086",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "hangrytwinssss",
+  "is_still_participant": true,
+  "thread_path": "inbox/hangrytwinssss_761536215233136",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Burger King BR"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1629989436121,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2648865766822851525"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Burger King BR",
+  "is_still_participant": true,
+  "thread_path": "inbox/burgerkingbr_2626920680935959",
+  "magic_words": [
+    
+  ]
+}

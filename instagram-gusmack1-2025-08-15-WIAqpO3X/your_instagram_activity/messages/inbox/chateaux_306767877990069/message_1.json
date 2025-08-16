@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Chateau-x"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1656432875162,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638538377623,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2720579483666728571"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chateau-x",
+      "timestamp_ms": 1638537622183,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/chateaux_306767877990069/photos/262926631_349501756978753_6176228377243480754_n_393095385924528.jpg",
+          "creation_timestamp": 1638537625
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638517653756,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chateau-x",
+  "is_still_participant": true,
+  "thread_path": "inbox/chateaux_306767877990069",
+  "magic_words": [
+    
+  ]
+}

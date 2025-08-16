@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Resin crafting Art"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Resin crafting Art",
+      "timestamp_ms": 1550587247067,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1550562248798,
+      "content": "Np u too",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Resin crafting Art"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Resin crafting Art",
+      "timestamp_ms": 1550562056313,
+      "content": "Thank you for your follow!\n\nHave a great day!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Resin crafting Art",
+  "is_still_participant": true,
+  "thread_path": "inbox/resincraftingart_545538476836587",
+  "magic_words": [
+    
+  ]
+}

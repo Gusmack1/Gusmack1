@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Shaun Galbraith"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Shaun Galbraith",
+      "timestamp_ms": 1560206014568,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "original_content_owner": "shaungalbraith"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shaun Galbraith",
+  "is_still_participant": true,
+  "thread_path": "inbox/shaungalbraith_557633275627772",
+  "magic_words": [
+    
+  ]
+}

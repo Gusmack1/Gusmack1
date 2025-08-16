@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "TruckStopToday"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TruckStopToday",
+      "timestamp_ms": 1674232635107,
+      "content": "TruckStopToday sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CnpNjt8JUd0/",
+        "share_text": "Booking now. Friday lunchtimes drop us a DM.\n#glasgowstreetfood #streetfood #glasgow",
+        "original_content_owner": "truckstoptoday"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "TruckStopToday",
+  "is_still_participant": true,
+  "thread_path": "message_requests/truckstoptoday_977211183665637",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

@@ -1,0 +1,98 @@
+{
+  "participants": [
+    {
+      "name": "Meat:Stack Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Meat:Stack Glasgow",
+      "timestamp_ms": 1570553873029,
+      "content": "Looking forward to getting to know you all",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meat:Stack Glasgow",
+      "timestamp_ms": 1570553864243,
+      "content": "Yeah it seems that way, everyone has been dead positive.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1570553842205,
+      "content": "No bother I love the Glasgow food scene everyone's sound.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meat:Stack Glasgow",
+      "timestamp_ms": 1570553775431,
+      "content": "When you are back, give me a shout and I\u00e2\u0080\u0099ll sort you a table",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meat:Stack Glasgow",
+      "timestamp_ms": 1570553758773,
+      "content": "Amazing. That sounds ace. Wish I was in Taiwan.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1570553720474,
+      "content": "I'm in Taiwan next week but I'll share the love",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meat:Stack Glasgow",
+      "timestamp_ms": 1570553420283,
+      "content": "You fancy coming to try some food next week in exchange for some Glasgow based social media love? New to the city and want to get the \u00e2\u0080\u0098food people\u00e2\u0080\u0099 on side! :)",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meat:Stack Glasgow",
+      "timestamp_ms": 1570553292637,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2150273203440147031"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1570552567790,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2150273203440147031"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meat:Stack Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/meatstackglasgow_500334274708983",
+  "magic_words": [
+    
+  ]
+}

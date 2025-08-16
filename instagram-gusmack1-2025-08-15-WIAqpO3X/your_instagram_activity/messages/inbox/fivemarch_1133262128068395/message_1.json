@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "FIVE MARCH"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679159931651,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "FIVE MARCH",
+  "is_still_participant": true,
+  "thread_path": "inbox/fivemarch_1133262128068395",
+  "magic_words": [
+    
+  ]
+}

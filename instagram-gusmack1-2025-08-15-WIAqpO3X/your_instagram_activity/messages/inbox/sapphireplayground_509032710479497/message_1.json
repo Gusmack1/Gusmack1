@@ -1,0 +1,64 @@
+{
+  "participants": [
+    {
+      "name": "Sapphire Playground"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sapphire Playground",
+      "timestamp_ms": 1577738947378,
+      "content": "Thank you \u00f0\u009f\u0092\u009c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sapphire Playground",
+      "timestamp_ms": 1577738931861,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1577733495988,
+      "content": "OK I'll have a look np",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sapphire Playground"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sapphire Playground",
+      "timestamp_ms": 1577697341403,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sapphire Playground",
+      "timestamp_ms": 1577697325485,
+      "content": "Hi there if you have a second\u00c2\u00a0 to check out @homelessartscotland it would mean the world, we make artwork to help the Homeless \u00f0\u009f\u0099\u008f\u00e2\u009d\u00a4",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sapphire Playground",
+  "is_still_participant": true,
+  "thread_path": "inbox/sapphireplayground_509032710479497",
+  "magic_words": [
+    
+  ]
+}

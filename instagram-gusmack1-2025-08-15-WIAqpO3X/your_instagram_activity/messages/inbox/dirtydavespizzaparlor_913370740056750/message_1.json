@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Dirty Dave's Pizza Parlor"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1660086335451,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1660086160184,
+      "share": {
+        "link": "https://www.instagram.com/p/ChDnS4HvKUe/?carousel_share_child_media_id=2901335405980591390_204320321",
+        "share_text": "Order - \n\nGarlic cheese bread.\n\n12\" Meatlovers pizza - Canadian bacon, pepperoni, hamburger, and sausage.\n\n10\" Ham and Pineapple.\n \n\nTime - within 40 mins\n\nPresentation - see pics, looks amazing. The pizzas came in a roasting hot metal plate right out the oven. No table service when we were there. Had to go up and order and pay upfront at the entrance. No refills offered on the large drinks with unlimited refills.\n\nQuality - 4/5 - it was Good and the toppings tasted amazing, the pizza was thin and crispy although no option to choose, just as well I like them like that.\n\nQuantity - 2/5 - Below Average amount for a starter but did taste good. Only one slice of garlic bread per portion which is poor, standard size is usually 3. Pizza was the same size to expect.\n\nValue for money - It's a tad expensive but it's a good quality food. No wonder they have been there 50 years.\n\nIf you want pizza, go here it's good quality.\n\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n#pizza #italianfood #pizzalover #pizzatime #cheese #pasta #mozzarella #pizzaporn #glasgowfood #glasgowfoodie #scottishglasgowfoodies #lacey #laceyfood #dirtydaves #dirtydavespizza #ukfoodie #scottishfoodie #scotlandfoodie",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dirty Dave's Pizza Parlor",
+  "is_still_participant": true,
+  "thread_path": "inbox/dirtydavespizzaparlor_913370740056750",
+  "magic_words": [
+    
+  ]
+}

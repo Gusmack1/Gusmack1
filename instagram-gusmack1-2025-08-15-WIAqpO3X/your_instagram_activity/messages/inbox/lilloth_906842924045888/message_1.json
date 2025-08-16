@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Lil Loth"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lil Loth",
+      "timestamp_ms": 1654169469168,
+      "content": "Page is awesome! Don\u00e2\u0080\u0099t know how a rapper and foodie would collab but the food looks delicious \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lil Loth",
+  "is_still_participant": true,
+  "thread_path": "inbox/lilloth_906842924045888",
+  "magic_words": [
+    
+  ]
+}

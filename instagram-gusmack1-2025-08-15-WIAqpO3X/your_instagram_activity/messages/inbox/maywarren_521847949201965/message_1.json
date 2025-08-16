@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "May Warren"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "May Warren",
+      "timestamp_ms": 1609529339833,
+      "content": "Nice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "May Warren",
+      "timestamp_ms": 1609529339464,
+      "content": "Nicr",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1609493715931,
+      "content": "Great u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "May Warren",
+      "timestamp_ms": 1609490524666,
+      "content": "Hello\nHow are you doing",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "May Warren",
+  "is_still_participant": true,
+  "thread_path": "inbox/maywarren_521847949201965",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Nature Tent"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nature Tent",
+      "timestamp_ms": 1611819960504,
+      "content": "Pls follow us \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nature Tent",
+  "is_still_participant": true,
+  "thread_path": "inbox/naturetent_523126545740772",
+  "magic_words": [
+    
+  ]
+}

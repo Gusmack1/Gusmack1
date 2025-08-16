@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Deej"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1608646733906,
+      "content": "Lol epic",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deej",
+      "timestamp_ms": 1608640045389,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deej",
+      "timestamp_ms": 1608640027015,
+      "content": "This made me think about your page man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deej",
+      "timestamp_ms": 1608640002604,
+      "content": "https://www.facebook.com/1900097940271540/posts/2811735525774439/",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Deej",
+      "timestamp_ms": 1600369608938,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Deej",
+  "is_still_participant": true,
+  "thread_path": "inbox/deej_573962027339119",
+  "magic_words": [
+    
+  ]
+}

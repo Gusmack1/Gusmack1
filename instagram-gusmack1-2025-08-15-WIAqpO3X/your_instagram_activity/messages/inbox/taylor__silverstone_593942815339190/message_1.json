@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "taylor__silverstone"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1555436247593,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "taylor__silverstone",
+  "is_still_participant": true,
+  "thread_path": "inbox/taylor__silverstone_593942815339190",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Finlay Jordane \u00f0\u009f\u0096\u00a4"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1557378835968,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Finlay Jordane \u00f0\u009f\u0096\u00a4",
+  "is_still_participant": true,
+  "thread_path": "inbox/finlayjordane_538150880911201",
+  "magic_words": [
+    
+  ]
+}

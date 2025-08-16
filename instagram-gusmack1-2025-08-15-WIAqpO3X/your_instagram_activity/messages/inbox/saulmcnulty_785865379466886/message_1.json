@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Saul McNulty"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Saul McNulty",
+      "timestamp_ms": 1652257482222,
+      "content": "Hey Gus thanks for the follow! Your food looks amazing\u00f0\u009f\u0098\u0081 \n\nThought I\u00e2\u0080\u0099d reach out and ask what brought you to my page and made you decide to follow?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Saul McNulty",
+  "is_still_participant": true,
+  "thread_path": "inbox/saulmcnulty_785865379466886",
+  "magic_words": [
+    
+  ]
+}

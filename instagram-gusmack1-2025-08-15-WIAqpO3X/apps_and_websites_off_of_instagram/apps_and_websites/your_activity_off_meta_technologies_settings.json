@@ -1,0 +1,46 @@
+{
+  "timestamp": 1655505167,
+  "media": [
+    
+  ],
+  "label_values": [
+    {
+      "label": "Account association state",
+      "value": "Account Association Enabled"
+    },
+    {
+      "label": "Latest activity time",
+      "timestamp_value": 1697633217
+    },
+    {
+      "label": "Combined number of times these privacy settings have been taken",
+      "value": "4"
+    },
+    {
+      "label": "Number of times the clear history action has been taken",
+      "value": "0"
+    },
+    {
+      "label": "Number of times the account association settings have been disabled",
+      "value": "2"
+    },
+    {
+      "label": "Number of times the account association settings have been enabled",
+      "value": "2"
+    },
+    {
+      "label": "Your latest and upcoming account association states",
+      "dict": [
+        {
+          "label": "2023-10-19",
+          "value": "Account Association Enabled"
+        },
+        {
+          "label": "2023-07-05",
+          "value": "Account Association Disabled"
+        }
+      ]
+    }
+  ],
+  "fbid": "18306173407032322"
+}

@@ -1,0 +1,30 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1567728186320,
+      "share": {
+        "link": "https://www.instagram.com/p/B1_sEuZDXqW/?id=2125611387878996630_19515250371",
+        "share_text": "",
+        "original_content_owner": "palmina7166"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_522773982442695",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

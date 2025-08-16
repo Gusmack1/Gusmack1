@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "VIC"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "VIC",
+      "timestamp_ms": 1708498830485,
+      "content": "Just bantttta \u00f0\u009f\u00ab\u00a3\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1708463990011,
+      "content": "vicscrans wasn't notified about this message because they're in quiet mode.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1708463989691,
+      "content": "Oh the banter",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "VIC",
+  "is_still_participant": true,
+  "thread_path": "inbox/vic_1211445653575521",
+  "magic_words": [
+    
+  ]
+}

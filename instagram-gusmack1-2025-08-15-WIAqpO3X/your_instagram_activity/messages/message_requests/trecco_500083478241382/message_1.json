@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Trecco"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Trecco",
+      "timestamp_ms": 1650025277968,
+      "content": "Hey! I hope you are doing well. We\u00e2\u0080\u0099re launching a food and travel app built for creators. We\u00e2\u0080\u0099re looking for beta testers to join our community before it opens to the public later this year. Based on your profile we think that you would be a great fit! Let us know! -Yash",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Trecco",
+  "is_still_participant": true,
+  "thread_path": "message_requests/trecco_500083478241382",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

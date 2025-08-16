@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "McGhee\u00e2\u0080\u0099s Bakery"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1639068242947,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "McGhee\u00e2\u0080\u0099s Bakery",
+      "timestamp_ms": 1635880791624,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1635869994184,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "McGhee\u00e2\u0080\u0099s Bakery",
+          "timestamp": 1635880791
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "McGhee\u00e2\u0080\u0099s Bakery",
+  "is_still_participant": true,
+  "thread_path": "inbox/mcgheesbakery_3086537101561708",
+  "magic_words": [
+    
+  ]
+}

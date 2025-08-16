@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ashleigh Neill"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1595840335348,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ashleigh Neill",
+  "is_still_participant": true,
+  "thread_path": "inbox/ashleighneill_547723659951775",
+  "magic_words": [
+    
+  ]
+}

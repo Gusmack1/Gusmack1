@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "the.glasgow.gannet"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1652573202413,
+      "content": "Love Ur scran?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "the.glasgow.gannet",
+      "timestamp_ms": 1652573150675,
+      "content": "Finally followed me back! I absolutely love you page!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1652573182
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "the.glasgow.gannet",
+  "is_still_participant": true,
+  "thread_path": "inbox/theglasgowgannet_788479192538838",
+  "magic_words": [
+    
+  ]
+}

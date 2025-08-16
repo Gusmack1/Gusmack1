@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "il pavone | Italian | Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1592443660700,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "il pavone | Italian | Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/ilpavoneitalianglasgow_545026700223695",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Gavin Fitzpatrick"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1560458701544,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gavin Fitzpatrick",
+  "is_still_participant": true,
+  "thread_path": "inbox/gavinfitzpatrick_583101233087691",
+  "magic_words": [
+    
+  ]
+}

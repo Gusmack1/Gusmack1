@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Time2Dine"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Time2Dine",
+      "timestamp_ms": 1597420963307,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1597414493649,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Time2Dine"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Time2Dine",
+  "is_still_participant": true,
+  "thread_path": "inbox/time2dine_568014341259444",
+  "magic_words": [
+    
+  ]
+}

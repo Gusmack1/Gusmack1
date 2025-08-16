@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Sarah | Time + Project Management Expert"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sarah | Time + Project Management Expert",
+      "timestamp_ms": 1650391285376,
+      "content": "Thanks for the follow! Hope you\u00e2\u0080\u0099re well? Sarah\u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sarah | Time + Project Management Expert",
+  "is_still_participant": true,
+  "thread_path": "inbox/sarahtimeprojectmanagementexpert_867609821306031",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0094\u00ae Lisa Treanor \u00f0\u009f\u0094\u00ae"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157740699,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0094\u00ae Lisa Treanor \u00f0\u009f\u0094\u00ae",
+      "timestamp_ms": 1685654300032,
+      "content": "\u00f0\u009f\u0098\u0086\u00f0\u009f\u0098\u0086\u00f0\u009f\u0098\u0086\u00f0\u009f\u0098\u0086",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1685654308
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0094\u00ae Lisa Treanor \u00f0\u009f\u0094\u00ae",
+      "timestamp_ms": 1685654295744,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1685654270886,
+      "content": "I had mastered it until I didn't lol",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009f\u0094\u00ae Lisa Treanor \u00f0\u009f\u0094\u00ae",
+          "timestamp": 1685654295
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00f0\u009f\u0094\u00ae Lisa Treanor \u00f0\u009f\u0094\u00ae",
+      "timestamp_ms": 1685654231204,
+      "content": "I do this every fucking time!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1685654246
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3115431635552704895"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0094\u00ae Lisa Treanor \u00f0\u009f\u0094\u00ae",
+  "is_still_participant": true,
+  "thread_path": "inbox/lisatreanor_1130226191702379",
+  "magic_words": [
+    
+  ]
+}

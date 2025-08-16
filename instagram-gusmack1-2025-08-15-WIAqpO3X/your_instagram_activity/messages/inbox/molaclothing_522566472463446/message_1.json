@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Mola Clothing"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Mola Clothing",
+      "timestamp_ms": 1612886236894,
+      "content": "Thank you so much for following our page. If you have any questions about our products, we would be delighted to help\u00e2\u009d\u00a4\u00ef\u00b8\u008f.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mola Clothing",
+  "is_still_participant": true,
+  "thread_path": "inbox/molaclothing_522566472463446",
+  "magic_words": [
+    
+  ]
+}

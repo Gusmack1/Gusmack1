@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Maria Smokehouse"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Maria Smokehouse",
+      "timestamp_ms": 1546191202247,
+      "content": "E a\u00c3\u00ad @gusmack1 !  Tudo bem contigo? Somos o MARIA Smokehouse, restaurante especializado em churrasco defumado, a tradu\u00c3\u00a7\u00c3\u00a3o paulistana e brasileira dos BBQ joints dos EUA. Vem nos conhecer, Gus, vai ser um prazer te receber aqui! Rua Luis Gois, 608 \u00e2\u0080\u0093 Mirand\u00c3\u00b3polis \u00e2\u0080\u0093 S\u00c3\u00a3o Paulo-SP \n Nos falamos! Obrigado pelo contato, ficamos a disposi\u00c3\u00a7\u00c3\u00a3o!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maria Smokehouse",
+  "is_still_participant": true,
+  "thread_path": "inbox/mariasmokehouse_548121639911710",
+  "magic_words": [
+    
+  ]
+}

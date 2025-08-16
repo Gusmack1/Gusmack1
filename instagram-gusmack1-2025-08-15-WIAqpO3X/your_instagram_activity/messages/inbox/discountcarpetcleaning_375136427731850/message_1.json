@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Discount Carpet Cleaning"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Discount Carpet Cleaning",
+      "timestamp_ms": 1635446012546,
+      "content": "Defo worth it \u00f0\u009f\u0091\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1635447564
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1635445989507,
+      "content": "Haha i will try it and shout u out. Cheers lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Discount Carpet Cleaning",
+      "timestamp_ms": 1635445865790,
+      "content": "A wee inspo for you to try when your feeling peckish... mcchicken sandwich (ney lettuce, just mayo and add cheese n onion). Honestly so much better \u00f0\u009f\u0091\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Discount Carpet Cleaning",
+  "is_still_participant": true,
+  "thread_path": "inbox/discountcarpetcleaning_375136427731850",
+  "magic_words": [
+    
+  ]
+}

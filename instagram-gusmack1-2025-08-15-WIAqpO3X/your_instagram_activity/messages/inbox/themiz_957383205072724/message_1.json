@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Themiz"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Themiz",
+      "timestamp_ms": 1619154886674,
+      "content": "Thanks so much for the follow. \nWe hope you love our page \u00f0\u009f\u0098\u0098 \nCheck out the full range \nvia www.themiz.co.uk X",
+      "share": {
+        "link": "http://www.themiz.co.uk/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Themiz",
+  "is_still_participant": true,
+  "thread_path": "inbox/themiz_957383205072724",
+  "magic_words": [
+    
+  ]
+}

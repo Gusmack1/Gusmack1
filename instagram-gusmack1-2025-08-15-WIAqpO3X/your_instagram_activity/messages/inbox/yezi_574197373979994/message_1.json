@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "\u00e5\u008f\u00b6\u00e5\u00ad\u0090"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1555612796005,
+      "content": "Nice pic of George Square I saw u today lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e5\u008f\u00b6\u00e5\u00ad\u0090",
+  "is_still_participant": true,
+  "thread_path": "inbox/yezi_574197373979994",
+  "magic_words": [
+    
+  ]
+}

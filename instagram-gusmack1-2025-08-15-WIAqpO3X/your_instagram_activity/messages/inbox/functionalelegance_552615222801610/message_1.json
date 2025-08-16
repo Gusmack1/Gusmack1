@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Functional Elegance"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Functional Elegance",
+      "timestamp_ms": 1553086260633,
+      "content": "Functional sent an attachment.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://www.facebook.com/www.cigarsticks.net",
+        "share_text": "We offer finely handcrafted jewelry & accoutrements\u00e2\u0080\u008b. Our most popular products are our handmade cigar sticks, also known as cigar nubbers, cigar pokers, cigar picks, cigar savers, and Cigar Sticks."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Functional Elegance",
+  "is_still_participant": true,
+  "thread_path": "inbox/functionalelegance_552615222801610",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "William Rhys Hamer"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "William Rhys Hamer",
+      "timestamp_ms": 1668352821541,
+      "content": "William shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "William Rhys Hamer",
+      "timestamp_ms": 1659345156771,
+      "share": {
+        "link": "https://www.instagram.com/p/Cgth8gHLEfW/?carousel_share_child_media_id=2895119428652648406_16975497744",
+        "share_text": "Mackerel, pearl barley & beetroot risotto. The mackerel was line caught during a fishing trip off the east coast of North Uist on a rare day of cloudless sunshine. Scallops was our main endeavour that day and I shall share our findings later this week. For now, we start here, and dive into a week full of beetroots and locally sourced, sustainable seafood. \n\n#sustainability #sustainable #sustainablefishing #localfish #outerhebrides #outerhebridescollective #outerhebridesofscotland #outerhebridestourism #hebrides #visitscotland #visitouterhebrides #beetroot #vegetarian #vegetarianrecipes #photooftheday",
+        "original_content_owner": "thewilderkitchen"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "William Rhys Hamer",
+  "is_still_participant": true,
+  "thread_path": "inbox/williamrhyshamer_929382905124239",
+  "magic_words": [
+    
+  ]
+}

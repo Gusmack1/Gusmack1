@@ -1,0 +1,65 @@
+{
+  "participants": [
+    {
+      "name": "DeliciousPR"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "DeliciousPR",
+      "timestamp_ms": 1578309848227,
+      "content": "Just sent it over. Enjoy!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578309681677,
+      "content": "Yes in argyle Street",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DeliciousPR",
+      "timestamp_ms": 1578306632377,
+      "content": "Are you able to get over to the Glasgow store?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578305309390,
+      "content": "Sure get in touch I've never been before",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DeliciousPR",
+      "timestamp_ms": 1578304247887,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DeliciousPR",
+      "timestamp_ms": 1578304246401,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DeliciousPR",
+      "timestamp_ms": 1578304200655,
+      "content": "Hi. Would you be interested in reviewing the new Tim Hortons Vegan Wrap or Bacon Roll launching in stores from 6th Jan?  We can email you more details if you're interested. You can review anytime before the 19th.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DeliciousPR",
+  "is_still_participant": true,
+  "thread_path": "inbox/deliciouspr_588459012549697",
+  "magic_words": [
+    
+  ]
+}

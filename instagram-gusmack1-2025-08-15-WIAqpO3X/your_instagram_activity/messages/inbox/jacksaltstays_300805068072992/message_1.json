@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Jack\u00e2\u0080\u0099s Alt-Stays"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jack\u00e2\u0080\u0099s Alt-Stays",
+      "timestamp_ms": 1591371685141,
+      "content": "Jack\u00e2\u0080\u0099s sent an attachment.",
+      "share": {
+        "link": "https://strathbusiness.qualtrics.com/jfe/form/SV_3OxOxysajovWWxv",
+        "share_text": "We're interested in finding out about your leisure travel intentions, after lockdown is eased."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jack\u00e2\u0080\u0099s Alt-Stays",
+  "is_still_participant": true,
+  "thread_path": "inbox/jacksaltstays_300805068072992",
+  "magic_words": [
+    
+  ]
+}

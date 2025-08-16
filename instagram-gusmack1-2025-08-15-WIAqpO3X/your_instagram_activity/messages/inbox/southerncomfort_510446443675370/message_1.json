@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Southern Comfort"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Southern Comfort",
+      "timestamp_ms": 1586024649587,
+      "content": "\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c\u00f0\u009f\u0099\u008c",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1586024619391,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2280062216161380547"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Southern Comfort",
+      "timestamp_ms": 1586024101131,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1585958089640,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2279504119319619200"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Southern Comfort",
+  "is_still_participant": true,
+  "thread_path": "inbox/southerncomfort_510446443675370",
+  "magic_words": [
+    
+  ]
+}

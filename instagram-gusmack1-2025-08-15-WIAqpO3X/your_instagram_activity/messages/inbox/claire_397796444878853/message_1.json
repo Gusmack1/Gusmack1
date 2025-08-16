@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "Claire"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Claire",
+      "timestamp_ms": 1624373909869,
+      "content": "Top answer \u00f0\u009f\u0098\u0082 x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1624375250
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1624370743943,
+      "content": "Then ur a good sport hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Claire",
+      "timestamp_ms": 1624370708082,
+      "content": "And what if ye walk in with a Scotland top and singing?",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2601726177597967764"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Claire",
+  "is_still_participant": true,
+  "thread_path": "inbox/claire_397796444878853",
+  "magic_words": [
+    
+  ]
+}

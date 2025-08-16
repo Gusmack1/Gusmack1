@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Lauren"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1555593471536,
+      "content": "Check my page for pics",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Lauren",
+      "timestamp_ms": 1555572704936,
+      "content": "Woof! \u00f0\u009f\u0090\u00b6 \u00e2\u009d\u00a4 Our company @konaleashes is looking for models, we love your look and think you\u00e2\u0080\u0099d make an awesome model! If you are interested please EMAIL 2-3 of your dogs\u00e2\u0080\u0099 best photos to: sean@konaleashes\u00e1\u008e\u0090com",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1555572605940,
+      "content": "Share share share lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lauren",
+  "is_still_participant": true,
+  "thread_path": "inbox/lauren_575093717209945",
+  "magic_words": [
+    
+  ]
+}

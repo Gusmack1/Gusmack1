@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Good Times Roll"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Good Times Roll",
+      "timestamp_ms": 1615392924195,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1615386218111,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Good Times Roll",
+          "timestamp": 1615392924
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Good Times Roll",
+  "is_still_participant": true,
+  "thread_path": "inbox/goodtimesroll_527408878658396",
+  "magic_words": [
+    
+  ]
+}

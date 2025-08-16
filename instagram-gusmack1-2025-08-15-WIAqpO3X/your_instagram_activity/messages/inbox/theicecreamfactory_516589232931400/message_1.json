@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "The Ice Cream Factory"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1627428368980,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Ice Cream Factory",
+  "is_still_participant": true,
+  "thread_path": "inbox/theicecreamfactory_516589232931400",
+  "magic_words": [
+    
+  ]
+}

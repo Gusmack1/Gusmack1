@@ -1,0 +1,118 @@
+{
+  "participants": [
+    {
+      "name": "Sannio Glasgow Italian Restaurant & Bar"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Sannio Glasgow Italian Restaurant & Bar",
+      "timestamp_ms": 1645961036024,
+      "content": "Ps. You will soooo love the surprise \u00f0\u009f\u00a4\u00a9",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1645961051
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645961029256,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sannio Glasgow Italian Restaurant & Bar",
+      "timestamp_ms": 1645961024100,
+      "content": "\u00f0\u009f\u00a5\u0082\u00f0\u009f\u00a5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645961018055,
+      "content": "Cant wait \u00f0\u009f\u008d\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sannio Glasgow Italian Restaurant & Bar",
+      "timestamp_ms": 1645960980558,
+      "content": "Hi Gus, we are so looking forward to seeing you on Friday evening \u00f0\u009f\u008e\u0089\u00f0\u009f\u00a4\u00a9\u00f0\u009f\u00a5\u0082\u00f0\u009f\u008e\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1645960994
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sannio Glasgow Italian Restaurant & Bar",
+      "timestamp_ms": 1645960950804,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sannio Glasgow Italian Restaurant & Bar",
+      "timestamp_ms": 1645935599895,
+      "content": "Hi gusmack1 , \n\nThanks for contacting Sannio Italian Restaurant & Bar. The easiest way to book a table is by visiting our website at: https://sannio.co.uk/ and by clicking on the 'Book Now' button. For all other enquiries, we appreciate you getting in contact and will be in touch with you very soon.\n\nregards\n\nthe Sannio Family\n\nhttps://www.facebook.com/sannioglasgow/\n \ninfo@sannio.co.uk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645935597468,
+      "content": "Hi Caroline, this sounds great, how could i not go when you mentioned surprise \u00f0\u009f\u0098\u0081 i would love to go. \n\nMany thanks\nGus",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Sannio Glasgow Italian Restaurant & Bar",
+          "timestamp": 1645960950
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sannio Glasgow Italian Restaurant & Bar",
+      "timestamp_ms": 1645918859393,
+      "content": "Hello Gusmack,\n\nMy name is Caroline and I'm reaching out from Sannio Italian Restaurant and Bar.\n\nWe are new kids on the block and are having a mini launch on Friday 4th March at 8pm and we would be honoured if someone from your lovely establishment would like to attend \u00e2\u009d\u00a4. We also have an amazing Surprise on our Opening Night, something exciting for the first time in Scotland\u00e2\u0080\u00a6 I hope this is something that will be right up your street.\n\nI look forward to hearing from you \u00f0\u009f\u00a5\u0082\n\nKindest Regards \n\nCaroline @ Sannio",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1645935469
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645883740355,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2782196752913701920"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sannio Glasgow Italian Restaurant & Bar",
+  "is_still_participant": true,
+  "thread_path": "inbox/sannioglasgowitalianrestaurantbar_490766469209486",
+  "magic_words": [
+    
+  ]
+}

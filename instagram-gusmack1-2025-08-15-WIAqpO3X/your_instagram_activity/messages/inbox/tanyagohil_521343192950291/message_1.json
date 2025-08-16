@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "Tanya Gohil"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tanya Gohil",
+      "timestamp_ms": 1650356988941,
+      "content": "Well, we're open for dinner service soon with a new menu so it's not all over! Hope you recover ok! X",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1650357283
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tanya Gohil",
+      "timestamp_ms": 1650356941766,
+      "content": "Oh no!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650319807080,
+      "content": "Thanks for the invite COVID got me lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Tanya Gohil",
+      "timestamp_ms": 1649240310105,
+      "content": "Hello! Thanks for your interest in Silk Road Deli! If you're free this weekend, fancy brunch on us? X",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1650319794
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tanya Gohil",
+  "is_still_participant": true,
+  "thread_path": "inbox/tanyagohil_521343192950291",
+  "magic_words": [
+    
+  ]
+}

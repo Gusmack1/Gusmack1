@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Learning with Experts"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Learning with Experts",
+      "timestamp_ms": 1661420566217,
+      "content": "Hi Gus, I\u00e2\u0080\u0099m Christophe from learningwithexperts social agency, I just wanted to say that I absolutely love your Instagram page, I found it inspiring!\nWe wondered if you would be interested in trialling (for free) one of our brand new cooking courses? \nThe course is led by world-leading expert, Michel Roux Jr, who not only lead the courses but, also give specific feedback on your work too!\n \nLook forward to hearing from you,\n\nChristophe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Learning with Experts",
+  "is_still_participant": true,
+  "thread_path": "inbox/learningwithexperts_935754777819421",
+  "magic_words": [
+    
+  ]
+}

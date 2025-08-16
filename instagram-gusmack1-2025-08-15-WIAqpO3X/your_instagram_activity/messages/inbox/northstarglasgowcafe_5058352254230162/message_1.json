@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "North Star | Glasgow Caf\u00c3\u00a9"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1643293175899,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "North Star | Glasgow Caf\u00c3\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/northstarglasgowcafe_5058352254230162",
+  "magic_words": [
+    
+  ]
+}

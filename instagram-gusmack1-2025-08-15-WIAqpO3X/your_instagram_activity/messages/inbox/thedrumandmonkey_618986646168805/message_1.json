@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "The Drum and Monkey"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579281259505,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2223494793652596324"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Drum and Monkey",
+  "is_still_participant": true,
+  "thread_path": "inbox/thedrumandmonkey_618986646168805",
+  "magic_words": [
+    
+  ]
+}

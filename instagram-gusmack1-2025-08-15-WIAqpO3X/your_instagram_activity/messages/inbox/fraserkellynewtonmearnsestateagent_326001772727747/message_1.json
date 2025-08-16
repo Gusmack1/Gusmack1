@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Fraser Kelly | Newton Mearns | Estate Agent"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fraser Kelly | Newton Mearns | Estate Agent",
+      "timestamp_ms": 1641980155935,
+      "content": "Thanks very much for liking my post, I really appreciate the support. \n\nYou've got a great page \u00f0\u009f\u0091\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fraser Kelly | Newton Mearns | Estate Agent",
+  "is_still_participant": true,
+  "thread_path": "inbox/fraserkellynewtonmearnsestateagent_326001772727747",
+  "magic_words": [
+    
+  ]
+}

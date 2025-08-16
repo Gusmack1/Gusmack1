@@ -1,0 +1,135 @@
+{
+  "participants": [
+    {
+      "name": "Slow Food Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1588712943575,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1568712911685,
+      "content": "Slow sent an attachment.",
+      "share": {
+        "link": "https://www.eventbrite.co.uk/e/food-gems-of-italy-naples-sorrento-and-garfagnana-tickets-70482640475",
+        "share_text": "Italian food tasting event: Naples, Sorrento, Amalfi, Garfagnana, Barga"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1568465447769,
+      "content": "Slow sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/gmail.com",
+        "share_text": "Gmail is email that's intuitive, efficient, and useful. 15 GB of storage, less spam, and mobile access."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1568305680064,
+      "content": "Slow sent an attachment.",
+      "share": {
+        "link": "https://doodle.com/poll/w3rs724q5anmafbd",
+        "share_text": "Doodle is the simplest way to schedule meetings with clients, colleagues, or friends. Find the best time for one-to-ones and team meetings with our user-friendly calendar tool. Get started today!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1567679199961,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/mail.com",
+        "share_text": "Email how it is supposed to be: \u00e2\u009c\u0094 Free, simple and secure \u00e2\u009c\u0094 Manage multiple mail accounts in one place, from any device \u00e2\u009c\u0094 Sign up today!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1567676457448,
+      "content": "Good morning, could you pass me an email or mobile number so Abi or Mark (Glasgow Community Food Network) can get in contact with you?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1565950652143,
+      "content": "We will be in touch soon with a calendar and you can tell us when you are available\u00e2\u0098\u00ba",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1565885047923,
+      "content": "OK thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1565883981439,
+      "content": "Thanks, that's great! We'll send you an email with more details",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1565883677658,
+      "content": "Oooft Hahaha should be fine then lol what's involved?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1565883634146,
+      "content": "16th of September \u00e2\u0098\u00ba",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1565883588283,
+      "content": "Hi unfortunately I have the cure gig tomorrow and can't make it :( I'm interested though so if there's any more events give me a shout thanks for the invite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Slow Food Glasgow",
+      "timestamp_ms": 1565882622079,
+      "content": "Slow sent an attachment.",
+      "share": {
+        "link": "https://www.heraldscotland.com/news/16901315.turning-glasgow-on-to-health-benefits-of-vegetables",
+        "share_text": "Glasgow has long been notorious for its appetite for unhealthy foods \u00e2\u0080\u0093 and for having one of the worst diet-related health records in the world."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Slow Food Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/slowfoodglasgow_505321174183997",
+  "magic_words": [
+    
+  ]
+}

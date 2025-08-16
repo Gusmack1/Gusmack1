@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "varvara_kanellakopoulou\u00f0\u009f\u008c\u00bb"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "varvara_kanellakopoulou\u00f0\u009f\u008c\u00bb",
+      "timestamp_ms": 1610895886410,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1610882843842,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "varvara_kanellakopoulou\u00f0\u009f\u008c\u00bb",
+          "timestamp": 1610895886
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "varvara_kanellakopoulou\u00f0\u009f\u008c\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/varvara_kanellakopoulou_598476261552012",
+  "magic_words": [
+    
+  ]
+}

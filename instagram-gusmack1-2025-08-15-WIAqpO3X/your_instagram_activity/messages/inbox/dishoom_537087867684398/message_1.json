@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Dishoom"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582572075573,
+      "content": "U guys the dishoom in Edinburgh?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dishoom",
+  "is_still_participant": true,
+  "thread_path": "inbox/dishoom_537087867684398",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Jonathan Tait"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jonathan Tait",
+      "timestamp_ms": 1691784718500,
+      "content": "If you're not from the general land of weegie, there are other, fabulous rolls!",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3167163614983981646"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jonathan Tait",
+  "is_still_participant": true,
+  "thread_path": "message_requests/jonathantait_1218800199516846",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

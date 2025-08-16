@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Tonic Note Records"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Tonic Note Records",
+      "timestamp_ms": 1645185951131,
+      "content": "Hi Gus!\n\n\nThank you for the follow!\n\nHere, I've got a free Guide to Synths eBook for you as a wee thank you for the support. \n\nAlso, I'm running a  creative music production course very soon that you might like. \n\nWhat projects are you working on at the moment? I'd love to know!\n\nCheers!\nDavid,\n\neBook:\n\nhttps://drive.google.com/file/d/1B54nlIy9H6q3WSFUPpkBa1iF0KkKipNL/view?usp=drivesdk",
+      "share": {
+        "link": "https://drive.google.com/file/d/1B54nlIy9H6q3WSFUPpkBa1iF0KkKipNL/view?usp=drivesdk"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Tonic Note Records",
+  "is_still_participant": true,
+  "thread_path": "inbox/tonicnoterecords_477076524097413",
+  "magic_words": [
+    
+  ]
+}

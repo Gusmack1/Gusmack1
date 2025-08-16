@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Kyndra"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1611249877031,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kyndra",
+  "is_still_participant": true,
+  "thread_path": "inbox/kyndra_521345875918205",
+  "magic_words": [
+    
+  ]
+}

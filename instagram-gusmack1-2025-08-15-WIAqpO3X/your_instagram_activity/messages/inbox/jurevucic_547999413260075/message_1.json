@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Jure Vu\u00c4\u008di\u00c4\u0087"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jure Vu\u00c4\u008di\u00c4\u0087",
+      "timestamp_ms": 1560109498643,
+      "content": "A lot of parmesan",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2062412279501304138"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jure Vu\u00c4\u008di\u00c4\u0087",
+  "is_still_participant": true,
+  "thread_path": "inbox/jurevucic_547999413260075",
+  "magic_words": [
+    
+  ]
+}

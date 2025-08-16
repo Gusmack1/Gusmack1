@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Bag O\u00e2\u0080\u0099 Nails Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bag O\u00e2\u0080\u0099 Nails Glasgow",
+      "timestamp_ms": 1645473568290,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645462686530,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Bag O\u00e2\u0080\u0099 Nails Glasgow",
+          "timestamp": 1645473568
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bag O\u00e2\u0080\u0099 Nails Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/bagonailsglasgow_648792059692165",
+  "magic_words": [
+    
+  ]
+}

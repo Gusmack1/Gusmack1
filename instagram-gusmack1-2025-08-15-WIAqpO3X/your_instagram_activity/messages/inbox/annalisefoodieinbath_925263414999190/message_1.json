@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Annalise | Foodie In Bath"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1626690221208,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/annaliseeatsbath/2620476115917065247"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Annalise | Foodie In Bath",
+  "is_still_participant": true,
+  "thread_path": "inbox/annalisefoodieinbath_925263414999190",
+  "magic_words": [
+    
+  ]
+}

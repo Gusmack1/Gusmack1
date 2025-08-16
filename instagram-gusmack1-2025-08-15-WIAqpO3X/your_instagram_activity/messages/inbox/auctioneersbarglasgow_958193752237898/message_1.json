@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "AuctioneersBarGlasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662996426810,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1662996165749,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/CiaVrgyq0ze/?carousel_share_child_media_id=2925746257054616798_204320321",
+        "share_text": "Order - Fish and chips with a pint of Carling.  Meal deal!\n\nDelicious and great value for money, especially at the moment during this great depression \u00f0\u009f\u0098\u0082 advertised as \u00c2\u00a36 but it's actually \u00c2\u00a37.\n\nTime - 20~ mins\n\nPresentation - see pics. Looks good.\n\nQuality - 4/5 - It's fish and chips, the batter was nice and crunchy and the fish was nice, wasn't too fishy. The chips weren't fries. Proper thick. I didn't touch the green stuff \u00f0\u009f\u00a4\u00a3 The pint of Carling which came in the deal was decent too (there's a selection of drinks to choose from)\n\nQuantity - 2/5 - You get what you pay for. Small plate makes it look bigger than it actually is. The portion size is below average but still fills you up for a lunch. \n\nValue for money - Brilliant, some places charge you \u00c2\u00a37 for a drink on its own, throw in fish and chips and your definitely onto a winner. Surely they must be losing money here your stealing it off them at this price lol\n\nAdditional - I would definitely come here again if you are looking for a quick lunch with a workmate. A must buy!\n.\n.\n.\n.\n.\n#glasgowfood #glasgowfoodie #glasgowfoodies #glasgowfoodblogger #glasgowfoodblog #glasgowfoodlover #glasgow #glasgowlife #glasgowcity #glasgowblogger #glasgowphotographer #scottishglasgowfoodies #scotland #lovescotland #scotlandmagazine #scotlandlife #scotlandfood #scotlandfoodanddrink #scotlandfoodie #scottishfood #scottishfoodie #scottishfoodanddrink #scottishfoodies #scottishfoodbloggers",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "AuctioneersBarGlasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/auctioneersbarglasgow_958193752237898",
+  "magic_words": [
+    
+  ]
+}

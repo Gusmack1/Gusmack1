@@ -1,0 +1,57 @@
+{
+  "participants": [
+    {
+      "name": "Stellify Media Casting"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Stellify Media Casting",
+      "timestamp_ms": 1571842949232,
+      "content": "Cool. If you want to send your number or email, one of us on the casting team can get in touch to let you know a bit more about the show",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1571842856225,
+      "content": "Maybe I'll give u a shout",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stellify Media Casting",
+      "timestamp_ms": 1571842826496,
+      "content": "Because it's interesting and we are looking for guys with lots of different interests! Are you single? Who is the eligible bachelor you have in mind, do you think he might be interested?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1571786373788,
+      "content": "Hi thanks for the invite. How do u know I'm good for ur show considering its just pics of food on my profile. If u want I'll hook u up with an eligible bachelor",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Stellify Media Casting",
+      "timestamp_ms": 1571218525814,
+      "content": "Stellify sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/stellifymedia.com",
+        "share_text": "Stellify Media is a TV production company based in Belfast."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stellify Media Casting",
+  "is_still_participant": true,
+  "thread_path": "inbox/stellifymediacasting_569767774415807",
+  "magic_words": [
+    
+  ]
+}

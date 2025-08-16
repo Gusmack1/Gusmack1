@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Mark Williams  MBE"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1735076660754,
+      "content": "That's a brilliant Christmas movie and the setups no that bad either lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1732095856309,
+      "content": "Wtf mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mark Williams  MBE",
+  "is_still_participant": true,
+  "thread_path": "inbox/markwilliamsmbe_1161580692147035",
+  "magic_words": [
+    
+  ]
+}

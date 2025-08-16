@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1648060451364,
+      "content": "Hey my friend, having a great day? do you know you can make $5,000 with your phone\u00f0\u009f\u0093\u00b1? you can also withdraw directly into your bank account and it\u00e2\u0080\u0099s 100% legal, legit and guaranteed, ask me how?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_752966726090085",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Rebecca Magennis"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Rebecca Magennis",
+      "timestamp_ms": 1587553495976,
+      "content": "No worries x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1587553483564,
+      "content": "Nah count me out Im looking for organic growth and engagement. Cheers anyway",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Rebecca Magennis",
+      "timestamp_ms": 1587543328089,
+      "content": "Hey! Some foodies and I are doing a \"follow loop\" if you want to join in!\n\nLet's support each other in these lean days, let's do a follow loop!\n\nAll you have to do is follow the 5 accounts below and in return you should receive hundreds if not thousands of interesting followers.\n\nIf you want to join follow these steps:\n1. Follow all the accounts on the list below.\n2. Delete the person in spot #5\n3. Move the remaining people one point (so the person who was in point 4 is now at number 5 etc.)\n4. Add yourself to place n\u00c2\u00ba1.\n5. Send this to 10 people (no groups)\n\nHere's the list: \n\n@rabkebab2 \n@goodies.for.foodies\n@frososanorexia\n@littlebeareatsaround\n@sweetswivels \n\n\n\n\n\nBe sure to send it to 10 people to get your name on several lists!\n\nTell me if you decide not to participate, so I can send it to someone else. It only works if we all come together in this time where we need inspiration the most! \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bb\n\nTake care \u00f0\u009f\u0092\u009f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1587050435963,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Rebecca Magennis",
+  "is_still_participant": true,
+  "thread_path": "inbox/rebeccamagennis_551229196279942",
+  "magic_words": [
+    
+  ]
+}

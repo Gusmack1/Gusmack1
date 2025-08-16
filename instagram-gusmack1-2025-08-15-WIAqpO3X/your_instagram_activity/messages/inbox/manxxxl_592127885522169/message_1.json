@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Man xxxl"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Man xxxl",
+      "timestamp_ms": 1560191224022,
+      "content": "Where do you live boet?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1560182098242,
+      "content": "Not alot K",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Man xxxl",
+      "timestamp_ms": 1560181171689,
+      "content": "Wasup g?",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2062652241203204655"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Man xxxl",
+  "is_still_participant": true,
+  "thread_path": "inbox/manxxxl_592127885522169",
+  "magic_words": [
+    
+  ]
+}

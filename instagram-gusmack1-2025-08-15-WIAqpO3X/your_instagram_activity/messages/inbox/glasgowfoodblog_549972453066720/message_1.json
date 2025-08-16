@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "GLASGOW FOOD BLOG"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1562622727061,
+      "content": "Mmmmmmm",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GLASGOW FOOD BLOG",
+      "timestamp_ms": 1562622715862,
+      "content": "Bbq chicken pizza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1562622699649,
+      "content": "What is this?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GLASGOW FOOD BLOG",
+  "is_still_participant": true,
+  "thread_path": "inbox/glasgowfoodblog_549972453066720",
+  "magic_words": [
+    
+  ]
+}

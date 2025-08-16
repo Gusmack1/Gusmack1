@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Bavarian Bakehouse"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Bavarian Bakehouse",
+      "timestamp_ms": 1695157761209,
+      "content": "Hi there, we have received your message and appreciate you getting in touch.  We will reply as soon as possible, within the hours of 8:00am and 2:00pm.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157758819,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679158832003,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/bavarianbakehouse/3061107147500193818"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bavarian Bakehouse",
+  "is_still_participant": true,
+  "thread_path": "inbox/bavarianbakehouse_905359284188144",
+  "magic_words": [
+    
+  ]
+}

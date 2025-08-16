@@ -1,0 +1,37 @@
+{
+  "participants": [
+    {
+      "name": "Lock 27 Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1664201995291,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1664201690250,
+      "content": "You sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/p/Ci-RCaDqSUt/?carousel_share_child_media_id=2935858939300488493_204320321",
+        "share_text": "Order - 2 Steak pie's and mash with seasonal vegetables and a pint of @tennentslager\n\nTime - 30 mins in the place. They came out with the bill very sharp.\n\nPresentation - see pics. The place was pretty much all reserved. Managed to get a table up the back corner. There were plenty of seats outside but it was cold. I guess u need to book up in advance.\n\nQuality - 4/5 - My acquaintance said \"it's passable\" in other words it was great. The gravy was delicious and the steak was chunky. The waiter said they make them all the time.\n\nQuantity - 2/5 - It was a wee pie and hardly any mash. The plates made it look big. We cleared our plates. I'm trying to cut back so that's a good thing lol \n\nValue for money - \u00c2\u00a325.00 for 2 of us and 4 quid a pint of tennents so judge for yourself.\n\nAdditionally - There were lots of seats outside and it was busy inside with lots of tables reserved. Shout out to the waiters for their friendly quick service. \n.\n.\n.\n.\n.\n#glasgowfood #glasgowfoodie #glasgowfoodies #glasgowfoodblog #glasgowfoodblogger #glasgowfoodlover #glasgowfoodanddrink #scottishfood #scottishfoodie #scottishfoodanddrink #scottishfoodbible #scottishfoodbloggers #scottishglasgowfoodies #scottishfoodies #scottishfoodblogger #scottishfoodblog #scottishfoodiegals #scotlandfood #scotlandfoodie #scotlandfoodanddrink #ukfoodie #ukfood #ukfoodies #ukfoodblogger #ukfoodbloggers #eastdunbartonshire #lock27glasgow #steakpie",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lock 27 Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/lock27glasgow_931476488243141",
+  "magic_words": [
+    
+  ]
+}

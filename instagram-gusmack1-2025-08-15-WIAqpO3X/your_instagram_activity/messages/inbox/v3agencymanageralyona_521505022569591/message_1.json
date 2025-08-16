@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "v3 Agency manager Alyona"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "v3 Agency manager Alyona",
+      "timestamp_ms": 1601542207670,
+      "content": "Now we are located in London, Moscow, Barcelona and Riga",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "v3 Agency manager Alyona",
+      "timestamp_ms": 1601542190222,
+      "content": "We are company who is working with many different brands in clothing industry, carsharing, taxi services, different goods for parents, sport equipment, different apps, and many many more.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1601372927332,
+      "content": "How big is ur agency and what brands?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "v3 Agency manager Alyona",
+      "timestamp_ms": 1601317768589,
+      "content": "Hey there,\n\nMy name is Alyona and I am the blogger relationship manager at V3 Agency. We are currently on the lookout for some super blogging talent to work with brands in our portfolio.\n\nI would really love to explain a little bit about how we work, and most importantly, how you get paid. We work on the CPA (Cost per Acquisition) principle, effectively this means that you get paid when readers take an action on advertisers website, apps or store.\n\nWhy work with V3 Agency?\n\nWe work with bloggers of all sizes, regardless of the number of subscribers\nWe work with the best brands around the world.\nWe provide regular payments.\nAn individual manager is attached to each blogger, always on hand to solve any issues.\n\nIf you are interested in working with V3 Agency we will be happy to discuss the details of our cooperation via phone or email.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "v3 Agency manager Alyona",
+  "is_still_participant": true,
+  "thread_path": "inbox/v3agencymanageralyona_521505022569591",
+  "magic_words": [
+    
+  ]
+}

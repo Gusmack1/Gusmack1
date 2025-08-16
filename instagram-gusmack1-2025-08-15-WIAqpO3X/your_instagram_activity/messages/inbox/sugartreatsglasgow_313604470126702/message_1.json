@@ -1,0 +1,66 @@
+{
+  "participants": [
+    {
+      "name": "sugartreatsglasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sugartreatsglasgow",
+      "timestamp_ms": 1582708918174,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582708525299,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "sugartreatsglasgow"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582578445880,
+      "content": "Dishoom has been mentioned to me a few times",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sugartreatsglasgow",
+      "timestamp_ms": 1582578254446,
+      "content": "If you like indian food try dishoom, it's indian street food restaurant \u00f0\u009f\u0098\u008a.. haha I know there's too many nice places to eat out in Edin!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582578078721,
+      "content": "OK lol there's a shit load of places for one day",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582578017549,
+      "content": "Burritos all round? Decent then?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sugartreatsglasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/sugartreatsglasgow_313604470126702",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "ERROL\u00e2\u0080\u0099S HOT PIZZA"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632410636626,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "ERROL\u00e2\u0080\u0099S HOT PIZZA",
+  "is_still_participant": true,
+  "thread_path": "inbox/errolshotpizza_325374309381235",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Oxfam Bishopbriggs"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632235983834,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632235962828,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2667711024457171356"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1631627717139,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2662608663338385258"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1631625908317,
+      "content": "Hey, do u guys have any folio society books?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Oxfam Bishopbriggs",
+  "is_still_participant": true,
+  "thread_path": "inbox/oxfambishopbriggs_1243199412862805",
+  "magic_words": [
+    
+  ]
+}

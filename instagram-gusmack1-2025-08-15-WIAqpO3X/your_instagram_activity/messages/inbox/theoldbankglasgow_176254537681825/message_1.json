@@ -1,0 +1,114 @@
+{
+  "participants": [
+    {
+      "name": "TheOldBankGlasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "TheOldBankGlasgow",
+      "timestamp_ms": 1657291739551,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1657286429023,
+      "content": "Hi, can't make it, broken ankle\n\nThanks for the invitation though. I will keep my eyes peeled to see how it goes.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "TheOldBankGlasgow",
+          "timestamp": 1657291739
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TheOldBankGlasgow",
+      "timestamp_ms": 1657286006954,
+      "content": "Hello \n\n\nSomething new is brewing and we would like to invite you to experience the change. \u00f0\u009f\u0098\u008a\u00f0\u009f\u0098\u008b\n\nWe would love you to try our fresh Lahore influenced menu. \n\nPlease join us with a friend for an exclusive evening to delight you with our delicious offerings.\n\n\nDetails \u00f0\u009f\u0091\u0087\u00f0\u009f\u008f\u00bd\n\nDay: 15th July \n \nTime : 6pm - 7pm\nAddress: 110 Battlefield Rd, Langside, Glasgow G42 9JT\n\nPlease confirm your attendance with the time slot you choose as soon as possible so we can place you on the guest list.  \n\nWe will send you a detailed brief in regards to posts closer to the event date.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1657286430
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TheOldBankGlasgow",
+      "timestamp_ms": 1618816603549,
+      "content": "Thank you \u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f\u00e2\u0099\u00a5\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1618816696
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TheOldBankGlasgow",
+      "timestamp_ms": 1618816338981,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1618816503
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TheOldBankGlasgow",
+      "timestamp_ms": 1618816338746,
+      "content": "Thank you",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TheOldBankGlasgow",
+      "timestamp_ms": 1618816331291,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "TheOldBankGlasgow",
+      "timestamp_ms": 1618816323124,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1618816208659,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "TheOldBankGlasgow",
+          "timestamp": 1618816323
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "TheOldBankGlasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/theoldbankglasgow_176254537681825",
+  "magic_words": [
+    
+  ]
+}

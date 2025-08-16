@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "wholefriedchicken"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "wholefriedchicken",
+      "timestamp_ms": 1644928846876,
+      "content": "Dear Gusmack1\n\nI am the manager of WFC Chicken restaurant, and I have watched your posts on Instagram, and I love it. I was wondering if you could post a review of our restaurant.\n\nWe are a fast-food restaurant based in the West end of Glasgow. We specialized in making fried chicken. \n\nHope to hear from you soon.\n\nKind regards\n\nXue Zhou\n\nRestaurant Manager\n\n\n147 Dumbarton Road, Glasgow\nWFC Chicken\nG11 6PT\n\nEmail: contact@wholefriedchicken.uk\nMoble: 0794 674 4866\n\nInstagram: @whole_fried_chicken",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "wholefriedchicken",
+  "is_still_participant": true,
+  "thread_path": "message_requests/wholefriedchicken_1514744455576348",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

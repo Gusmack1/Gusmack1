@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "LeShawn Campbell"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LeShawn Campbell",
+      "timestamp_ms": 1567011050697,
+      "content": "LeShawn sent an attachment.",
+      "share": {
+        "link": "https://bit.ly/2MHViYp"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "LeShawn Campbell",
+      "timestamp_ms": 1567011046194,
+      "content": "Gus you won't believe this! I received a $1,000 VisaGiftCard and all I had to do was participate a little bit and they actually sent me it. I used it to grab a flat screen tv I have been wanting LOL!  I thought you would want one also since your my follower. Hurry thought there's only a few of them left!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LeShawn Campbell",
+  "is_still_participant": true,
+  "thread_path": "inbox/leshawncampbell_585573096176891",
+  "magic_words": [
+    
+  ]
+}

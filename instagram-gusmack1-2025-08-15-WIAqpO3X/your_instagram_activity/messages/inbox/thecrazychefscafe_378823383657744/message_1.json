@@ -1,0 +1,54 @@
+{
+  "participants": [
+    {
+      "name": "thecrazychefscafe"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1628362182443,
+      "content": "No bother btw",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "thecrazychefscafe",
+      "timestamp_ms": 1628362144619,
+      "content": "Thanks very much much appreciated!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1628362172
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "thecrazychefscafe",
+      "timestamp_ms": 1628362119401,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1628357774397,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2635178408202068588"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "thecrazychefscafe",
+  "is_still_participant": true,
+  "thread_path": "inbox/thecrazychefscafe_378823383657744",
+  "magic_words": [
+    
+  ]
+}

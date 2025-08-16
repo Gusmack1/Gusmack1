@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Bar Home"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1635939566648,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1580568450253,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2234292538784915920"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bar Home",
+  "is_still_participant": true,
+  "thread_path": "inbox/barhome_564492784951423",
+  "magic_words": [
+    
+  ]
+}

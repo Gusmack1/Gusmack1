@@ -1,0 +1,74 @@
+{
+  "participants": [
+    {
+      "name": "David Louvier Chessboards"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1656106742758,
+      "content": "Nice one keep them coming",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Louvier Chessboards",
+      "timestamp_ms": 1656106718902,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Louvier Chessboards",
+      "timestamp_ms": 1656106712433,
+      "content": "Oh I see haha\n\nThanks a lot man! There's more coming!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1656103512388,
+      "content": "Hahaha it was a generic question that ig put up for me so I hit it. U have some great boards there.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "David Louvier Chessboards",
+          "timestamp": 1656106718
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Louvier Chessboards",
+      "timestamp_ms": 1656103375708,
+      "content": "Don't hesitate if you have more questions!\nCheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "David Louvier Chessboards",
+      "timestamp_ms": 1656103363630,
+      "content": "Hi! I'm in the process of making an etsy account with all of what I've in stock listed and priced, should be ready in a few days. The 2 chessboards with knots in the corners that you can see on Instagram will be for sale very soon just need to apply the last few coats of wax.\nIf you mean sales as in discounts well maybe in the future when I have more items in stock! Sorry English isn't my 1st language so I wasn't 100% sure what you meant ha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1656094758951,
+      "content": "Do you have any ongoing sales?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "David Louvier Chessboards",
+  "is_still_participant": true,
+  "thread_path": "inbox/davidlouvierchessboards_921289685935721",
+  "magic_words": [
+    
+  ]
+}

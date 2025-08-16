@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Gem\u00e2\u009c\u00a8\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1615393368189,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gem\u00e2\u009c\u00a8\u00f0\u009f\u00ab\u00b6\u00f0\u009f\u008f\u00bb",
+  "is_still_participant": true,
+  "thread_path": "inbox/gem_557570658971179",
+  "magic_words": [
+    
+  ]
+}

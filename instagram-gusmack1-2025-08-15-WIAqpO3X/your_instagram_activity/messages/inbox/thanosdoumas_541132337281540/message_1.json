@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Thanos Doumas"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Thanos Doumas",
+      "timestamp_ms": 1548169202267,
+      "content": "Hey thanks for following me! Quite an interesting page you got there! I hope you will enjoy my content too! Have a great day! \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Thanos Doumas",
+  "is_still_participant": true,
+  "thread_path": "inbox/thanosdoumas_541132337281540",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "participants": [
+    {
+      "name": "Alastair McPhee"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1624123614937,
+      "content": "It would be amazing if you could help us promote this new Alexa skill for visually and reading impaired people. Simply say Alexa enable Talking Newspaper and then Alexa play talking newspaper and funally Alexa play the herald. Thank you if you can help us.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1624123614623,
+      "share": {
+        "link": "https://www.instagram.com/p/CQIX5gitMr8/",
+        "share_text": "\"Alexa Enable Talking Newspaper\" that's all you have to say to access talking newspapers use the evaluation form at www.printtoaudio.org to let us know what we can improve. #alexa #talkingnewspaper #blind",
+        "original_content_owner": "cueandreview"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1611329110097,
+      "content": "Thankyou",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1611331571
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1611323923782,
+      "content": "Done",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1611322698689,
+      "content": "Please help us raise awareness of our daily news podcasts by sharing this post. You might also recognise the voice.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1611323919
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1611322698155,
+      "share": {
+        "link": "https://www.instagram.com/p/CKWPiXeDjzZ/",
+        "share_text": "\"Billy Connolly Feels Scotland Is Closer To Independence\"\"\n\nhttps://linktr.ee/cueandreview\n\n#AccessToAudio #TalkingNewspaper #PrintSpeakingToTheBlind #VisuallyImpaired #Thenational #ImpactFundingPartners #Glasgow #glasgowpodcasts",
+        "original_content_owner": "cueandreview"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1560206846292,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1560162177580,
+      "content": "Yes u?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1560158976619,
+      "content": "So are you local to Bishopbriggs?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1560120149909,
+      "content": "No problem great content",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alastair McPhee",
+      "timestamp_ms": 1560119729923,
+      "content": "Thanks for liking so many of my pictures",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alastair McPhee",
+  "is_still_participant": true,
+  "thread_path": "inbox/alastairmcphee_543800067021837",
+  "magic_words": [
+    
+  ]
+}

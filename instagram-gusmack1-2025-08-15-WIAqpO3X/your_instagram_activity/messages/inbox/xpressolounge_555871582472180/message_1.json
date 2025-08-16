@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Xpresso Lounge"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1557244520430,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xpresso Lounge",
+      "timestamp_ms": 1557237735036,
+      "content": "Iftari is time to break your fast..",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1557237501143,
+      "content": "What's that?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Xpresso Lounge",
+      "timestamp_ms": 1555948109831,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1555940783211,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Xpresso Lounge"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/xpresso_lounge_glasgow/2027665240268690423"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Xpresso Lounge",
+  "is_still_participant": true,
+  "thread_path": "inbox/xpressolounge_555871582472180",
+  "magic_words": [
+    
+  ]
+}

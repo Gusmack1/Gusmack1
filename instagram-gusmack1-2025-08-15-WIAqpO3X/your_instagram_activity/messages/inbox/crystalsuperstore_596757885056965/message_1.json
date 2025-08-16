@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Crystal Superstore"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Crystal Superstore",
+      "timestamp_ms": 1546129004965,
+      "content": "Hi there, gusmack1!\n\nThanks for following Crystal Superstore!!\nHere's an exclusive 15% off coupon that's valid for your first order with us:  WELCOME15\n\nHope to see you around! :)\n\nBlessed Be,\nCrystal Superstore",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Crystal Superstore",
+  "is_still_participant": true,
+  "thread_path": "inbox/crystalsuperstore_596757885056965",
+  "magic_words": [
+    
+  ]
+}

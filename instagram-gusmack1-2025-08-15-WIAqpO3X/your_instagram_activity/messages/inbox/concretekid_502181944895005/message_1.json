@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Concrete Kid"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Concrete Kid",
+      "timestamp_ms": 1647702240152,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1647701325194,
+      "content": "Hahaha i will keep that in mind. Dont do any challenges, would end up spewing lol",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Concrete Kid",
+          "timestamp": 1647702240
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Concrete Kid",
+      "timestamp_ms": 1647687853681,
+      "content": "Hey man! Thanks for the follow. Some of that grub looks amazing. If you're ever doing a challenge and filming it, I'd be well up for the laugh. Like man v food, but in Scotland. Haha. Cheers mate.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1647701270
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Concrete Kid",
+  "is_still_participant": true,
+  "thread_path": "inbox/concretekid_502181944895005",
+  "magic_words": [
+    
+  ]
+}

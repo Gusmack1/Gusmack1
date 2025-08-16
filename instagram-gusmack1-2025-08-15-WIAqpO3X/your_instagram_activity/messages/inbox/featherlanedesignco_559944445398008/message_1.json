@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "featherlane design co."
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "featherlane design co.",
+      "timestamp_ms": 1545709360404,
+      "content": "Hi there :) My name is Cassie Courtney, founder of featherlane design. co! Thanks so much for following us!! We appreciate each of our followers and if my team and I can help you in any way, please let us know!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "featherlane design co.",
+  "is_still_participant": true,
+  "thread_path": "inbox/featherlanedesignco_559944445398008",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,77 @@
+{
+  "participants": [
+    {
+      "name": "N\u00c3\u00b3n Vi\u00e1\u00bb\u0087t"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1595591825841,
+      "content": "Not a problem",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "N\u00c3\u00b3n Vi\u00e1\u00bb\u0087t",
+      "timestamp_ms": 1595591792979,
+      "content": "Thank you \u00e2\u009d\u00a4\u00ef\u00b8\u008f\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "N\u00c3\u00b3n Vi\u00e1\u00bb\u0087t",
+      "timestamp_ms": 1595591777711,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1595587498123,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2360281455526320434"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "N\u00c3\u00b3n Vi\u00e1\u00bb\u0087t",
+      "timestamp_ms": 1584187809589,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584048147203,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "N\u00c3\u00b3n Vi\u00e1\u00bb\u0087t"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "N\u00c3\u00b3n Vi\u00e1\u00bb\u0087t",
+  "is_still_participant": true,
+  "thread_path": "inbox/nonviet_517345419652218",
+  "magic_words": [
+    
+  ]
+}

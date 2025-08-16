@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Dave Ryuk Brennan"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dave Ryuk Brennan",
+      "timestamp_ms": 1615497654249,
+      "content": "Hi",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dave Ryuk Brennan",
+  "is_still_participant": true,
+  "thread_path": "inbox/daveryukbrennan_518489682871125",
+  "magic_words": [
+    
+  ]
+}

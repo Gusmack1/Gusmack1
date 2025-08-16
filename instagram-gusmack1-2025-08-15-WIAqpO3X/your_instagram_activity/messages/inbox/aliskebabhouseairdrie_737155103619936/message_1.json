@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Alis Kebab House Airdrie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alis Kebab House Airdrie",
+      "timestamp_ms": 1618535424734,
+      "content": "Let me know if your up for it and we can arrange a day...",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alis Kebab House Airdrie",
+      "timestamp_ms": 1618535402446,
+      "content": "Excellent... we are opening a dessert section to our shop in the next week or so and I would like to invite you for a milkshake or ice cream or whatever you fancy.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1618435974717,
+      "content": "I eat anything so yes \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alis Kebab House Airdrie",
+      "timestamp_ms": 1618432175489,
+      "content": "Hi do you do reviews of dessert shops?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1618435942
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alis Kebab House Airdrie",
+  "is_still_participant": true,
+  "thread_path": "inbox/aliskebabhouseairdrie_737155103619936",
+  "magic_words": [
+    
+  ]
+}

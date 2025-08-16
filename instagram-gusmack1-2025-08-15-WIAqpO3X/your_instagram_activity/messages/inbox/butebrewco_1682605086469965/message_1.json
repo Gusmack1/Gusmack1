@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Bute Brew Co."
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1754165130608,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3690526994307144708"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1743867901710,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3604147558846866940"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bute Brew Co.",
+  "is_still_participant": true,
+  "thread_path": "inbox/butebrewco_1682605086469965",
+  "magic_words": [
+    
+  ]
+}

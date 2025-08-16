@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "amy the ..."
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "amy the ...",
+      "timestamp_ms": 1559473325059,
+      "content": "amy sent an attachment.",
+      "share": {
+        "link": "https://buddymeter.com/quiz.html?q=5sHMCox",
+        "share_text": "Give this quiz and prove you are a true friend!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "amy the ...",
+  "is_still_participant": true,
+  "thread_path": "inbox/amythe_528536498534460",
+  "magic_words": [
+    
+  ]
+}

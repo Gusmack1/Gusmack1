@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Clive Morgan"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "Maury"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "NAT WEBB"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Team iNTIME Aluminium",
+      "timestamp_ms": 1721141410977,
+      "content": "Team iNTIME Aluminium left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1721141376332,
+      "content": "Good news, I am the recruitment manager of Booking*com. We are recruiting part-time online members worldwide. You only need to work 2 hours online every day in your spare time. The daily salary is (100-800) euros. If you work online for 15 consecutive days, the daily salary is (1500-3000) euros. Note: (This position is not suitable for students under 22 years old. Sorry, African and Indian countries are temporarily unable to receive rewards and wages due to regional payment reasons) For more details, please click the WhatsaPP link: https://bit.ly/4cWZWtN",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Clive Morgan, Maury, Instagram User and NAT WEBB",
+  "is_still_participant": true,
+  "thread_path": "message_requests/clivemorganmauryinstagramuserandnatwebb_7834649863279887",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

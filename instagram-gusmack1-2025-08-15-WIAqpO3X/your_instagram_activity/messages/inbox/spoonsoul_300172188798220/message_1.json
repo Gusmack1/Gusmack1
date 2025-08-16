@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "spoon soul"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "spoon soul",
+      "timestamp_ms": 1647754838882,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "spoon soul",
+      "timestamp_ms": 1647188851429,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "spoon soul",
+      "timestamp_ms": 1647071357583,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "spoon soul",
+      "timestamp_ms": 1643125260839,
+      "content": "Hlo",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "spoon soul",
+  "is_still_participant": true,
+  "thread_path": "inbox/spoonsoul_300172188798220",
+  "magic_words": [
+    
+  ]
+}

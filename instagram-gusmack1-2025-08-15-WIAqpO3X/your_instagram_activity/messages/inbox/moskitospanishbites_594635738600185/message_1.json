@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Moskito Spanish Bites"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Moskito Spanish Bites",
+      "timestamp_ms": 1665228889251,
+      "content": "Hi, how are you? Sorry to bother you, Please I\u00e2\u0080\u0099m contesting for an ambassadorship spot at an online influencers program can you please vote for me?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1576447798595,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Moskito Spanish Bites",
+  "is_still_participant": true,
+  "thread_path": "inbox/moskitospanishbites_594635738600185",
+  "magic_words": [
+    
+  ]
+}

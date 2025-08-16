@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Kirsty Chalmers"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Kirsty Chalmers",
+      "timestamp_ms": 1649075942909,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1649075935650,
+      "content": "\u00f0\u009f\u0098\u00a2",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Kirsty Chalmers",
+          "timestamp": 1649075942
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kirsty Chalmers",
+  "is_still_participant": true,
+  "thread_path": "inbox/kirstychalmers_4993787470705182",
+  "magic_words": [
+    
+  ]
+}

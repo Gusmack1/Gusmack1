@@ -1,0 +1,89 @@
+{
+  "participants": [
+    {
+      "name": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2",
+      "timestamp_ms": 1579191060060,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579190813322,
+      "content": "Cheap af. If u do tag me in it lol",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2",
+      "timestamp_ms": 1579190782362,
+      "content": "\u00f0\u009f\u0090\u00a5 I might give it a whack but just 1 extra burger haha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579190719833,
+      "content": "Aye munched it there hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2",
+      "timestamp_ms": 1579190642523,
+      "content": "Here that burger looks amazing! Did you eat the lot",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2",
+      "timestamp_ms": 1579190596799,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579190550151,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00e2\u0080\u00a2 g \u00e2\u0080\u00a2",
+  "is_still_participant": true,
+  "thread_path": "inbox/g_541873290538908",
+  "magic_words": [
+    
+  ]
+}

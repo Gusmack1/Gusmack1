@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Ruth Allen"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578186993489,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ruth Allen",
+  "is_still_participant": true,
+  "thread_path": "inbox/ruthallen_563911341676193",
+  "magic_words": [
+    
+  ]
+}

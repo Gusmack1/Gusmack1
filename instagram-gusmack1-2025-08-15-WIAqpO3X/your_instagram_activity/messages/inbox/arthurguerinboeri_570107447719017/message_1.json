@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Arthur Guerin-Boeri"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Arthur Guerin-Boeri",
+      "timestamp_ms": 1545687956329,
+      "content": "Arthur sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/ArthurGuerinBoeriOfficiel/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Arthur Guerin-Boeri",
+  "is_still_participant": true,
+  "thread_path": "inbox/arthurguerinboeri_570107447719017",
+  "magic_words": [
+    
+  ]
+}

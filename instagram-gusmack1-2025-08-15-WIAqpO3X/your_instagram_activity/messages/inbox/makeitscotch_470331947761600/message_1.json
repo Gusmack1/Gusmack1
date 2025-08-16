@@ -1,0 +1,88 @@
+{
+  "participants": [
+    {
+      "name": "Make It Scotch"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Make It Scotch",
+      "timestamp_ms": 1679322904632,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679071838849,
+      "content": "No probs, I'm always keen \u00f0\u009f\u0098\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Make It Scotch",
+          "timestamp": 1679322904
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Make It Scotch",
+      "timestamp_ms": 1679060368225,
+      "content": "Hi there! No worries at all! Let us know if you\u00e2\u0080\u0099d ever be keen to collaborate \u00f0\u009f\u0098\u0081",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1679074500
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678914174296,
+      "content": "Hi sorry for not replying I took some time out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Make It Scotch",
+      "timestamp_ms": 1670334469990,
+      "content": "Hi there, we love your content and would love to involve you in a campaign. We are currently working on a campaign for Christmas which would involve cooking with the Scotch meat of your choice. If this is something you\u00e2\u0080\u0099d be interested in it would be great if you could pass along your email address so I can email you the brief? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Make It Scotch",
+      "timestamp_ms": 1638216614187,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638189848641,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Make It Scotch",
+          "timestamp": 1638216614
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Make It Scotch",
+  "is_still_participant": true,
+  "thread_path": "inbox/makeitscotch_470331947761600",
+  "magic_words": [
+    
+  ]
+}

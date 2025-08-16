@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Dillon Denton-Ashley"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Dillon Denton-Ashley",
+      "timestamp_ms": 1576756730212,
+      "content": "\u00f0\u009f\u0092\u0083\u00f0\u009f\u008f\u00bf\u00f0\u009f\u0092\u0083\u00f0\u009f\u008f\u00bf\u00f0\u009f\u0092\u0083\u00f0\u009f\u008f\u00bf\u00f0\u009f\u0092\u0083\u00f0\u009f\u008f\u00bf",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1576444318308,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Dillon Denton-Ashley",
+  "is_still_participant": true,
+  "thread_path": "inbox/dillondentonashley_515881209798427",
+  "magic_words": [
+    
+  ]
+}

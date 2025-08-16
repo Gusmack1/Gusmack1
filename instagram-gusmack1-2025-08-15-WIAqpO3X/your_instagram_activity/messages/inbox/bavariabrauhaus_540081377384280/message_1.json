@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Bavaria Brauhaus"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1598867737047,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2387798090382116138"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bavaria Brauhaus",
+  "is_still_participant": true,
+  "thread_path": "inbox/bavariabrauhaus_540081377384280",
+  "magic_words": [
+    
+  ]
+}

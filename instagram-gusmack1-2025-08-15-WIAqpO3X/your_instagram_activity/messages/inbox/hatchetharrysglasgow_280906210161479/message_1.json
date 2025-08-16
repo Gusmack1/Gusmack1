@@ -1,0 +1,115 @@
+{
+  "participants": [
+    {
+      "name": "Hatchet Harry's Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582221808217,
+      "content": "Yeah that sounds good it's just started chucking it down as well. I'll sort something \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hatchet Harry's Glasgow",
+      "timestamp_ms": 1582221539882,
+      "content": "No worries! If there is a day we can get you booked in next week we can rearrange\u00f0\u009f\u0098\u008a",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582221224183,
+      "content": "Sorry guys I need to cancel. My plus one has bailed out and I'm going to have trouble getting home cos of this weather. I'm sorry",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582186118265,
+      "content": "Nice one thanks alot \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hatchet Harry's Glasgow",
+      "timestamp_ms": 1582186098277,
+      "content": "Perfect! See you tonight \u00e2\u009a\u0092\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582185481176,
+      "content": "Yes 2 for 6:15 please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hatchet Harry's Glasgow",
+      "timestamp_ms": 1582178923138,
+      "content": "Hey there! Are you still interested in booking? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582045713262,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hatchet Harry's Glasgow",
+      "timestamp_ms": 1582039727405,
+      "content": "Great, we look forward to having you in to sink some axes \u00e2\u009a\u0092\u00ef\u00b8\u008f\u00e2\u009a\u0092\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582036969168,
+      "content": "OK thanks this sounds great I'll get back to you ASAP",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hatchet Harry's Glasgow",
+      "timestamp_ms": 1582036441332,
+      "content": "We are inviting you to come along to our city centre location for a free 1 hour 30 minutes throwing session at 4:30pm or 6:15pm on Thursday 20th of February.\u00c2\u00a0\n\n\nYou will get the chance to get your aderalin pumping and perfect your throw with the guidence of our fully trained and welcoming staff! Your challenge is to hit the kill shot, our challenge is to have you leaving with a smile on your face. Let's see who succeeds \u00f0\u009f\u0098\u0089\n\n\nPlease let us know if you would be interested in booking a slot for you +3? Spaces are limited and once they are gone, they are gone \u00f0\u009f\u0098\u00b1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582036040338,
+      "content": "Hey nice one what's involved?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Hatchet Harry's Glasgow",
+      "timestamp_ms": 1582029232109,
+      "content": "We'd love to invite you along for a free throw on Thursday\u00e2\u009a\u0092\u00ef\u00b8\u008f let us know if you are interested!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hatchet Harry's Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/hatchetharrysglasgow_280906210161479",
+  "magic_words": [
+    
+  ]
+}

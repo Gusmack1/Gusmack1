@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Accento Cafe"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581284123099,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Accento Cafe",
+      "timestamp_ms": 1579791202904,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579789964786,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2227762074867903238"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Accento Cafe",
+  "is_still_participant": true,
+  "thread_path": "inbox/accentocafe_574204960646810",
+  "magic_words": [
+    
+  ]
+}

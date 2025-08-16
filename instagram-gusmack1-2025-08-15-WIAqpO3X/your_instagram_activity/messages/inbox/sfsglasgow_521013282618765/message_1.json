@@ -1,0 +1,104 @@
+{
+  "participants": [
+    {
+      "name": "sfs.glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "sfs.glasgow",
+      "timestamp_ms": 1648032670332,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1648032734
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sfs.glasgow",
+      "timestamp_ms": 1647350224955,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sfs.glasgow",
+      "timestamp_ms": 1620223646121,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sfs.glasgow",
+      "timestamp_ms": 1617284745877,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sfs.glasgow",
+      "timestamp_ms": 1616180567612,
+      "content": "Thanks allot \u00f0\u009f\u0091\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1616182342
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sfs.glasgow",
+      "timestamp_ms": 1616180565407,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1616170593518,
+      "content": "Not a problem I'm always happy to help.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "sfs.glasgow",
+          "timestamp": 1616180565
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1616170493407,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "sfs.glasgow",
+      "timestamp_ms": 1616169801783,
+      "content": "Hi\nMy name is Ronen.  I'm writing to ask if you would be interested in making a promotional post about our small family business. The business is a small food truck on Kelvin Way, that sells athentic street dishes from around the world. I would really appreciate your help with this matter. Please feel free to get in touch.\n\nKind regards.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1616170514
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "sfs.glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/sfsglasgow_521013282618765",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "LOGAN MALLOCH - Homeware, Lifestyle, gift shop"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LOGAN MALLOCH - Homeware, Lifestyle, gift shop",
+      "timestamp_ms": 1582463644190,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582463607428,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "LOGAN MALLOCH - Homeware, Lifestyle, gift shop"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LOGAN MALLOCH - Homeware, Lifestyle, gift shop",
+  "is_still_participant": true,
+  "thread_path": "inbox/loganmallochhomewarelifestylegiftshop_512939190093099",
+  "magic_words": [
+    
+  ]
+}

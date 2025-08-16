@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "WEST Brewery"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1635939978541,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "WEST Brewery",
+      "timestamp_ms": 1578908500815,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578830968189,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2219717485745656125"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "WEST Brewery",
+  "is_still_participant": true,
+  "thread_path": "inbox/westbrewery_566441094750262",
+  "magic_words": [
+    
+  ]
+}

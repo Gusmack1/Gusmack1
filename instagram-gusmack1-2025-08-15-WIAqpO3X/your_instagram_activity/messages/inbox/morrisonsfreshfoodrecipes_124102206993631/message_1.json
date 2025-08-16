@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Morrisons | Fresh Food & Recipes"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1680085348104,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3069100724792679252"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1657797468164,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Morrisons | Fresh Food & Recipes",
+  "is_still_participant": true,
+  "thread_path": "inbox/morrisonsfreshfoodrecipes_124102206993631",
+  "magic_words": [
+    
+  ]
+}

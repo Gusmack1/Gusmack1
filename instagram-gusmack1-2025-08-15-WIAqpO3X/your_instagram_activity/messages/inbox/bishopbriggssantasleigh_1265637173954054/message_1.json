@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Bishopbriggs Santa Sleigh"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638805732005,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2722822134830824512"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bishopbriggs Santa Sleigh",
+  "is_still_participant": true,
+  "thread_path": "inbox/bishopbriggssantasleigh_1265637173954054",
+  "magic_words": [
+    
+  ]
+}

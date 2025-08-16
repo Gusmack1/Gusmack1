@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "The Food Brothers"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The Food Brothers",
+      "timestamp_ms": 1592842736905,
+      "content": "The Food sent an attachment.",
+      "share": {
+        "link": "https://www.youtube.com/channel/UCXGcwIveJ_aIB7ECjMYmHvQ",
+        "share_text": "Join us in the food journey of 3 brothers; showcasing their cooking skills and cravings of spicy food."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Food Brothers",
+  "is_still_participant": true,
+  "thread_path": "inbox/thefoodbrothers_520321196021307",
+  "magic_words": [
+    
+  ]
+}

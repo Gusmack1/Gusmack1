@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Locavore"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1635518231959,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2695244667383506057"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Locavore",
+  "is_still_participant": true,
+  "thread_path": "inbox/locavore_1333806453706150",
+  "magic_words": [
+    
+  ]
+}

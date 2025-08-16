@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Alan Simpson"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1554423163480,
+      "content": "Hahahaha the soup",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Alan Simpson",
+      "timestamp_ms": 1554416781067,
+      "content": "Ffs aye..... ask them for some of they juices on the bottom annol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Alan Simpson",
+  "is_still_participant": true,
+  "thread_path": "inbox/alansimpson_529175508476934",
+  "magic_words": [
+    
+  ]
+}

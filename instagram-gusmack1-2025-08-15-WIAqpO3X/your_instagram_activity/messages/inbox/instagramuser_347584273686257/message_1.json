@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1626776094933,
+      "content": "This took me 3 hours to make. I really hope you love it. Look: https://fromme369.xyz/g/?&ure=gusmack1",
+      "share": {
+        "link": "https://fromme369.xyz/g/?&ure=gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_347584273686257",
+  "magic_words": [
+    
+  ]
+}

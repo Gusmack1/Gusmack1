@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Mirin McLintock\u00e2\u009a\u009c\u00ef\u00b8\u008f\u00f0\u009f\u008d\u00be"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578180114791,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1565376089223,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Mirin McLintock\u00e2\u009a\u009c\u00ef\u00b8\u008f\u00f0\u009f\u008d\u00be",
+  "is_still_participant": true,
+  "thread_path": "inbox/mirinmclintock_586005549464084",
+  "magic_words": [
+    
+  ]
+}

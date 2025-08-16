@@ -1,0 +1,58 @@
+{
+  "participants": [
+    {
+      "name": "Michelle Pearson Music"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1563370816299,
+      "content": "Np",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michelle Pearson Music",
+      "timestamp_ms": 1563370746255,
+      "content": "No problems. Thanks for getting back to me",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1563370438311,
+      "content": "Looks good but the timing sux for me lol I have a real job to half 5 Mon to Fri so I would miss most of it even if I jumped on a train. Thanks for the invite I'm sure we will cross paths at some point \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michelle Pearson Music",
+      "timestamp_ms": 1563370034192,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Michelle Pearson Music",
+      "timestamp_ms": 1563370025685,
+      "content": "Hi Gus. My name\u00e2\u0080\u0099s Michelle Pearson and I\u00e2\u0080\u0099m coming to Edinburgh for the Festival in early August where I\u00e2\u0080\u0099ll be performing two cooking cabaret shows. Not sure if you\u00e2\u0080\u0099re keen as you\u00e2\u0080\u0099re in Glasgow but I\u00e2\u0080\u0099ll also be launching my new cookbook and I\u00e2\u0080\u0099m looking to connect with food bloggers as well as other media for the launch. I wanted to invite you along. See invite below. Don\u00e2\u0080\u0099t hesitate to send through any questions. Hopefully see you soon.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Michelle Pearson Music",
+  "is_still_participant": true,
+  "thread_path": "inbox/michellepearsonmusic_585691536163204",
+  "magic_words": [
+    
+  ]
+}

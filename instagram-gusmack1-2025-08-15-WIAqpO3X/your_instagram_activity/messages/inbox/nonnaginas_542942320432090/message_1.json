@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Nonna Gina\u00e2\u0080\u0099s"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nonna Gina\u00e2\u0080\u0099s",
+      "timestamp_ms": 1594719557180,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594714903871,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2352961598170531936"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nonna Gina\u00e2\u0080\u0099s",
+  "is_still_participant": true,
+  "thread_path": "inbox/nonnaginas_542942320432090",
+  "magic_words": [
+    
+  ]
+}

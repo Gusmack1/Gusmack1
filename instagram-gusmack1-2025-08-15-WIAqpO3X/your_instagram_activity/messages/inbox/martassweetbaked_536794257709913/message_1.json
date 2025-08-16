@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Marta's Sweet Baked"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marta's Sweet Baked",
+      "timestamp_ms": 1596635549549,
+      "content": "Holaaa Bienvenid@ a Marta\u00c2\u00b4s Sweet Baked, gracias por suscribirte.\nSomos una Pasteler\u00c3\u00ada Artesanal dedicada a crear, especialmente para ti, deliciosos dulces para cualquier ocasi\u00c3\u00b3n, con amor y dedicaci\u00c3\u00b3n \u00f0\u009f\u008e\u0082\u00f0\u009f\u00a7\u0081\u00f0\u009f\u008d\u00a9\u00f0\u009f\u008d\u00aa\u00f0\u009f\u008d\u00b0\u00f0\u009f\u00a5\u00a7\u00f0\u009f\u008d\u00ae\nSi quieres regalar un delicioso dulce a alguien especial, complacer un antojo, crear un hermoso dulce tem\u00c3\u00a1tico para cualquier tipo de ocasi\u00c3\u00b3n te invito a escr\u00c3\u00adbenos por esta v\u00c3\u00ada o contactamos por  whatsapp al numero +507 65032649 con gusto te atenderemos a la brevedad posible.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marta's Sweet Baked",
+  "is_still_participant": true,
+  "thread_path": "inbox/martassweetbaked_536794257709913",
+  "magic_words": [
+    
+  ]
+}

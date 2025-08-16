@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Peroni Nastro Azzurro"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623425063954,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2593799802408890320"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1607782420347,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2462579830719717255"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Peroni Nastro Azzurro",
+  "is_still_participant": true,
+  "thread_path": "inbox/peroninastroazzurro_519265632793530",
+  "magic_words": [
+    
+  ]
+}

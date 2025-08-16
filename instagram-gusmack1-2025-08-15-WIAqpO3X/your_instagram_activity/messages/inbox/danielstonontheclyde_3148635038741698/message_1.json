@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Danielston on the Clyde"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1653069554044,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/glasgowwhiskyandstuff/2841814279809743228"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Danielston on the Clyde",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielstonontheclyde_3148635038741698",
+  "magic_words": [
+    
+  ]
+}

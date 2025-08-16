@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Scarlet Raven"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Scarlet Raven",
+      "timestamp_ms": 1646751444463,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1646750802527,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Scarlet Raven",
+          "timestamp": 1646751444
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Scarlet Raven",
+  "is_still_participant": true,
+  "thread_path": "inbox/scarletraven_482677190011141",
+  "magic_words": [
+    
+  ]
+}

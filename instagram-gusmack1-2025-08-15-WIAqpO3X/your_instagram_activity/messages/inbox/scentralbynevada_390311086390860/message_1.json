@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "scentralbynevada"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1654971515794,
+      "content": "Np x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "scentralbynevada",
+      "timestamp_ms": 1654971489417,
+      "content": "Thanks x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1654971452701,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "scentralbynevada",
+  "is_still_participant": true,
+  "thread_path": "inbox/scentralbynevada_390311086390860",
+  "magic_words": [
+    
+  ]
+}

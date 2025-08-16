@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "De Medias Social Media"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "De Medias Social Media",
+      "timestamp_ms": 1627577562604,
+      "content": "Ok no problem!",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1627577570
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "De Medias Social Media",
+      "timestamp_ms": 1627577555257,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1627577533600,
+      "content": "Sounds good sign me up. Lobster shack is too far away but if theres anything in glasgow or the surrounding areas then let me know\n\nGus",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "De Medias Social Media",
+          "timestamp": 1627577555
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "De Medias Social Media",
+      "timestamp_ms": 1627577356570,
+      "content": "Heyyy there,\n\nHow are you\u00f0\u009f\u00a5\u00b0 We are an international creative marketing agency with Offices in Tel Aviv, London, and New York \u00f0\u009f\u008d\u008e\n\nWe connect hotels, restaurants and lifestyle brands with social media, with bloggers& influencers like yourself \u00f0\u009f\u00a4\u00a9\n\nSo I am wondering if you would be up for collabs such as brunch, food testing etc? \n\nIf so I would love to add you on our blogger list and when the next opportunity comes up, you will be the first one to know\u00f0\u009f\u0099\u008c\n\nCurrently we have @lobstershacknb for you to visit if you\u00e2\u0080\u0099re interested in this invite! \n\nBest,\nWeAreDeMedias",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "De Medias Social Media",
+  "is_still_participant": true,
+  "thread_path": "inbox/demediassocialmedia_129593832682673",
+  "magic_words": [
+    
+  ]
+}

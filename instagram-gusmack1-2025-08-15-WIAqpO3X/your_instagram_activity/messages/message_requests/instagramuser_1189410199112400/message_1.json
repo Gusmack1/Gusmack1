@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1705446952420,
+      "content": "@sophiexraain just released her ONLYF*NS and she\u00e2\u0080\u0099s picking one of her followers to make content with this week! Now is your chance \u00f0\u009f\u0091\u0080",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1705446949880,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/sophiexraain",
+        "profile_share_username": "sophiexraain",
+        "profile_share_name": ""
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1189410199112400",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

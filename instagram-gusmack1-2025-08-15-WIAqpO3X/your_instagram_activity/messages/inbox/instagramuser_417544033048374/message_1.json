@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1633512773102,
+      "content": "Hey!! Your feed is amazing!\u00e2\u009d\u00a4\nI work with a jewelry brand called @marcellouisofficial, and we just started our brand ambassador program! We would love the opportunity to work with you & send you some complimentary jewelry - our treat!! If you are interested, send a DM to @marcellouisofficial & they'll help you out!!\u00e2\u009c\u00a8\nnamaste!\u00f0\u009f\u00a6\u008b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_417544033048374",
+  "magic_words": [
+    
+  ]
+}

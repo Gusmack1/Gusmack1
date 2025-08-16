@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "Grill on the Corner, Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1581513023031,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2242216187173086572"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Grill on the Corner, Glasgow",
+      "timestamp_ms": 1556895982018,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1556890395634,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2035666618026496082"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Grill on the Corner, Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/grillonthecornerglasgow_543342457053381",
+  "magic_words": [
+    
+  ]
+}

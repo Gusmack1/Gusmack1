@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "The Kraken Rum"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1612629500527,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2503240025453128080"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1612552305158,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2502592556793004375"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Kraken Rum",
+  "is_still_participant": true,
+  "thread_path": "inbox/thekrakenrum_527225432000038",
+  "magic_words": [
+    
+  ]
+}

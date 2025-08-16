@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Nilgiri Spice Edinburgh"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Nilgiri Spice Edinburgh",
+      "timestamp_ms": 1579861648228,
+      "content": "Nilgiri sent an attachment.",
+      "share": {
+        "link": "https://urlzs.com/yJBdv",
+        "share_text": "For a truly memorable dining experience, cuisine and atmosphere are paired as thoughtfully as food and wine. Located in the heart of Edinburgh, Nilgiri Spice delivers a contemporary taste of South Ind"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Nilgiri Spice Edinburgh",
+      "timestamp_ms": 1579315066436,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579179497096,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Nilgiri Spice Edinburgh"
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nilgiri Spice Edinburgh",
+  "is_still_participant": true,
+  "thread_path": "inbox/nilgirispiceedinburgh_591449345586782",
+  "magic_words": [
+    
+  ]
+}

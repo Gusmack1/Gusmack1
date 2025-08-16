@@ -1,0 +1,119 @@
+{
+  "participants": [
+    {
+      "name": "Jack Edge"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1596210983733,
+      "content": "I got them thanks \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1596043686161,
+      "content": "Legend thanks alot mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack Edge",
+      "timestamp_ms": 1596043613028,
+      "content": "Ace, ill get this out to you tomorrow for delivery Friday in time for weekend \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1596023643713,
+      "content": "U chucking some peroni in with them as well? \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1596023488012,
+      "content": "Those ones please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1596023467791,
+      "content": "CARNI\nSan Marzano tomatoes, parmesan, Napoli salami, salami picante, wild boar salami, fresh and dried chilli, EVOO\n\nPUMPKIN SPECIAL\nPumpkin cream base topped with scamorza (smoked mozzarella), spianata sausage, green chillis, toasted walnuts\n\nPORTOBELLO\nSan Marzano tomatoes, fresh veggie fior di latte, Portobello mushrooms, basil, oregano, sea salt, garlic oil\n\nMARGHERITA CON BUFALA\nSan Marzano tomatoes, parmesan, basil, buffalo mozzarella, EVOO",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1596023173312,
+      "content": "Nice one ill have a look",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack Edge",
+      "timestamp_ms": 1596022824186,
+      "content": "Jack sent an attachment.",
+      "share": {
+        "link": "https://rudyspizza.co.uk/",
+        "share_text": "We are delighted to announce that we are now taking bookings for dining in the pizzerias. We cannot wait to welcome you back to enjoy proper Neapolitan pizza after months of being apart!"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1596022611128,
+      "content": "Sure, how many and what flavours? I'm right into pizzas so this is ideal.\n\n32 Menteith Avenue\nBishopbriggs\nGlasgow\nG641hp",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack Edge",
+      "timestamp_ms": 1596021970815,
+      "content": "I'd love to get some Bake at Home pizzas out to you for you to try and give us feedback?\nLet me know your address and I can get these out to you this week?\n\nChat soon\n\nJack",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack Edge",
+      "timestamp_ms": 1596021958472,
+      "content": "We\u00e2\u0080\u0099ve recently started delivery of our Bake at Home pizza, freshly fired by our pizzaiolos in our restaurants every morning, then blast chilled and sent out overnight - you finish off at home. Feedback so far is that they're as good, if not better than in the pizzeria and we're posting them out nationwide every day!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack Edge",
+      "timestamp_ms": 1596021951815,
+      "content": "Jack from Rudy\u00e2\u0080\u0099s in Manchester here, love your account HAD to reach out...\n\nWe\u00e2\u0080\u0099re an independent, authentic Neapolitan pizza gang with five restaurants - check us our on Insta @wearerudyspizza",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jack Edge",
+      "timestamp_ms": 1596021938572,
+      "content": "hey Gus!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jack Edge",
+  "is_still_participant": true,
+  "thread_path": "inbox/jackedge_511372393582854",
+  "magic_words": [
+    
+  ]
+}

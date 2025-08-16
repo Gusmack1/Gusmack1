@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Oopsadaisybishopbriggs"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Oopsadaisybishopbriggs",
+      "timestamp_ms": 1695157761917,
+      "content": "Phone \u00e2\u0098\u008e\u00ef\u00b8\u008f 01417720044 regarding any queries or orders. Orders can be placed via our website. Due to the high volume of orders we do not reply to messages or take orders via messenger Thank you xx",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157760046,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Oopsadaisybishopbriggs",
+  "is_still_participant": true,
+  "thread_path": "inbox/oopsadaisybishopbriggs_1258225092243130",
+  "magic_words": [
+    
+  ]
+}

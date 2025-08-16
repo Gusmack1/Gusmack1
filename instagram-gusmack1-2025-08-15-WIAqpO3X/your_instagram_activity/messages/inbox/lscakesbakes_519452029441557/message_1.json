@@ -1,0 +1,42 @@
+{
+  "participants": [
+    {
+      "name": "LS Cakes & Bakes"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LS Cakes & Bakes",
+      "timestamp_ms": 1610636896287,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1610636857852,
+      "content": "\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "LS Cakes & Bakes",
+          "timestamp": 1610636896
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/lscakesandbakes/2485924346583666329"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "LS Cakes & Bakes",
+  "is_still_participant": true,
+  "thread_path": "inbox/lscakesbakes_519452029441557",
+  "magic_words": [
+    
+  ]
+}

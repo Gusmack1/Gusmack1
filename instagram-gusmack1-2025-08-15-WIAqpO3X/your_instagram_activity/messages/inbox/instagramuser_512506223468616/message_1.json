@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1545982777081,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://bit.ly/__leddog--Collar--",
+        "share_text": "6 Millions dogs are hit by cars every year. Don\u00e2\u0080\u0099t let your pet be in the statistics! LED light up, night safety solutions for dogs We are running new e-shop. Our special promotion is FREE GIFT for safety of your dogs. You just have to pay the shipping and handling! Color: Blue, Pink, Green, Red, O..."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_512506223468616",
+  "magic_words": [
+    
+  ]
+}

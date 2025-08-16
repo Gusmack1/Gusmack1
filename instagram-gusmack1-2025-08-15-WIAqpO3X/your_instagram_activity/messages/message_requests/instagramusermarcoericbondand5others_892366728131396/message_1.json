@@ -1,0 +1,62 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Marco"
+    },
+    {
+      "name": "Eric Bond"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Ron"
+    },
+    {
+      "name": "Benedikt H. Mehr Sadeh"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "Carlos Alberto"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638286298971,
+      "content": "https://bit.ly/2X3ENNn",
+      "share": {
+        "link": "https://bit.ly/2X3ENNn",
+        "share_text": "https://bit.ly/2X3ENNn"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638286296391,
+      "content": "H\u00d0\u00b5\u00d1\u0083\u00f0\u009f\u0098\u008d\ny\u00d0\u00beu w\u00d0\u00b0nt to s\u00d0\u00b5e m\u00d0\u00b5 nud\u00d0\u00b5s?\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098\u00f0\u009f\u0098\u0098",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User, Marco, Eric Bond and 5 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramusermarcoericbondand5others_892366728131396",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

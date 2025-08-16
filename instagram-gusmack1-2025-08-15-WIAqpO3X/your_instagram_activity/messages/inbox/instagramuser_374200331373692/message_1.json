@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1661179173589,
+      "content": "Hiya! Hope you don\u00e2\u0080\u0099t mind me messaging you. I just wanted to introduce our small business of selling gourmet sea salt for cooking! We are trying to get our name out there by word of mouth. Head over to our page and check out our website (link in bio) for all our salts! Have a great day - Dan :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1661179184
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_374200331373692",
+  "magic_words": [
+    
+  ]
+}

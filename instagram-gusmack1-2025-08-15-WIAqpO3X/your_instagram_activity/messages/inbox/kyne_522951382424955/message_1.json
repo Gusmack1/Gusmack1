@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "kyne"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "kyne",
+      "timestamp_ms": 1605803735428,
+      "content": "Me too",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "kyne",
+      "timestamp_ms": 1605801750919,
+      "content": "So you really loved food huh",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "kyne",
+  "is_still_participant": true,
+  "thread_path": "inbox/kyne_522951382424955",
+  "magic_words": [
+    
+  ]
+}

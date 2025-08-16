@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Jesse Freeman\u00e2\u0096\u00aaThat Burger Guy"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1597659652047,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2377663929122191989"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jesse Freeman\u00e2\u0096\u00aaThat Burger Guy",
+  "is_still_participant": true,
+  "thread_path": "inbox/jessefreemanthatburgerguy_542388820490884",
+  "magic_words": [
+    
+  ]
+}

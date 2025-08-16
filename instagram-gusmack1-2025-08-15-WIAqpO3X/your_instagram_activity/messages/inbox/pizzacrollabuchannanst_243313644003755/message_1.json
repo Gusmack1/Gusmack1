@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "PizzaCrollaBuchannanSt"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1625825018952,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2613932106006838591"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "PizzaCrollaBuchannanSt",
+  "is_still_participant": true,
+  "thread_path": "inbox/pizzacrollabuchannanst_243313644003755",
+  "magic_words": [
+    
+  ]
+}

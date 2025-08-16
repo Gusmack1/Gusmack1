@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "SMc\u00f0\u009f\u008e\u00b5."
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1644264849915,
+      "content": "Will do mate",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SMc\u00f0\u009f\u008e\u00b5.",
+      "timestamp_ms": 1644167998329,
+      "content": "try the south indian donner meat and onion \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2767753443701107930"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SMc\u00f0\u009f\u008e\u00b5.",
+  "is_still_participant": true,
+  "thread_path": "inbox/smc_2746199638857565",
+  "magic_words": [
+    
+  ]
+}

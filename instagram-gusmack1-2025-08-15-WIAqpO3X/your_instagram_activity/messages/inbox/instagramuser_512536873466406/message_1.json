@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1592929239740,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "http://Www.Amscot.com/",
+        "share_text": "At Amscot we believe you deserve fast, friendly service in convenient locations. We work hard to ensure you have an outstanding customer experience."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_512536873466406",
+  "magic_words": [
+    
+  ]
+}

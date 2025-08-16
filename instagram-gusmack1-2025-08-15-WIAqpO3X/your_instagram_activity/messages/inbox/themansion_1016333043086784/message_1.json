@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "The Mansion"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1679159509711,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/themansionanniesland/3061088016474569878"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Mansion",
+  "is_still_participant": true,
+  "thread_path": "inbox/themansion_1016333043086784",
+  "magic_words": [
+    
+  ]
+}

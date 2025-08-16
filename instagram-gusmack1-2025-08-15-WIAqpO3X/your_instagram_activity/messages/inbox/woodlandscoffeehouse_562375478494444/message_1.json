@@ -1,0 +1,73 @@
+{
+  "participants": [
+    {
+      "name": "Woodlands Coffee House"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678991501816,
+      "content": "Hahaha aaahhhh",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Woodlands Coffee House",
+      "timestamp_ms": 1678991044731,
+      "content": "We aren\u00e2\u0080\u0099t the same people. \nI\u00e2\u0080\u0099m just good at making mistakes on my social media posts! \u00f0\u009f\u00a4\u00a3 I always appreciate it when someone lets me know.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678989881996,
+      "content": "Didn't realize you were the same people. Good scran I was in Dunoon in November",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Woodlands Coffee House",
+      "timestamp_ms": 1678989094240,
+      "content": "Not a problem, I always appreciate it when someone lets me know!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678989014182,
+      "content": "Cheers for the heads up I'm a novice these days lol sorted",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Woodlands Coffee House",
+      "timestamp_ms": 1678988775204,
+      "content": "You need to edit your post about the rolls, you are still talking about the salmon & venison in one of the sections. \nThe rolls do look good though!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1554539406204,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Woodlands Coffee House",
+      "timestamp_ms": 1554537133421,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Woodlands Coffee House",
+  "is_still_participant": true,
+  "thread_path": "inbox/woodlandscoffeehouse_562375478494444",
+  "magic_words": [
+    
+  ]
+}

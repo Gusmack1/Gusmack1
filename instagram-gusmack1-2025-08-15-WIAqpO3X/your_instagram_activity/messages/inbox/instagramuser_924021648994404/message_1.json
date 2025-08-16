@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1657193505241,
+      "content": "I\u00e2\u0080\u0099m sorry for the random approach, I Was Wondering  If You Were Interested in This (Great Opportunity) Where you Make Up To 26k Today. No Personal Info Needed. There\u00e2\u0080\u0099s No Catch 100% Legit Process.??? Ask Me \u00e2\u0080\u009cHOW\u00e2\u0080\u009d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_924021648994404",
+  "magic_words": [
+    
+  ]
+}

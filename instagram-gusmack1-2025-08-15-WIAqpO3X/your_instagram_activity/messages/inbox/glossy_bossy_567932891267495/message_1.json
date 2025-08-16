@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Glossy_Bossy"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glossy_Bossy",
+      "timestamp_ms": 1553942955353,
+      "content": "Please follow my other account as this will be used more frequently.  Thank you \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glossy_Bossy",
+      "timestamp_ms": 1553942954989,
+      "share": {
+        "link": "https://www.instagram.com/_u/fozia_0111",
+        "profile_share_username": "fozia_0111",
+        "profile_share_name": "Fozia_"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Glossy_Bossy",
+  "is_still_participant": true,
+  "thread_path": "inbox/glossy_bossy_567932891267495",
+  "magic_words": [
+    
+  ]
+}

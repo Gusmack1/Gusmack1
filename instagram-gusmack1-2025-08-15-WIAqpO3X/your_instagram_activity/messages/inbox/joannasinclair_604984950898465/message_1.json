@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Joanna Sinclair"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1550183529925,
+      "content": "Like ur page x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Joanna Sinclair",
+  "is_still_participant": true,
+  "thread_path": "inbox/joannasinclair_604984950898465",
+  "magic_words": [
+    
+  ]
+}

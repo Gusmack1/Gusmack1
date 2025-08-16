@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "Gourmet Burger Kitchen Ireland"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584022672235,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2263268627075024398"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584002223982,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gourmet Burger Kitchen Ireland",
+  "is_still_participant": true,
+  "thread_path": "inbox/gourmetburgerkitchenireland_567899077944222",
+  "magic_words": [
+    
+  ]
+}

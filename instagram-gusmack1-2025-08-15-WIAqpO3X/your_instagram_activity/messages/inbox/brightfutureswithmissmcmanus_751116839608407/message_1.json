@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Bright Futures with Miss McManus \u00f0\u009f\u008c\u0088\u00e2\u009c\u008f\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650319986862,
+      "content": "Hey if u want a promotion it would need to be a paid one unfortunately due to the demand at the moment. If that's something that interests you give me a shout",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bright Futures with Miss McManus \u00f0\u009f\u008c\u0088\u00e2\u009c\u008f\u00ef\u00b8\u008f",
+      "timestamp_ms": 1647815048083,
+      "content": "Hey, I\u00e2\u0080\u0099m new in the baking business and I\u00e2\u0080\u0099m currently trying to get my wee business out there, I\u00e2\u0080\u0099m from glasgow but stay in paisley. You\u00e2\u0080\u0099re account is amazing! I was wondering if you would be up for trying out my brownies? It would be \u00c2\u00a36 just to cover the coverage of posting and ingredients etc (usually \u00c2\u00a312 with posting too!) let me know if you would be interested \u00f0\u009f\u0098\u008a xx",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1650319921
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bright Futures with Miss McManus \u00f0\u009f\u008c\u0088\u00e2\u009c\u008f\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/brightfutureswithmissmcmanus_751116839608407",
+  "magic_words": [
+    
+  ]
+}

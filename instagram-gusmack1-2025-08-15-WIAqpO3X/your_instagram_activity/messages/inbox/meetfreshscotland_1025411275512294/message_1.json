@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Meet Fresh Scotland"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157739492,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4",
+          "actor": "Meet Fresh Scotland"
+        }
+      ],
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meet Fresh Scotland",
+      "timestamp_ms": 1682622588719,
+      "content": "Hi, thanks for reply. \n\nYes, we will offer complimentary dessert for two, including 2 sets of our dessert and drink\u00f0\u009f\u00a7\u008b\u00e2\u009d\u00a4\u00ef\u00b8\u008f\n\nLooking forward to hearing from you soon!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1682517881822,
+      "content": "Sure I will get back to you sounds good. Would this be a paid promotion?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meet Fresh Scotland",
+      "timestamp_ms": 1682331221679,
+      "content": "Hello dear, \n\nThank you for following us. We are Meet Fresh, an exquisite Taiwanese dessert store in Glasgow. \n\nWe like your page and would love to invite you for a complimentary treat, including one dessert & one drink of your choice for you and your plus one. \n\nOur store is on 87 Renfield Street, Glasgow G2 1HW, and we are open every day from 12:00 - 21:00. \n\nIf you're interested too, please let us know the date and time that suits you best for your visit to Meet Fresh. And we could talk more about the details of collaboration moving forward. \n\nWe look forward to your reply and can't wait for you to try our delicious and authentic dessert anytime soon!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meet Fresh Scotland",
+  "is_still_participant": true,
+  "thread_path": "inbox/meetfreshscotland_1025411275512294",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Namak Mandi | Glasgow\u00e2\u0080\u0099s Premier Peshwari Cuisine"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650327116792,
+      "content": "Will do, although I may need to look that up hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Namak Mandi | Glasgow\u00e2\u0080\u0099s Premier Peshwari Cuisine",
+      "timestamp_ms": 1650326935536,
+      "content": "Join us for iftari",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1650327092
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650322174210,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650322168090,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Namak Mandi | Glasgow\u00e2\u0080\u0099s Premier Peshwari Cuisine",
+  "is_still_participant": true,
+  "thread_path": "inbox/namakmandiglasgowspremierpeshwaricuisine_394488785598114",
+  "magic_words": [
+    
+  ]
+}

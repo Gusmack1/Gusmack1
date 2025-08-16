@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Just Play Football Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Just Play Football Glasgow",
+      "timestamp_ms": 1653515888546,
+      "content": "Hey Mate, we\u00e2\u0080\u0099re organizing a pick up football game tomorrow at 7pm at Powerleague Glasgow! Let us know if you\u00e2\u0080\u0099d like to join us!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Just Play Football Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/justplayfootballglasgow_796189578434466",
+  "magic_words": [
+    
+  ]
+}

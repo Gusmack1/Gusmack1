@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "The Three Craws"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1605271651902,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2441518008201744577"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Three Craws",
+  "is_still_participant": true,
+  "thread_path": "inbox/thethreecraws_573048364091784",
+  "magic_words": [
+    
+  ]
+}

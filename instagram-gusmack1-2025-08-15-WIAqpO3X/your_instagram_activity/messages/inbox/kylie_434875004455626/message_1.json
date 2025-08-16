@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "~Kylie~"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "~Kylie~",
+      "timestamp_ms": 1654863797153,
+      "share": {
+        "original_content_owner": "takeawaybuynsell"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "~Kylie~",
+      "timestamp_ms": 1654084679608,
+      "share": {
+        "original_content_owner": "takeawaybuynsell"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "~Kylie~",
+      "timestamp_ms": 1652694155734,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "~Kylie~",
+      "timestamp_ms": 1640176132046,
+      "share": {
+        "original_content_owner": "takeawaybuynsell"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "~Kylie~",
+      "timestamp_ms": 1640080260555,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "~Kylie~",
+      "timestamp_ms": 1639066585860,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1633616267223,
+      "content": "Didnt get it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "~Kylie~",
+      "timestamp_ms": 1633613536674,
+      "share": {
+        "original_content_owner": "takeawaybuynsell"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "~Kylie~",
+  "is_still_participant": true,
+  "thread_path": "inbox/kylie_434875004455626",
+  "magic_words": [
+    
+  ]
+}

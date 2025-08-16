@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Daniela Mihalj | Makeup Artist & Fotografin"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1557380048023,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Daniela Mihalj | Makeup Artist & Fotografin",
+  "is_still_participant": true,
+  "thread_path": "inbox/danielamihaljmakeupartistfotografin_506739227378970",
+  "magic_words": [
+    
+  ]
+}

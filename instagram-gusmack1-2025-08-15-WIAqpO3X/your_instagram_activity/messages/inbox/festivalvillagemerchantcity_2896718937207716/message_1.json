@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Festival Village Merchant City"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Festival Village Merchant City",
+      "timestamp_ms": 1668444415370,
+      "photos": [
+        {
+          "uri": "your_instagram_activity/messages/inbox/festivalvillagemerchantcity_2896718937207716/photos/315236051_670744967799809_8193765631235950697_n_1160354491236634.jpg",
+          "creation_timestamp": 1668444414
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Festival Village Merchant City",
+      "timestamp_ms": 1668444407060,
+      "content": "Hi Gusmack, how are you?\nMaybe you've heard: Festival Village Glasgow has had a beautiful Christmas makeover - cosy lights, stunning decorations and aesthetic fire pits, plus a designated fan zone for the winter World Cup (subject to licensing). On top of all this the covered Merchant City beer garden has enlisted new street food vendor The Churros Van, as well as old favourites Feta. In honour of Festival Village's brand new festive drinks menu launching this Thursday, we'd love to invite you and your family/friends to try some serves at a discounted price this weekend, simply show this graphic to our friendly bartenders! Looking forward to seeing you there - Hannah \u00f0\u009f\u008e\u0084",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632942737570,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Festival Village Merchant City",
+      "timestamp_ms": 1632324504908,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632323455458,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Festival Village Merchant City",
+          "timestamp": 1632324504
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1632325340
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2668444947621557037"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Festival Village Merchant City",
+  "is_still_participant": true,
+  "thread_path": "inbox/festivalvillagemerchantcity_2896718937207716",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "participants": [
+    {
+      "name": "Candied Ice Cream Parlour\u00c2\u00ae\u00ef\u00b8\u008f\u00e2\u0084\u00a2\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Candied Ice Cream Parlour\u00c2\u00ae\u00ef\u00b8\u008f\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+      "timestamp_ms": 1582845542555,
+      "content": "Let\u00e2\u0080\u0099s do it!!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582845527377,
+      "content": "No problem amrit. We could make a fuckin immense dessert",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candied Ice Cream Parlour\u00c2\u00ae\u00ef\u00b8\u008f\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+      "timestamp_ms": 1582845490783,
+      "content": "Just let me know when suits and I\u00e2\u0080\u0099ll make sure I come say hello! Cheers amrit \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582845458649,
+      "content": "Sounds good theres always room for dessert \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb\u00f0\u009f\u008d\u00b0",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candied Ice Cream Parlour\u00c2\u00ae\u00ef\u00b8\u008f\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+      "timestamp_ms": 1582845410683,
+      "content": "You should pop through sometime and try out our homemade gelato! I\u00e2\u0080\u0099m sure you would enjoy it! Bring some friends and have some desserts on us!?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582845365487,
+      "content": "The kitchen sink plz lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Candied Ice Cream Parlour\u00c2\u00ae\u00ef\u00b8\u008f\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+      "timestamp_ms": 1582845337600,
+      "content": "\u00f0\u009f\u0098\u0081",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582845288592,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Candied Ice Cream Parlour\u00c2\u00ae\u00ef\u00b8\u008f\u00e2\u0084\u00a2\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/candiedicecreamparlourrtm_540487027343454",
+  "magic_words": [
+    
+  ]
+}

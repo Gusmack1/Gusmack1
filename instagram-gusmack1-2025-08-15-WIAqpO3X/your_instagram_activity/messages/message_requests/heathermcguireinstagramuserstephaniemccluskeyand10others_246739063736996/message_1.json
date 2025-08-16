@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Heather Mcguire"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Stephanie McCluskey"
+    },
+    {
+      "name": "Lifeinside_no18 bella"
+    },
+    {
+      "name": "xPaula"
+    },
+    {
+      "name": "Geo"
+    },
+    {
+      "name": "Debbie\u00f0\u009f\u0092\u0095"
+    },
+    {
+      "name": "Harjinder Kaur Dhanda-Mcalpine"
+    },
+    {
+      "name": "Carol xx \u00e2\u0099\u00a5\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Suzie Mcgovern"
+    },
+    {
+      "name": "ElleMcA"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "Rebecca Forrester"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Alison Nicholson",
+      "timestamp_ms": 1613587395531,
+      "content": "Alison Nicholson left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1613576153436,
+      "content": "https://bnc.lt/11QfOAd5Udb",
+      "share": {
+        "link": "https://bnc.lt/11QfOAd5Udb"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Heather Mcguire, Instagram User, Stephanie McCluskey and 10 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/heathermcguireinstagramuserstephaniemccluskeyand10others_246739063736996",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Danny Mei Lan Malin"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622563155748,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2586569646202026118"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Danny Mei Lan Malin",
+  "is_still_participant": true,
+  "thread_path": "inbox/dannymeilanmalin_228711062393258",
+  "magic_words": [
+    
+  ]
+}

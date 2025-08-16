@@ -1,0 +1,46 @@
+{
+  "participants": [
+    {
+      "name": "Maki & Ramen Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1607445414400,
+      "content": "Hey that's the winner announced @ell.ess.see if you can hook them up with the voucher thanks alot \u00f0\u009f\u0098\u0081",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Maki & Ramen Glasgow",
+      "timestamp_ms": 1605639851358,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1605613530705,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2444385879130991223"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Maki & Ramen Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/makiramenglasgow_517842292935864",
+  "magic_words": [
+    
+  ]
+}

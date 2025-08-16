@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Ayrshire Food an\u00e2\u0080\u0099 a\u00e2\u0080\u0099 That"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1642785824499,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2756209672194726589"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ayrshire Food an\u00e2\u0080\u0099 a\u00e2\u0080\u0099 That",
+  "is_still_participant": true,
+  "thread_path": "inbox/ayrshirefoodanathat_4768077673270261",
+  "magic_words": [
+    
+  ]
+}

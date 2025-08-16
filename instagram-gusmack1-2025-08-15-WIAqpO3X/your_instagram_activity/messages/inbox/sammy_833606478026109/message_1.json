@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Sammy"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1658063141133,
+      "content": "Plenty of water and rest \u00f0\u009f\u00a4\u00a3",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sammy",
+      "timestamp_ms": 1658063089650,
+      "content": "I hope you have a rennies on stand by \u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1658063019616,
+      "content": "I'm suffering now lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Sammy",
+      "timestamp_ms": 1658061778418,
+      "content": "I\u00e2\u0080\u0099d suffer after but would give it a try \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082 but im probably being a billy big baws",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1658063005
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2884213162581409238"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Sammy",
+  "is_still_participant": true,
+  "thread_path": "inbox/sammy_833606478026109",
+  "magic_words": [
+    
+  ]
+}

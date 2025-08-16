@@ -1,0 +1,63 @@
+{
+  "participants": [
+    {
+      "name": "Craig"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Craig",
+      "timestamp_ms": 1618094251190,
+      "content": "The bar manager in ma work was when a let him try it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Craig",
+      "timestamp_ms": 1618094239444,
+      "content": "Well I suggest you get involved mate you'll probly be quite surprised",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1618094186028,
+      "content": "I never use irn bru? I never use that as a mixer that's my go to lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1618094142072,
+      "content": "Not yet \u00f0\u009f\u0098\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Craig",
+      "timestamp_ms": 1618094100943,
+      "content": "You ever try the pineapple version of this with irn bru?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1618094136
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2549012473022713414"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Craig",
+  "is_still_participant": true,
+  "thread_path": "inbox/craig_253899029635782",
+  "magic_words": [
+    
+  ]
+}

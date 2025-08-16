@@ -1,0 +1,81 @@
+{
+  "participants": [
+    {
+      "name": "Kelly Paterson"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157735975,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Paterson",
+      "timestamp_ms": 1680210611935,
+      "content": "Nice will have a wee look",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1680210586407,
+      "content": "Ok lol I wouldn't dine in but probably ok for a takeaway",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Paterson",
+      "timestamp_ms": 1680210538188,
+      "content": "Ohh was it nice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1680210507152,
+      "content": "Was in nigiri tonight",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1680210438011,
+      "content": "Will do cheers",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Kelly Paterson",
+      "timestamp_ms": 1680210404657,
+      "content": "If you haven\u00e2\u0080\u0099t already you really should try Man Zu Chinese Takeaway it\u00e2\u0080\u0099s on bardowie street and is on just eat it\u00e2\u0080\u0099s amazing such a great selection",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1680210439
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3069906783509796088"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Kelly Paterson",
+  "is_still_participant": true,
+  "thread_path": "inbox/kellypaterson_1111224316946231",
+  "magic_words": [
+    
+  ]
+}

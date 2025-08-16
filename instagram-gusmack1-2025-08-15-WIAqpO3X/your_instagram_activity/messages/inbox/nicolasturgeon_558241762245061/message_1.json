@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Nicola Sturgeon"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1621609190047,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2578567198208273868"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1611839086995,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2496609651594340429"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nicola Sturgeon",
+  "is_still_participant": true,
+  "thread_path": "inbox/nicolasturgeon_558241762245061",
+  "magic_words": [
+    
+  ]
+}

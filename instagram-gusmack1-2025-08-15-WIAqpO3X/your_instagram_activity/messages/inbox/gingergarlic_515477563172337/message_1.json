@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Ginger Garlic"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ginger Garlic",
+      "timestamp_ms": 1610576516785,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1610576348137,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Ginger Garlic",
+          "timestamp": 1610576516
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ginger Garlic",
+  "is_still_participant": true,
+  "thread_path": "inbox/gingergarlic_515477563172337",
+  "magic_words": [
+    
+  ]
+}

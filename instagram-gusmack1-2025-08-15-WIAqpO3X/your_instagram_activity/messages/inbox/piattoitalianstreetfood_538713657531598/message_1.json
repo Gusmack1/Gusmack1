@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Piatto - Italian Street Food"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578177479227,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Piatto - Italian Street Food",
+  "is_still_participant": true,
+  "thread_path": "inbox/piattoitalianstreetfood_538713657531598",
+  "magic_words": [
+    
+  ]
+}

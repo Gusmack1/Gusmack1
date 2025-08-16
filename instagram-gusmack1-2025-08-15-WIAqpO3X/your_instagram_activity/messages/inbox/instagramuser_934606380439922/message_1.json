@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1625124284493,
+      "content": "Hey Gus,\n\nThanks for the follow it's much appreciated\u00f0\u009f\u0091\u008c\n\nI've set up the page as a support to my business, however don't let that put you off firing any health/fitness related questions my way. \n\nAfter the year we've had I think it's time for change, definitely for me anyway. Time for humans to look after each other and ourselves for sure.\n\nI'm here to help as many people as I can, that's my goal. Hopefully I can do that for you even if it's just in a small way.\n\nIf I can help you that would help me in achieving that, hope life's treating you well and don't be shy even if it's just to say hi.\n\nCraig.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_934606380439922",
+  "magic_words": [
+    
+  ]
+}

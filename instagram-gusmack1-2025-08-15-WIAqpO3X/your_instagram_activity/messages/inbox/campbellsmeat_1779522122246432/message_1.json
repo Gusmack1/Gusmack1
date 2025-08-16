@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Campbells Meat"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Campbells Meat",
+      "timestamp_ms": 1638209566479,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638189859948,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Campbells Meat",
+          "timestamp": 1638209566
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Campbells Meat",
+  "is_still_participant": true,
+  "thread_path": "inbox/campbellsmeat_1779522122246432",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Elite global packaging"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Elite global packaging",
+      "timestamp_ms": 1654049357372,
+      "content": "Hey, How are you doing?\n\nRegards,\nElite Global Packaging Team\nhttps://eliteglobalpackaging.com/",
+      "share": {
+        "link": "https://eliteglobalpackaging.com/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elite global packaging",
+  "is_still_participant": true,
+  "thread_path": "inbox/eliteglobalpackaging_800578164662274",
+  "magic_words": [
+    
+  ]
+}

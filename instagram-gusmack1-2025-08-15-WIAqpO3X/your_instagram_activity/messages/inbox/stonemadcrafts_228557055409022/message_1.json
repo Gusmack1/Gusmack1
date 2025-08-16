@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Stone Mad Crafts"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1622826750581,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2588780848063736889"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Stone Mad Crafts",
+  "is_still_participant": true,
+  "thread_path": "inbox/stonemadcrafts_228557055409022",
+  "magic_words": [
+    
+  ]
+}

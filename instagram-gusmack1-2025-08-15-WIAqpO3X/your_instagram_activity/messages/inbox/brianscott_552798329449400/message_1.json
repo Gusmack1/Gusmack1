@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Brian Scott \u00e2\u009c\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0098\u008e"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1592765756689,
+      "content": "\u00f0\u009f\u0098\u00ae",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Brian Scott \u00e2\u009c\u008c\u00f0\u009f\u008f\u00bb\u00f0\u009f\u0098\u008e",
+  "is_still_participant": true,
+  "thread_path": "inbox/brianscott_552798329449400",
+  "magic_words": [
+    
+  ]
+}

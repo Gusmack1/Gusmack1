@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1656074855340,
+      "content": "Hi,\n\nJust a quick message to say thanks for following me. \n\nIf you ever have a question about of fitness please don\u00e2\u0080\u0099t hesitate to get in touch. \n\nWhile I\u00e2\u0080\u0099m here, is there anything you need help with right now? \n\nI\u00e2\u0080\u0099d be more than happy to help if I can \u00f0\u009f\u0098\u008a\n\nChat soon, \nMax",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_816629923057098",
+  "magic_words": [
+    
+  ]
+}

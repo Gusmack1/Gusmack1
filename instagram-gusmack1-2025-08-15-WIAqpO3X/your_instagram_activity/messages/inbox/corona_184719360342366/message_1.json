@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Corona"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1627483491778,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2627844413835858197"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Corona",
+  "is_still_participant": true,
+  "thread_path": "inbox/corona_184719360342366",
+  "magic_words": [
+    
+  ]
+}

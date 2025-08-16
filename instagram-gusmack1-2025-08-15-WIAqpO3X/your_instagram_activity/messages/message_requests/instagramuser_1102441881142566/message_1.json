@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1692240878614,
+      "content": "\u00f0\u009f\u0095\u00b6 FREE PRODUCTS for YOU\r\n\r\nHello there! My name is Rose, and I represent The Levesque, a rising eyewear brand for luxurious individuals. I am in LOVE with your account's vibe.\r\n\r\n\u00f0\u009f\u008e\u0089 So I want to offer you two FREE pairs of sunglasses matching the \"old money\" aesthetic.\r\n\r\n\u00f0\u009f\u0092\u00ab Sounds interesting?\r\n\r\nPlease DM @levesque.ambassadors with the keyword \"Ambassador\" to learn more and get your glasses.\r\nWe can't wait to collaborate with you!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1692240878537,
+      "content": "Instagram User sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/_u/levesque.ambassadors",
+        "profile_share_username": "levesque.ambassadors",
+        "profile_share_name": "Levesque Ambassador Program"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1102441881142566",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

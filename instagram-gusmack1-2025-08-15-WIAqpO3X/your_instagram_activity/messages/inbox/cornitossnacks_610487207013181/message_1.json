@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Cornitos Snacks"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Cornitos Snacks",
+      "timestamp_ms": 1596100989283,
+      "content": "Cornitos sent an attachment.",
+      "share": {
+        "link": "https://instagram.com/cornitos?igshid=10hrys26yttpm",
+        "share_text": "10.5k Followers, 448 Following, 1,549 Posts - See Instagram photos and videos from Cornitos Nachos (@cornitos)"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594650174380,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2352418578048058905"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Cornitos Snacks",
+  "is_still_participant": true,
+  "thread_path": "inbox/cornitossnacks_610487207013181",
+  "magic_words": [
+    
+  ]
+}

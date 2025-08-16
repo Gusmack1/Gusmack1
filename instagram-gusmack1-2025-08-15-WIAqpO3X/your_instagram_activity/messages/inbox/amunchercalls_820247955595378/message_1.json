@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "A Muncher Calls"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "A Muncher Calls",
+      "timestamp_ms": 1623832990395,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1623833186
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2596873721953117872"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "A Muncher Calls",
+  "is_still_participant": true,
+  "thread_path": "inbox/amunchercalls_820247955595378",
+  "magic_words": [
+    
+  ]
+}

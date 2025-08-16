@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1645441998558,
+      "content": "Hi there this is Samantha from Mealzo, The Largest 0% Commission Food Ordering Platform in Scotland.\nAs soon as you join #MealzoPlatform you will receive your first online order within minutes!\n\u00f0\u009f\u0092\u00ac Let's talk today!\n\u00f0\u009f\u0093\u009e Call us now and get your free Demo : 01418160643",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_289069976659989",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

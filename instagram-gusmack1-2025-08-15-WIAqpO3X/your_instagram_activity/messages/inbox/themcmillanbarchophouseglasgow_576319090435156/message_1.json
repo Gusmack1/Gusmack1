@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "The McMillan Bar & Chophouse, Glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "The McMillan Bar & Chophouse, Glasgow",
+      "timestamp_ms": 1594816993288,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1594812867890,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2353783383002455848"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The McMillan Bar & Chophouse, Glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/themcmillanbarchophouseglasgow_576319090435156",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,34 @@
+{
+  "participants": [
+    {
+      "name": "Ronaq Restaurant"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Ronaq Restaurant",
+      "timestamp_ms": 1561758743015,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/ronaqrestaurant/2076362481546979671",
+        "original_content_owner": "ronaqrestaurant"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Ronaq Restaurant",
+  "is_still_participant": true,
+  "thread_path": "inbox/ronaqrestaurant_561424031924312",
+  "magic_words": [
+    
+  ]
+}

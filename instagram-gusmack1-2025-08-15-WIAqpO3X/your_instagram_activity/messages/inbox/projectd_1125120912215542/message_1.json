@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Project D"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Project D",
+      "timestamp_ms": 1695157737100,
+      "content": "Hello gusmack1, thanks for contacting us!\nOur Project D customer service team operate Monday to Friday 9am-5pm.\nCan\u00e2\u0080\u0099t wait? Get your hands on a box today!\u00f0\u009f\u008d\u00a9\nCheck out our website at www.projectdoughnut.co.uk",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157736182,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1680688994823,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3074164473593502809"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1680641667355,
+      "content": "You shared a story.",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3073767499807724555"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Project D",
+  "is_still_participant": true,
+  "thread_path": "inbox/projectd_1125120912215542",
+  "magic_words": [
+    
+  ]
+}

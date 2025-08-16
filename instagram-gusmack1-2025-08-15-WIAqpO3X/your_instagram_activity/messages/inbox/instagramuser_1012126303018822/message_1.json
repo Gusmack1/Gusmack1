@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1646783434676,
+      "content": "Good day my friend, do you know you can make up to $20,000 weekly from bitcoin mining and you can also withdraw directly to your bitcoin wallet, bank account or any withdrawal details you wish to? Just ask me how is it possible?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_1012126303018822",
+  "magic_words": [
+    
+  ]
+}

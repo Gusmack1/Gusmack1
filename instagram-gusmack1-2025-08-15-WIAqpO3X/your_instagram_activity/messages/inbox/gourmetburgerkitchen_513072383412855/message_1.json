@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Gourmet Burger Kitchen"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584060397260,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2263585114977422961"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584022672235,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2263268627075024398"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1584002223982,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1583950409253,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2262662460615209387"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gourmet Burger Kitchen",
+  "is_still_participant": true,
+  "thread_path": "inbox/gourmetburgerkitchen_513072383412855",
+  "magic_words": [
+    
+  ]
+}

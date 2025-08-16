@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "SKAPA: PR & Brand Building"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678914200624,
+      "content": "Hi sorry for not replying I took some time out.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SKAPA: PR & Brand Building",
+      "timestamp_ms": 1668710754685,
+      "content": "Hopefully you can make it to the @cransidekitchen winter village launch on Wednesday 23rd Nov too! Invite in your inbox. Thanks, SKAPA",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "SKAPA: PR & Brand Building",
+      "timestamp_ms": 1668685066700,
+      "content": "Hello Gus,\n\nDid you get our invite for tomorrow nights @saltchillisouthside launch? We\u00e2\u0080\u0099d love to see you and a guest there for dinner and drinks ahead of opening this weekend to the public. Let me know if your free 7pm arrival for drinks reception followed by dinner and drinks. \n\nThis is the third branch from @saltandchilligla and tv chef Jimmy Lee so hope you and a guest are able to make it. Phil",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1600342370650,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SKAPA: PR & Brand Building",
+  "is_still_participant": true,
+  "thread_path": "inbox/skapaprbrandbuilding_582216279839910",
+  "magic_words": [
+    
+  ]
+}

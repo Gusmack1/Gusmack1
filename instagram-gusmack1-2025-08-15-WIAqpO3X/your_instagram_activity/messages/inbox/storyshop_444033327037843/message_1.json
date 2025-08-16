@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Story Shop"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1632942843751,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Story Shop",
+  "is_still_participant": true,
+  "thread_path": "inbox/storyshop_444033327037843",
+  "magic_words": [
+    
+  ]
+}

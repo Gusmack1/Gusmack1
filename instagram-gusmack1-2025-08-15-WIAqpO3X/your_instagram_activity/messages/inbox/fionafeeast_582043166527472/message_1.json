@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Fiona | Fe.east"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1583633679939,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fiona | Fe.east",
+  "is_still_participant": true,
+  "thread_path": "inbox/fionafeeast_582043166527472",
+  "magic_words": [
+    
+  ]
+}

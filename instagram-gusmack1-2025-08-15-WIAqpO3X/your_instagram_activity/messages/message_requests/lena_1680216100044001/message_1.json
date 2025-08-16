@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Lena \u00f0\u009f\u008c\u00b8"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lena \u00f0\u009f\u008c\u00b8",
+      "timestamp_ms": 1738984024786,
+      "content": "Hey Glasgow saw u on tinder and you're kinda cute x",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lena \u00f0\u009f\u008c\u00b8",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lena_1680216100044001",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

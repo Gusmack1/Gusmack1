@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "SAY WINE UK | Natural Wines"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "SAY WINE UK | Natural Wines",
+      "timestamp_ms": 1651574777525,
+      "content": "Hi\n\nJust starting natural wine e-commerce based in Glasgow , if I will send you few bottles would be you interested in doing some promotion on your page ? \n\nCheers Gio",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "SAY WINE UK | Natural Wines",
+  "is_still_participant": true,
+  "thread_path": "inbox/saywineuknaturalwines_780173473369410",
+  "magic_words": [
+    
+  ]
+}

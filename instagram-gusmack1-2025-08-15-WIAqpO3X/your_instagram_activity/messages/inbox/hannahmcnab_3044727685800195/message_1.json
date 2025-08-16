@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Hannah McNab"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Hannah McNab",
+      "timestamp_ms": 1629478925604,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1629469023031,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Hannah McNab",
+          "timestamp": 1629478925
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Hannah McNab",
+  "is_still_participant": true,
+  "thread_path": "inbox/hannahmcnab_3044727685800195",
+  "magic_words": [
+    
+  ]
+}

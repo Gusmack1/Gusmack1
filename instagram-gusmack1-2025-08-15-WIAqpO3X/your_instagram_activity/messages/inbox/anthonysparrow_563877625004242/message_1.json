@@ -1,0 +1,45 @@
+{
+  "participants": [
+    {
+      "name": "Anthony Sparrow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Anthony Sparrow",
+      "timestamp_ms": 1552636482127,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1552600484606,
+      "content": "All the meat mate it's unlimited toppings :)",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Anthony Sparrow"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Anthony Sparrow",
+      "timestamp_ms": 1552600135359,
+      "content": "Any pizza punk recommendations mate??",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Anthony Sparrow",
+  "is_still_participant": true,
+  "thread_path": "inbox/anthonysparrow_563877625004242",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009f\u0091\u00a9\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u008d\u00b3\u00f0\u009f\u00a5\u0097\u00f0\u009f\u008d\u00a3\u00f0\u009f\u008d\u009d\u00f0\u009f\u00a5\u0090\u00f0\u009f\u008d\u0097"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "\u00f0\u009f\u0091\u00a9\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u008d\u00b3\u00f0\u009f\u00a5\u0097\u00f0\u009f\u008d\u00a3\u00f0\u009f\u008d\u009d\u00f0\u009f\u00a5\u0090\u00f0\u009f\u008d\u0097",
+      "timestamp_ms": 1645470464531,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1645461916079,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "\u00f0\u009f\u0091\u00a9\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u008d\u00b3\u00f0\u009f\u00a5\u0097\u00f0\u009f\u008d\u00a3\u00f0\u009f\u008d\u009d\u00f0\u009f\u00a5\u0090\u00f0\u009f\u008d\u0097",
+          "timestamp": 1645470464
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009f\u0091\u00a9\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00f0\u009f\u008d\u00b3\u00f0\u009f\u00a5\u0097\u00f0\u009f\u008d\u00a3\u00f0\u009f\u008d\u009d\u00f0\u009f\u00a5\u0090\u00f0\u009f\u008d\u0097",
+  "is_still_participant": true,
+  "thread_path": "inbox/589670305544093",
+  "magic_words": [
+    
+  ]
+}

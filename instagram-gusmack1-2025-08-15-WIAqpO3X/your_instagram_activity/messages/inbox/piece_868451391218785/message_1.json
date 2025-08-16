@@ -1,0 +1,49 @@
+{
+  "participants": [
+    {
+      "name": "piece"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "piece",
+      "timestamp_ms": 1650555423989,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650549283629,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "piece",
+          "timestamp": 1650555423
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650549082968,
+      "share": {
+        "link": "https://www.instagram.com/p/CcnYwsGKrux/?carousel_share_child_media_id=2821332590570159025_204320321",
+        "share_text": "So I went to @piece.glasgow and got a baguette with all the meats, gherkin and some mustard.\n\nAbsolutely spectacular and a meat overload. This wasn't on the menu.\n\nEver had a baguette from piece? Lol\n\n.\n.\n.\n.\n.\n#glasgowfood #glasgowfoodie #glasgowfoodies #glasgowfoodblog #glasgowfoodblogger #glasgowfoodlover #glasgowfoodcollective #glasgowfoodbloggers #glasgowlife #glasgow #scottishfood #scottishfoodie #scottishfoodanddrink #scottishglasgowfoodies #scottishfoodbible #scottishfoodbloggers #scottishfoodies #scottishfoodiegals #scottishfoodblog #scottishfoodblogger #scotlandfood #scotlandfoodanddrink #scotlandfoodie #ukfoodie #ukfood #ukfoodblogger #ukfoodies #pieceglasgow",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "piece",
+  "is_still_participant": true,
+  "thread_path": "inbox/piece_868451391218785",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "participants": [
+    {
+      "name": "Bloggers who Brunch Scotland"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561797420516,
+      "content": "Nice",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bloggers who Brunch Scotland",
+      "timestamp_ms": 1561761584454,
+      "content": "So far, very good!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561761492863,
+      "content": "Any good lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bloggers who Brunch Scotland",
+      "timestamp_ms": 1561756244222,
+      "content": "I host brunches as well as one off events with brilliant brands, I recently teamed up with the Body Shop to run regular exclusive blogger events throughout the year.\nBig loves, Gems @veganfoodie_gems",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Bloggers who Brunch Scotland",
+      "timestamp_ms": 1561756163058,
+      "content": "I launched @bloggerswhobrunchglasgow to bring together bloggers to form a supportive community and create exciting collaborations together too under the mantra #lessbitchingmorebrunching",
+      "share": {
+        "link": "https://instagram.com/stories/bloggerswhobrunchscotland/2076120686154666049"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Bloggers who Brunch Scotland",
+  "is_still_participant": true,
+  "thread_path": "inbox/bloggerswhobrunchscotland_513803636673063",
+  "magic_words": [
+    
+  ]
+}

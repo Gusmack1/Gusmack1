@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "Melinda Kawahara"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1561528015382,
+      "content": "Thanks",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Melinda Kawahara",
+      "timestamp_ms": 1561520535678,
+      "content": "Awesome gallery. Keep up the good work.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Melinda Kawahara",
+  "is_still_participant": true,
+  "thread_path": "inbox/melindakawahara_517094839678627",
+  "magic_words": [
+    
+  ]
+}

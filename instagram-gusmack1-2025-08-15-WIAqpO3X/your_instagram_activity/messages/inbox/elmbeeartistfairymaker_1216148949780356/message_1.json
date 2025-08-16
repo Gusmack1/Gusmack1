@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "Elm & Bee    Artist - Fairy Maker"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157767506,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Elm & Bee    Artist - Fairy Maker",
+  "is_still_participant": true,
+  "thread_path": "inbox/elmbeeartistfairymaker_1216148949780356",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "participants": [
+    {
+      "name": "Meghan Carroll-Ballantyne"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1585433364230,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meghan Carroll-Ballantyne",
+      "timestamp_ms": 1585433022698,
+      "content": "Yes",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1585433003255,
+      "content": "The answer is \u00e2\u0080\u009cyes\u00e2\u0080\u009d or \u00e2\u0080\u009cno\u00e2\u0080\u009d.... the question was, \u00e2\u0080\u009cCan you answer this?\u00e2\u0080\u009d\n\nCopy and paste the following in your story:\n\nCan you answer this? There are 5 people in a room, you go in and kill 4 of those 5, how many people actually remain in that room. Reply with your answer and I'll dm you. If you're wrong, you have to repost it with who you lost to.\n\nI lost to \n\n@gusmack1",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Meghan Carroll-Ballantyne",
+      "timestamp_ms": 1585432961863,
+      "content": "5",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2275061514577988932"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1552712250202,
+      "content": "Yes lol",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2000321298422347283"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Meghan Carroll-Ballantyne",
+  "is_still_participant": true,
+  "thread_path": "inbox/meghancarrollballantyne_520124676040959",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "participants": [
+    {
+      "name": "Nineveh Olympia"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1660441057610,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1660438201054,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1660437946439,
+      "share": {
+        "link": "https://www.instagram.com/p/ChOGRv-pg18/?carousel_share_child_media_id=2904286417727655292_204320321",
+        "share_text": "Order - Beef Lamb Shawarma \n\nSlow roasted on a spit topped with fresh and pickled vegetables and garlic sauce in a pita bread.\n\nTime - within 5 mins.\n\nPresentation - see pics, looks amazing. It's a wrap \u00f0\u009f\u0098\u0081\n\nQuality - 4/5 - it was delicious, if they had an option of sauces it would be even better. The meat was nicely cooked and the full combination was fresh.\n\nQuantity - 3/5 - Above Average. Not too much or too little. The pita could have been bigger and there wasn't a combo/meal option with a side and a drink included.\n\nValue for money -  Good value for money.\n\nAdditional - All in all, you get what you pay for and it was definitely fast food.\n\n.\n.\n.\n.\n.\n#glasgowfood #glasgowfoodie #glasgowfoodies #glasgowfoodblog #scottishglasgowfoodies #glasgowfoodblogger #laceywashington #laceywa #shawarma #chickenshawarma #shawarmalovers #shawarmas #laceyfood #ninevehassyrianfoodtruck #scottishfoodie #scottishbloggersnetwork #lacey  #scotlandfoodie #scotlandfoodies #washingtonfoodies #ukfoodie",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Nineveh Olympia",
+  "is_still_participant": true,
+  "thread_path": "inbox/nineveholympia_950645616330735",
+  "magic_words": [
+    
+  ]
+}

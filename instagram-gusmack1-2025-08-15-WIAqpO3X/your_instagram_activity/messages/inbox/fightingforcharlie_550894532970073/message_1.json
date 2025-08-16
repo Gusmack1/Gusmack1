@@ -1,0 +1,55 @@
+{
+  "participants": [
+    {
+      "name": "Fighting For Charlie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Fighting For Charlie",
+      "timestamp_ms": 1606797569661,
+      "content": "Fighting sent an attachment.",
+      "share": {
+        "link": "https://gf.me/u/zafw96",
+        "share_text": "* Challenge for Charlie * All, Thank you - since the completion of funds f\u00e2\u0080\u00a6 Barry Mone needs your support for Charlie's Hope : Future Experiences & Memories"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fighting For Charlie",
+      "timestamp_ms": 1605274336087,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fighting For Charlie",
+      "timestamp_ms": 1605274322847,
+      "content": "Please follow & share @fightingforcharlie Charlie's Hope - Fighting For a Cure - Duchenne Muscular Dystrophy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Fighting For Charlie",
+      "timestamp_ms": 1605274319241,
+      "content": "Thank you Gus \n\n\nI\u00e2\u0080\u0099m Barry - Charlie\u00e2\u0080\u0099s Dad",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fighting For Charlie",
+  "is_still_participant": true,
+  "thread_path": "inbox/fightingforcharlie_550894532970073",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "Natalie & Jamie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Natalie & Jamie",
+      "timestamp_ms": 1606071787532,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Natalie & Jamie",
+          "timestamp": 1606073225
+        },
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1606073153
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Natalie & Jamie",
+  "is_still_participant": true,
+  "thread_path": "inbox/nataliejamie_518726409514119",
+  "magic_words": [
+    
+  ]
+}

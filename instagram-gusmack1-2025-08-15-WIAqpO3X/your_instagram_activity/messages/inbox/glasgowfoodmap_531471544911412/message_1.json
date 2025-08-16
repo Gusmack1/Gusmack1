@@ -1,0 +1,79 @@
+{
+  "participants": [
+    {
+      "name": "GlasgowFoodMap"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "GlasgowFoodMap",
+      "timestamp_ms": 1666255803376,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1646221174273,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "GlasgowFoodMap",
+          "timestamp": 1666255803
+        }
+      ],
+      "share": {
+        "link": "https://www.instagram.com/p/CamZ7XdqZz_/?carousel_share_child_media_id=2785027450380852479_204320321",
+        "share_text": "The woodhill Chinese!\nI think this is the best Chinese takeaway that serves BishopBriggs.\n\nOrdered this chicken chow mein and some salt n chilli chicken balls and it was delicious. They didnt hold back on the portion size either.\n\nLook at all the chicken involved. Mmmmmmm\n\n.\n.\n.\n.\n.\n#glasgowfood #glasgowfoodie #glasgowfoodies #glasgowfoodcollective #glasgowfoodgirl #glasgowfoodelicious #scotlandfood #scotlandfoodie #scotlandfoodanddrink #scottishfood #scottishfoodie #scottishfoodies #scottishfoodblogger #scottishglasgowfoodies #scottishfoodbible #scottishfoodanddrink #scottishfoodbloggers #ukfoodie #ukfood #ukfoodies #ukfoodblogger #chinesefood #chinesefoodlover #chinesefoods #chinesefoodporn #chinesefoodie #chinesetakeaway #eastdunbartonshire #bishopbriggsloveslocal #auchinairn",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GlasgowFoodMap",
+      "timestamp_ms": 1579770843721,
+      "content": "So good \u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "GlasgowFoodMap",
+      "timestamp_ms": 1579770838306,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1579730940555,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "GlasgowFoodMap"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/glasgowfoodmap/2227232614695450003"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "GlasgowFoodMap",
+  "is_still_participant": true,
+  "thread_path": "inbox/glasgowfoodmap_531471544911412",
+  "magic_words": [
+    
+  ]
+}

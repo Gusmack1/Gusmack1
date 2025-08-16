@@ -1,0 +1,36 @@
+{
+  "participants": [
+    {
+      "name": "DENNY\u00e2\u0080\u0099S UK"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1659906687715,
+      "content": "You shared a story.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1659906496866,
+      "share": {
+        "link": "https://www.instagram.com/p/Cg-QnfnPXEq/?carousel_share_child_media_id=2899828292821283114_204320321",
+        "share_text": "Order - The Brisket-It-All Melt\n\nSlow-smoked brisket burnt ends, crispy diced bacon, two eggs, sharp white cheddar, Diner Q sauce and pickles on grilled artisan bread, and served with a side of wavy cut fries.\n\nThis was a great breakfast.\n\nTime - 20 mins\n\nPresentation - see pics\n\nQuality - 4/5 - it was Good and the brisket burnt ends tasted amazing.\n\nQuantity - 4/5 - lots of chips made up for the lack of burnt ends, filled a hole. Too much pickle.\n\nValue for money - Good compared to similar places.\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n\u00e2\u0080\u00a2\n#dennys #dennysbreakfast #dennysdiner #laceyfood #lacey #olympiafoodie #olympia #washingtonfood #glasgowfoodies #glasgowfood #scottishglasgowfoodies #food #foodporn #americanfood #dennyslacey #scottishfoodie #scotlandfoodie #ukfoodie #eggs #brisket #burntends #dennysuk",
+        "original_content_owner": "gusmack1"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DENNY\u00e2\u0080\u0099S UK",
+  "is_still_participant": true,
+  "thread_path": "inbox/dennysuk_861240858595446",
+  "magic_words": [
+    
+  ]
+}

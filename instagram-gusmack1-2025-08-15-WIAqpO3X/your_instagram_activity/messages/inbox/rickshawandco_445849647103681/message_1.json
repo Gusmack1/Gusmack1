@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "RickshawandCo"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1657200001323,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/rickshawandco/2876457989219085513"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "RickshawandCo",
+  "is_still_participant": true,
+  "thread_path": "inbox/rickshawandco_445849647103681",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "JenTonic"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "JenTonic",
+      "timestamp_ms": 1593758529540,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2344365436202957199"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "JenTonic",
+  "is_still_participant": true,
+  "thread_path": "inbox/jentonic_586244076110346",
+  "magic_words": [
+    
+  ]
+}

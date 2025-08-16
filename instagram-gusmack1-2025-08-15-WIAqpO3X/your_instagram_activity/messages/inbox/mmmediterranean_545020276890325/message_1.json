@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "mmmediterranean"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "mmmediterranean",
+      "timestamp_ms": 1559728403280,
+      "content": "Hello, Thank you for following us ! we just updated our website, it would be great if you could give us a feedback :) What do you think about it ?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "mmmediterranean",
+  "is_still_participant": true,
+  "thread_path": "inbox/mmmediterranean_545020276890325",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "participants": [
+    {
+      "name": "Calum"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Calum",
+      "timestamp_ms": 1714213353836,
+      "content": "Ah right",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1714213292019,
+      "content": "Bumped into people and got roped into it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Calum",
+      "timestamp_ms": 1714213220350,
+      "content": "I cant mind you leaving, who'd you go to the Savoy with?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1714213042598,
+      "content": "Aye",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Calum",
+      "timestamp_ms": 1714212723561,
+      "content": "Hahaha no way man",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1714211839343,
+      "content": "I ended up in the Savoy hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Calum",
+      "timestamp_ms": 1714210222192,
+      "content": "You get home alright last night mate? I can hardly remember what happened",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Calum",
+  "is_still_participant": true,
+  "thread_path": "inbox/calum_1364407691622249",
+  "magic_words": [
+    
+  ]
+}

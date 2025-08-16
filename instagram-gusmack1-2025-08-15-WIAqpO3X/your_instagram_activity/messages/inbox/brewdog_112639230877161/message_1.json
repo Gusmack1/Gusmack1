@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "BrewDog"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1620407231595,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2568484448084314853"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "BrewDog",
+  "is_still_participant": true,
+  "thread_path": "inbox/brewdog_112639230877161",
+  "magic_words": [
+    
+  ]
+}

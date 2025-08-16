@@ -1,0 +1,109 @@
+{
+  "participants": [
+    {
+      "name": "Chris Casey"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Chris Casey",
+      "timestamp_ms": 1623227241692,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623227227055,
+      "content": "Hopefully that weeds out all the idiots that follow me anyway",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Chris Casey",
+          "timestamp": 1623227241
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Casey",
+      "timestamp_ms": 1623227196777,
+      "content": "\u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Casey",
+      "timestamp_ms": 1623227191523,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623227173265,
+      "content": "Yeah lol making out like we have millions of followers trying to fuck the government out of money. Em hello hen calm Doon. Bet she phoned the polis on her neighbours during covid",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Chris Casey",
+          "timestamp": 1623227191
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Casey",
+      "timestamp_ms": 1623226656490,
+      "content": "Can\u00e2\u0080\u0099t see the insta polis chapping my door any time soon \u00f0\u009f\u0098\u0082\u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1623227095
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623225641791,
+      "content": "U said it mate, she's trying to educate people from her so called high horse. Just biting the hand that fed her. If it wasn't for her so called influencers then she would be nowhere it's mental. I just listened to her bullshit and turned it off",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Casey",
+      "timestamp_ms": 1623225019665,
+      "content": "I don\u00e2\u0080\u0099t get why people get so upset over a hashtag. Are we all not just wanting to eat well here? Nobody except her is making real money on Insta \u00f0\u009f\u0098\u0082 \u00f0\u009f\u00a4\u00b7\u00f0\u009f\u008f\u00bb\u00e2\u0080\u008d\u00e2\u0099\u0082\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623224691536,
+      "content": "You should see the reaction I got off that post hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Chris Casey",
+      "timestamp_ms": 1623224632743,
+      "content": "\u00f0\u009f\u0092\u00af",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Chris Casey",
+  "is_still_participant": true,
+  "thread_path": "inbox/chriscasey_528912415166800",
+  "magic_words": [
+    
+  ]
+}

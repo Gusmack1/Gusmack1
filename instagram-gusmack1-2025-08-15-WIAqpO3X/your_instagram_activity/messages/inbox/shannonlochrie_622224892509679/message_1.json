@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Shannon Lochrie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1582362597194,
+      "content": "\u00f0\u009f\u008e\u0089",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Shannon Lochrie",
+  "is_still_participant": true,
+  "thread_path": "inbox/shannonlochrie_622224892509679",
+  "magic_words": [
+    
+  ]
+}

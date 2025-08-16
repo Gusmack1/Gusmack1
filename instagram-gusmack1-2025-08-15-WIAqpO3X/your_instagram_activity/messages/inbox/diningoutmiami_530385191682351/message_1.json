@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "DiningOut Miami"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1559749185462,
+      "content": "Np",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "DiningOut Miami",
+      "timestamp_ms": 1559745674547,
+      "content": "Thanks for the follow! Here's to a visual feast in your feed \u00f0\u009f\u00a5\u0082",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "DiningOut Miami",
+  "is_still_participant": true,
+  "thread_path": "inbox/diningoutmiami_530385191682351",
+  "magic_words": [
+    
+  ]
+}

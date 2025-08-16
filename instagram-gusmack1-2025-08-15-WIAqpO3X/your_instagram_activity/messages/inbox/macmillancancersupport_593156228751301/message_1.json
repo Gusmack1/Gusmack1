@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Macmillan Cancer Support"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1569500116723,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2141444629727742900"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Macmillan Cancer Support",
+  "is_still_participant": true,
+  "thread_path": "inbox/macmillancancersupport_593156228751301",
+  "magic_words": [
+    
+  ]
+}

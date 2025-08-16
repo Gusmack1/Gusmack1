@@ -1,0 +1,53 @@
+{
+  "participants": [
+    {
+      "name": "Made Fresh Everyday \u00f0\u009f\u008d\u009c"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Made Fresh Everyday \u00f0\u009f\u008d\u009c",
+      "timestamp_ms": 1618596731497,
+      "content": "Thank you for your reaction to our stories! We hope that you will give our freshly made mains a try one evening too! \u00e2\u009b\u00a9\u00ef\u00b8\u008f Please feel invited to participate in our competition!\u00f0\u009f\u00a4\u009e\u00f0\u009f\u008f\u00bbGood luck and best wishes from the team at KATSU HEAVEN.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1618596754
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Made Fresh Everyday \u00f0\u009f\u008d\u009c",
+      "timestamp_ms": 1618596509615,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1618579360555,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Made Fresh Everyday \u00f0\u009f\u008d\u009c",
+          "timestamp": 1618596509
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Made Fresh Everyday \u00f0\u009f\u008d\u009c",
+  "is_still_participant": true,
+  "thread_path": "inbox/madefresheveryday_984232542111177",
+  "magic_words": [
+    
+  ]
+}

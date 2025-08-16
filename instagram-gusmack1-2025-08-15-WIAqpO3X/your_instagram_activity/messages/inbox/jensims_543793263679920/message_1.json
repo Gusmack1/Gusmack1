@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "Jen Sims"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jen Sims",
+      "timestamp_ms": 1564562450565,
+      "content": "Cheers, its for daughter's 18th",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1564524347684,
+      "content": "The spanish butcher :) \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Jen Sims",
+      "timestamp_ms": 1564520592104,
+      "content": "I need Glasgow food help.\nInformal dress code, but amazing steak, must be amazing with choice of cuts, and can make me a half decent marg.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jen Sims",
+  "is_still_participant": true,
+  "thread_path": "inbox/jensims_543793263679920",
+  "magic_words": [
+    
+  ]
+}

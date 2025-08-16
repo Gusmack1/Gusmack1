@@ -1,0 +1,33 @@
+{
+  "participants": [
+    {
+      "name": "La Piccola | Pizzeria | Pasta | Bothwell"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "La Piccola | Pizzeria | Pasta | Bothwell",
+      "timestamp_ms": 1742918669995,
+      "content": "Hey, we hope you are keeping well!\r\nWe\u00e2\u0080\u0099ve just launched a brand-new menu and would love for you to come and try it out over the Easter break.\n\r\nYou can expect the most delicious artisan pizzas and handcrafted pastas, teamed with some incredible starters and sides too.\r\nYou are welcome to come along anytime 7-9th April, or 14-16th April.\n\r\nOf course, you are welcome to bring along a +1 too.\n\r\nIf you could RSVP and we\u00e2\u0080\u0099ll pop you on the list.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "La Piccola | Pizzeria | Pasta | Bothwell",
+      "timestamp_ms": 1701781451764,
+      "content": "Hey! We hope you are doing well.\n\nThe La Piccola team wanted to invite you along to our exclusive opening evening next month.\n\nOur much-anticipated launch is just around the corner, and we wanted to invite you to our sneak-preview event before we officially open our doors.\n\nThis event will be held on the 13th December 5-9pm, and we would love it if you and a +1 could make it along? You can come by anytime that evening, so don\u00e2\u0080\u0099t worry if you can\u00e2\u0080\u0099t make it for 5.\n\nYou will get to try some of our delicious food and see the place before anyone else does.\n\nYou\u00e2\u0080\u0099ll be able to find us at 55 Main St, Bothwell, Glasgow G71 8ER.\n\nEach guest will receive a main course, side, and a drink. All we ask is that you post some content on your page letting everyone know about our delicious offerings coming to Bothwell in December.\n\nPlease note: we primarily offer takeaway, but do have a small seating area too. We expect this evening to be busy so please be aware of longer waits during peak times.\n\nIf you could reply on here with your RSVP, that would be great. We hope to see you there!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "La Piccola | Pizzeria | Pasta | Bothwell",
+  "is_still_participant": true,
+  "thread_path": "message_requests/lapiccolapizzeriapastabothwell_1217684042967429",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

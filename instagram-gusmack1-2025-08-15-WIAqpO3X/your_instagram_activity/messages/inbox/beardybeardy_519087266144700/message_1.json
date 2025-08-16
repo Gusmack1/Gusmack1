@@ -1,0 +1,51 @@
+{
+  "participants": [
+    {
+      "name": "Beardy Beardy"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Beardy Beardy",
+      "timestamp_ms": 1568465683860,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1568465448507,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2132765179150417475"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1568465440875,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2132765144287410202"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1568465437130,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2132765081213356295"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Beardy Beardy",
+  "is_still_participant": true,
+  "thread_path": "inbox/beardybeardy_519087266144700",
+  "magic_words": [
+    
+  ]
+}

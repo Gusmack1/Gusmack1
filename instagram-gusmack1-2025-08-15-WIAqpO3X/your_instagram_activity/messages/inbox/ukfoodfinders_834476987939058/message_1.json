@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "UK Food Finders"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "UK Food Finders",
+      "timestamp_ms": 1658168308795,
+      "content": "Hi! I\u00e2\u0080\u0099m trying to start an account that\u00e2\u0080\u0099s focused on finding food deals in UK shops to try and help prevent food poverty, and I\u00e2\u0080\u0099m looking for volunteers to help. I was wondering if you\u00e2\u0080\u0099d be willing to post the brief on your story perhaps? Thanks either way.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "UK Food Finders",
+  "is_still_participant": true,
+  "thread_path": "inbox/ukfoodfinders_834476987939058",
+  "magic_words": [
+    
+  ]
+}

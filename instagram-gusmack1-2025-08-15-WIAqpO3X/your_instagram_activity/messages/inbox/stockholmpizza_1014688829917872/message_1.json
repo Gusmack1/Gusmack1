@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "stockholm pizza"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "stockholm pizza",
+      "timestamp_ms": 1678953969702,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1678929474878,
+      "content": "You shared a story.",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "stockholm pizza",
+          "timestamp": 1678953969
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "stockholm pizza",
+  "is_still_participant": true,
+  "thread_path": "inbox/stockholmpizza_1014688829917872",
+  "magic_words": [
+    
+  ]
+}

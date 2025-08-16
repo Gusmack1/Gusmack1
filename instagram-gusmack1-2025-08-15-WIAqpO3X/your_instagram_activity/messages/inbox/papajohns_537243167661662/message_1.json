@@ -1,0 +1,27 @@
+{
+  "participants": [
+    {
+      "name": "Papa Johns"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1617103030513,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2540766769699514850"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Papa Johns",
+  "is_still_participant": true,
+  "thread_path": "inbox/papajohns_537243167661662",
+  "magic_words": [
+    
+  ]
+}

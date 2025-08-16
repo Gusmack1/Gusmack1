@@ -1,0 +1,277 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1664226095128,
+      "content": "Hey  , I hope you\u00e2\u0080\u0099re well! \u00f0\u009f\u0092\u009b\n\nWe would love to invite you and a plus one to dine with us at Chapter IV in return for some stories and Tik Tok or  grid post!\n\nLet me know if this is something you would be interested in \u00f0\u009f\u0098\u008c\n\nAnd I can book you in x\n\nIqra",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1652091096450,
+      "content": "No worries at all! \u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1652090430422,
+      "content": "Sorry I won't be able to make it.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1652090396357,
+      "content": "Hiya, the guest list is filling up quickly so please let us know if you are interested in attending Chapter IV\u00e2\u0080\u0099s event tomorrow! \u00f0\u009f\u00a4\u00a9\u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bd",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1650591917885,
+      "content": "Hi Gus, my name is Dania \u00e2\u009c\u00a8 I hope you are well!\n\nWe are hosting an influencer evening at Glasgow\u00e2\u0080\u0099s Chapter IV and are looking for Glasgow influencers who create great content \u00f0\u009f\u0091\u008c\u00f0\u009f\u008f\u00bd \n\nChapter IV is a restaurant and grill which is based on a blend of African and Caribbean cuisine. We are hosting a rebrand launch after officially revamping the menu, interior and exterior!\n\nWe will be giving away free vouchers, mocktails and tasty food on the night and we\u00e2\u0080\u0099d be thrilled for you and a +1 to come celebrate with us at Chapter IV \u00f0\u009f\u00a4\u00a9\n\n\u00f0\u009f\u008e\u0089 EVENT DETAILS\u00f0\u009f\u008e\u0089\nDATE: 10th May\nTIME: 7PM - 9PM\n\n\u00f0\u009f\u0093\u008d LOCATION\n- Chapter IV Glasgow\n- 4A Springfield Quay\n- G5 8NP\n\nLet me know if you can attend and I can book you in on our influencer list and send you across a formal invite \u00f0\u009f\u0092\u009b",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1650375489288,
+      "content": "Hope you\u00e2\u0080\u0099re feeling much better now! When would you like for me to book you in Gus? \u00f0\u009f\u0099\u008c\u00f0\u009f\u008f\u00bd\u00e2\u009c\u00a8",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650319832825,
+      "content": "Yeah, COVID got me lol thanks for the invite",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1649065748703,
+      "content": "Hi Gus, I hope you're well! \u00f0\u009f\u0092\u009b\n\nLet me know if this is something you would still be interested in and I can get you and a +1 booked in \u00f0\u009f\u0098\u008c",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1639594746793,
+      "content": "Hi! I hope you\u00e2\u0080\u0099re well, just confirming tomorrows visit? \u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1639124337059,
+      "content": "Hey morning Gus. That's you booked in mate! \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00be thanks and have a nice day \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1639080711688,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1639079694734,
+      "content": "Ok ty",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1639080711
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1639079155930,
+      "content": "Hey! Haha. No worries. I'll get back to you with a confirmation. \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00be",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1639079696
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1639079130409,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1639079110891,
+      "content": "Sorted it at last lol",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1639079130
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1639079095847,
+      "content": "6pm on thurs please",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638993255810,
+      "content": "Yeah sure!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638993241480,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638988108953,
+      "content": "Not yet it will be thurs though i will come back to u if thats ok",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1638993241
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638986642168,
+      "content": "Hello! Hope you\u00e2\u0080\u0099re well\u00e2\u0098\u00ba\u00ef\u00b8\u008f\nWas wondering if you managed to discuss a day with someone to come in?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638825852321,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638823739732,
+      "content": "Nice one thanks",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1638825852
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638823512122,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638823511317,
+      "content": "No problem! Let us know and we can get you booked in\u00e2\u0098\u00ba\u00ef\u00b8\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1638823734
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638823480001,
+      "content": "Thursday is probably my best day but i will need to get back to you. I will be bringing someone \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1638823512
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638822958682,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638822957601,
+      "content": "Great! Let\u00e2\u0080\u0099s get you booked in\u00f0\u009f\u0098\u0086\n\nAre you available next week Monday- Thursday?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638822855826,
+      "content": "Hi Anum sounds good. Any dates suit or do you want me to get back to you? \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Instagram User",
+          "timestamp": 1638822958
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1638822707231,
+      "content": "Hey there! My name is Anum, hope you\u00e2\u0080\u0099re well!\n\nWould you be interested in visiting our restaurant next week to receive a meal for 2 in return for promoting the restaurant on your grid and stories? \u00f0\u009f\u0098\u008a",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "inbox/instagramuser_496217691619326",
+  "magic_words": [
+    
+  ]
+}

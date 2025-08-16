@@ -1,0 +1,35 @@
+{
+  "participants": [
+    {
+      "name": "Jenna Redshaw"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1615393300682,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1613495505301,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "share": {
+        "link": "https://instagram.com/stories/jay___reddy2.0/2510504284615172640"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jenna Redshaw",
+  "is_still_participant": true,
+  "thread_path": "inbox/jennaredshaw_512104040176356",
+  "magic_words": [
+    
+  ]
+}

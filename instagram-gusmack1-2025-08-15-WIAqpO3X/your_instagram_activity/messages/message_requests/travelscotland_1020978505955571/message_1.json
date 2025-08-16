@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "Travel Scotland"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Travel Scotland",
+      "timestamp_ms": 1702740685676,
+      "content": "Travel sent an attachment.",
+      "share": {
+        "link": "https://www.instagram.com/reel/C06zzwWNT-e/?id=3259145137333551006_52800946733",
+        "share_text": "Where are you going to be celebrating this Hogmanay?\n\u00f0\u009f\u008f\u00b4\u00f3\u00a0\u0081\u00a7\u00f3\u00a0\u0081\u00a2\u00f3\u00a0\u0081\u00b3\u00f3\u00a0\u0081\u00a3\u00f3\u00a0\u0081\u00b4\u00f3\u00a0\u0081\u00bf\n\n#travelscotland #scotland #visitscotland #edinburgh #glasgow #hogmanay #scottish #photography #nature #travel #highlands #scottishhighlands #lovescotland #greatshots #scotlandtravel #visitbritain #igers #love #scotlandphotography #landscape #thisisscotland #hiddenscotland #scotlandexplore #photooftheday #instascotland #whisky #foodie #visitedinburgh #scotlandiscalling #scotlandlover",
+        "original_content_owner": "travel.scotland"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Travel Scotland",
+  "is_still_participant": true,
+  "thread_path": "message_requests/travelscotland_1020978505955571",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}

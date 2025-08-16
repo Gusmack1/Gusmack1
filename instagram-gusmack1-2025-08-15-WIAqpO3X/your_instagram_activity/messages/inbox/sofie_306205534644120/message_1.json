@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "\u00f0\u009d\u0092\u00ae\u00f0\u009d\u0091\u009c\u00f0\u009d\u0092\u00bb\u00f0\u009d\u0092\u00be\u00f0\u009d\u0091\u0092 \u00f0\u009f\u00aa\u00a9"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1638879910479,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "\u00f0\u009d\u0092\u00ae\u00f0\u009d\u0091\u009c\u00f0\u009d\u0092\u00bb\u00f0\u009d\u0092\u00be\u00f0\u009d\u0091\u0092 \u00f0\u009f\u00aa\u00a9",
+  "is_still_participant": true,
+  "thread_path": "inbox/sofie_306205534644120",
+  "magic_words": [
+    
+  ]
+}

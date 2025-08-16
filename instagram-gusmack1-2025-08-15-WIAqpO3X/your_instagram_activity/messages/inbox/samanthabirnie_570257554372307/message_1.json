@@ -1,0 +1,41 @@
+{
+  "participants": [
+    {
+      "name": "Samantha Birnie"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1587490235791,
+      "content": "Imported from the states. My bro sent me them \u00f0\u009f\u0091\u008d\u00f0\u009f\u008f\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Samantha Birnie",
+      "timestamp_ms": 1587490092361,
+      "content": "Where did you get the lays ?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2292310480466005570"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Samantha Birnie",
+  "is_still_participant": true,
+  "thread_path": "inbox/samanthabirnie_570257554372307",
+  "magic_words": [
+    
+  ]
+}

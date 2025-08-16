@@ -1,0 +1,76 @@
+{
+  "participants": [
+    {
+      "name": "Fernanda Buzon Rodriguez"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "celiamsanz"
+    },
+    {
+      "name": "Diego L\u00c3\u00a1zaro"
+    },
+    {
+      "name": "Rickard Sv\u00c3\u00a4rd Awcf"
+    },
+    {
+      "name": "Ras Juanito Garcia"
+    },
+    {
+      "name": "Juan Luis Ascanio"
+    },
+    {
+      "name": "Angel"
+    },
+    {
+      "name": "Milos \u00e2\u009b\u00b3\u00ef\u00b8\u008f       \u00f0\u009f\u008f\u008c"
+    },
+    {
+      "name": "Patricia Sa\u00cc\u0081nchez"
+    },
+    {
+      "name": "Javier Gomez"
+    },
+    {
+      "name": "bearamirez__"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "morita"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "LiT\u00c3\u00b6S \u00f0\u009f\u00a4\u0099\u00f0\u009f\u008f\u00bc",
+      "timestamp_ms": 1613478624575,
+      "content": "LiT\u00c3\u00b6S \u00f0\u009f\u00a4\u0099\u00f0\u009f\u008f\u00bc left the group.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1613440865718,
+      "content": "https://bit.ly/37jTKN3",
+      "share": {
+        "link": "https://bit.ly/37jTKN3"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Fernanda Buzon Rodriguez, Instagram User, celiamsanz and 10 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/fernandabuzonrodriguezinstagramuserceliamsanzand10others_114252920660732",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

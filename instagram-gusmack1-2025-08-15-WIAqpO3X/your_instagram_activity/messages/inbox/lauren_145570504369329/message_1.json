@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "lauren \u00f0\u009f\u008d\u0093"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "lauren \u00f0\u009f\u008d\u0093",
+      "timestamp_ms": 1631891710022,
+      "content": "Reacted \u00e2\u009d\u00a4\u00ef\u00b8\u008f to your message ",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1631889832556,
+      "content": "\u00f0\u009f\u0091\u008f",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "lauren \u00f0\u009f\u008d\u0093",
+          "timestamp": 1631891710
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "lauren \u00f0\u009f\u008d\u0093",
+  "is_still_participant": true,
+  "thread_path": "inbox/lauren_145570504369329",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "participants": [
+    {
+      "name": "George Votzourakis"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1555021004628,
+      "content": "Ty",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "George Votzourakis",
+      "timestamp_ms": 1555020915981,
+      "content": "Great snap",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "George Votzourakis",
+  "is_still_participant": true,
+  "thread_path": "inbox/georgevotzourakis_549018529822320",
+  "magic_words": [
+    
+  ]
+}

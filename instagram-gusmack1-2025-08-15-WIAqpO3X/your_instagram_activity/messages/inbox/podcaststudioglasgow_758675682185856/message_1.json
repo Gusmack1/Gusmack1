@@ -1,0 +1,39 @@
+{
+  "participants": [
+    {
+      "name": "podcast studio glasgow"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "podcast studio glasgow",
+      "timestamp_ms": 1650431739584,
+      "content": "What about one hundred million dollars?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1650319895145,
+      "content": "Give me 1 million dollars mmmmmhehehehe",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "podcast studio glasgow",
+      "timestamp_ms": 1648794599635,
+      "content": "How do we get you as a guest on our podcast?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "podcast studio glasgow",
+  "is_still_participant": true,
+  "thread_path": "inbox/podcaststudioglasgow_758675682185856",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "gemmacaarberry"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1598794877097,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "gemmacaarberry",
+  "is_still_participant": true,
+  "thread_path": "inbox/gemmacaarberry_598045064926377",
+  "magic_words": [
+    
+  ]
+}

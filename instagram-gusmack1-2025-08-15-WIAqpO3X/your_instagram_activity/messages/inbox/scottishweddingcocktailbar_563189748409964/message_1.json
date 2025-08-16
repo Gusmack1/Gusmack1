@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Scottish Wedding Cocktail Bar"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1554313225253,
+      "content": "Np",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1554313225072,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2014047755581737170"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Scottish Wedding Cocktail Bar",
+      "timestamp_ms": 1554313109374,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Scottish Wedding Cocktail Bar",
+  "is_still_participant": true,
+  "thread_path": "inbox/scottishweddingcocktailbar_563189748409964",
+  "magic_words": [
+    
+  ]
+}

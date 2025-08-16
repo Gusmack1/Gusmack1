@@ -1,0 +1,40 @@
+{
+  "participants": [
+    {
+      "name": "Glasgow Foodguide"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow Foodguide",
+      "timestamp_ms": 1599219755184,
+      "content": "Liked a message",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1599175365468,
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow Foodguide"
+        }
+      ],
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2390378656671506909"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Glasgow Foodguide",
+  "is_still_participant": true,
+  "thread_path": "inbox/glasgowfoodguide_589160282481741",
+  "magic_words": [
+    
+  ]
+}

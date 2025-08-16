@@ -1,0 +1,38 @@
+{
+  "participants": [
+    {
+      "name": "Jenny Sloan"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Jenny Sloan",
+      "timestamp_ms": 1531033587127,
+      "content": "Aww thanks huni x",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1531030885771,
+      "content": "Gorgeous",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Jenny Sloan",
+  "is_still_participant": true,
+  "thread_path": "inbox/jennysloan_566242891442991",
+  "magic_words": [
+    
+  ]
+}

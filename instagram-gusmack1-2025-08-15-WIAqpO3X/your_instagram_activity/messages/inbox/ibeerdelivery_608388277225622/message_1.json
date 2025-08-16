@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "iBeer delivery"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "iBeer delivery",
+      "timestamp_ms": 1545754125549,
+      "content": "Ol\u00c3\u00a1, muito obrigado por nos seguir! Conhe\u00c3\u00a7a o iBeer delivery! Com\u00c2\u00a0ele voc\u00c3\u00aa consegue pedir sua cerveja na maioria dos bairros de Vila Velha/ES e Vit\u00c3\u00b3ria/ES de uma maneira simples e r\u00c3\u00a1pida. J\u00c3\u00a1 baixou nosso aplicativo?\u00c2\u00a0Ele est\u00c3\u00a1 dispon\u00c3\u00advel para Android e iOS. Baixe pelo link ibeerdelivery.com/download. \u00f0\u009f\u0098\u0089\u00f0\u009f\u008d\u00bb",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "iBeer delivery",
+  "is_still_participant": true,
+  "thread_path": "inbox/ibeerdelivery_608388277225622",
+  "magic_words": [
+    
+  ]
+}

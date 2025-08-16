@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Amie O\u00e2\u0080\u0099Brien"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1583135606953,
+      "content": "\u00f0\u009f\u0098\u008d",
+      "share": {
+        "link": "https://instagram.com/stories/_amieobrien/2255419407467434871"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amie O\u00e2\u0080\u0099Brien",
+  "is_still_participant": true,
+  "thread_path": "inbox/amieobrien_565550081513688",
+  "magic_words": [
+    
+  ]
+}

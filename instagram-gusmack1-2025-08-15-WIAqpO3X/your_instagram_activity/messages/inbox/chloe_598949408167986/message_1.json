@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "chloe\u00cc\u0088"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578260769654,
+      "content": "\u00f0\u009f\u0098\u00a2",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "chloe\u00cc\u0088",
+  "is_still_participant": true,
+  "thread_path": "inbox/chloe_598949408167986",
+  "magic_words": [
+    
+  ]
+}

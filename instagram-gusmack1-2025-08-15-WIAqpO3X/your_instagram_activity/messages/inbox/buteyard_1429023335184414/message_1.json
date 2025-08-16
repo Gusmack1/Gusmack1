@@ -1,0 +1,60 @@
+{
+  "participants": [
+    {
+      "name": "buteyard"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1754171481578,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3690580271262452209"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1754165130602,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3690526994307144708"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1743867900830,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3604147558846866940"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "buteyard",
+      "timestamp_ms": 1743867208727,
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1743866952238,
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3604139602210290157"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "buteyard",
+  "is_still_participant": true,
+  "thread_path": "inbox/buteyard_1429023335184414",
+  "magic_words": [
+    
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Marcia Griffith"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Marcia Griffith",
+      "timestamp_ms": 1652593809451,
+      "content": "Hello",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Marcia Griffith",
+  "is_still_participant": true,
+  "thread_path": "inbox/marciagriffith_788715768712910",
+  "magic_words": [
+    
+  ]
+}

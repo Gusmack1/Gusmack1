@@ -1,0 +1,31 @@
+{
+  "participants": [
+    {
+      "name": "emily young"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "emily young",
+      "timestamp_ms": 1573744119253,
+      "content": "Hello! I\u00e2\u0080\u0099m Emily, the Account Manager at Epic Social! Would you be interested in collabing with one of our foodie clients, German Doner Kebab? They have a store opening in Edinburgh on the 18th and we would love for you to visit during their opening weeks! Let me know if you\u00e2\u0080\u0099d like more information\u00f0\u009f\u0098\u0084",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish"
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "emily young",
+  "is_still_participant": true,
+  "thread_path": "inbox/emilyyoung_541645437228033",
+  "magic_words": [
+    
+  ]
+}

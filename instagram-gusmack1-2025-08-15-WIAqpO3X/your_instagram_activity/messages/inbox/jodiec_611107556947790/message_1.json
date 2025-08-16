@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "J O D I E \u00c2\u00a9\u00ef\u00b8\u008f"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1578181921528,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "J O D I E \u00c2\u00a9\u00ef\u00b8\u008f",
+  "is_still_participant": true,
+  "thread_path": "inbox/jodiec_611107556947790",
+  "magic_words": [
+    
+  ]
+}

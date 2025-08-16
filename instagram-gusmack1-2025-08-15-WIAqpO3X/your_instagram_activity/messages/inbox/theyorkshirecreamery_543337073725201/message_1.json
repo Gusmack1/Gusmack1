@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "The Yorkshire Creamery"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1588684592771,
+      "content": "\u00f0\u009f\u0094\u00a5",
+      "share": {
+        "link": "https://instagram.com/stories/theyorkshirecreamery/2302239807412458615"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "The Yorkshire Creamery",
+  "is_still_participant": true,
+  "thread_path": "inbox/theyorkshirecreamery_543337073725201",
+  "magic_words": [
+    
+  ]
+}

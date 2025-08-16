@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Amy McCubbin"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Amy McCubbin",
+      "timestamp_ms": 1754165705375,
+      "content": "Love that place",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/3690526994307144708"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Amy McCubbin",
+  "is_still_participant": true,
+  "thread_path": "inbox/amymccubbin_1017160496337372",
+  "magic_words": [
+    
+  ]
+}

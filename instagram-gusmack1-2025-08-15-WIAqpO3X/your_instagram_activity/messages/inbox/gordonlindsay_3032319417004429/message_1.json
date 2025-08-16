@@ -1,0 +1,70 @@
+{
+  "participants": [
+    {
+      "name": "Gordon Lindsay"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623790816492,
+      "content": "Yesh ive been calling these cunts out recently just for trying to get free shit off businesses that have been fucked off covid. Loads of people dont see it",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623790765748,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gordon Lindsay",
+      "timestamp_ms": 1623790598455,
+      "content": "Yeah can\u00e2\u0080\u0099t beat either of them, snaffle not bad either. \nHaha aww I was wondering right enough \u00f0\u009f\u0098\u0082",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1623790763
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623790255030,
+      "content": "Its a bam up post mate to take the pish out of people trying to get a freebie lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1623790218274,
+      "content": "Yep in there loads of times then the Islay",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Gordon Lindsay",
+      "timestamp_ms": 1623789496576,
+      "content": "Park bar on argyle streets always a good one",
+      "share": {
+        "link": "https://instagram.com/stories/gusmack1/2596847037574849596"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Gordon Lindsay",
+  "is_still_participant": true,
+  "thread_path": "inbox/gordonlindsay_3032319417004429",
+  "magic_words": [
+    
+  ]
+}

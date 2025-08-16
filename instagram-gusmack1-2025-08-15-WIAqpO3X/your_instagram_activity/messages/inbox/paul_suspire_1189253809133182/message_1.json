@@ -1,0 +1,29 @@
+{
+  "participants": [
+    {
+      "name": "paul_suspire"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1695157763724,
+      "content": "https://ig.me/j/AbY00Gmto95O6LAY/",
+      "share": {
+        "link": "https://ig.me/j/AbY00Gmto95O6LAY/",
+        "share_text": "https://ig.me/j/AbY00Gmto95O6LAY/"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "paul_suspire",
+  "is_still_participant": true,
+  "thread_path": "inbox/paul_suspire_1189253809133182",
+  "magic_words": [
+    
+  ]
+}

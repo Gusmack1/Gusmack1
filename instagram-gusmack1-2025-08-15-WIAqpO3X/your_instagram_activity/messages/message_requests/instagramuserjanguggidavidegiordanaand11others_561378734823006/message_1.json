@@ -1,0 +1,72 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Jan Guggi"
+    },
+    {
+      "name": "Davide Giordana"
+    },
+    {
+      "name": "Marisol Feris"
+    },
+    {
+      "name": "Stefan Hi"
+    },
+    {
+      "name": "Florian Poser"
+    },
+    {
+      "name": "Kyrone Bradley"
+    },
+    {
+      "name": "\u00f0\u009d\u0095\u008a\u00f0\u009d\u0095\u0092\u00f0\u009d\u0095\u009f \u00f0\u009f\u00aa\u00a9 \u00f0\u009d\u0094\u00bb\u00f0\u009d\u0095\u009a\u00f0\u009d\u0095\u0096\u00f0\u009d\u0095\u0098\u00f0\u009d\u0095\u00a0"
+    },
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Angi"
+    },
+    {
+      "name": "No\u00c3\u00aal Gijsen"
+    },
+    {
+      "name": "Massimiliano Minotto"
+    },
+    {
+      "name": "Matthew Durand"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    },
+    {
+      "name": "\u00f0\u009d\u0090\u0089\u00f0\u009d\u0090\u008e\u00f0\u009d\u0090\u0092\u00f0\u009d\u0090\u0098 \u00f0\u009f\u00a6\u008b"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1615131258685,
+      "content": "https://bnc.lt/IJgqjzQMqeb",
+      "share": {
+        "link": "https://bnc.lt/IJgqjzQMqeb"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User, Jan Guggi, Davide Giordana and 11 others",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuserjanguggidavidegiordanaand11others_561378734823006",
+  "magic_words": [
+    
+  ],
+  "joinable_mode": {
+    "mode": 1,
+    "link": ""
+  },
+  "is_pending": true
+}

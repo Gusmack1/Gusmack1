@@ -1,0 +1,28 @@
+{
+  "participants": [
+    {
+      "name": "Lovely Interior Decor"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Lovely Interior Decor",
+      "timestamp_ms": 1545684941466,
+      "content": "Lovely sent an attachment.",
+      "share": {
+        "link": "http://bit.ly/designdeco"
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Lovely Interior Decor",
+  "is_still_participant": true,
+  "thread_path": "inbox/lovelyinteriordecor_513401213380835",
+  "magic_words": [
+    
+  ]
+}

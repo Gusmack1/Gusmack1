@@ -1,0 +1,102 @@
+{
+  "participants": [
+    {
+      "name": "chrisa_1"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1633621118988,
+      "content": "Im trying to think if i know the guy",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1633621094449,
+      "content": "Hahaha",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chrisa_1",
+      "timestamp_ms": 1633619963534,
+      "content": "Na man lol",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1633621092
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1633619841564,
+      "content": "Lol no wanking for you hahhaa",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chrisa_1",
+      "timestamp_ms": 1633619828183,
+      "content": "aye no ma best one lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1633619811440,
+      "content": "Oooft thats a sore yin",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chrisa_1",
+      "timestamp_ms": 1633619784890,
+      "content": "otherwise all good",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chrisa_1",
+      "timestamp_ms": 1633619780905,
+      "content": "Fantastic. Im doing ok, recently broke both elbows so last 2 weeks have been fun",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1633619730670,
+      "content": "Ive spoke to him mate. All's well and good how u doing?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "chrisa_1",
+      "timestamp_ms": 1633619662248,
+      "content": "Hi mate hope you are well. One of my mates have taken over the old snack shack in st mungo street (now Marks Munchies) and he was wondering if he could get you down to try some scran. Think he has messaged you but wondered if theere was another way to reach out?",
+      "reactions": [
+        {
+          "reaction": "\u00e2\u009d\u00a4\u00ef\u00b8\u008f",
+          "actor": "Glasgow | food | foodie | Scottish",
+          "timestamp": 1633619686
+        }
+      ],
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "chrisa_1",
+  "is_still_participant": true,
+  "thread_path": "inbox/chrisa_1_513851603334933",
+  "magic_words": [
+    
+  ]
+}

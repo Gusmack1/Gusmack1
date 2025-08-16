@@ -1,0 +1,50 @@
+{
+  "participants": [
+    {
+      "name": "Z\u00c3\u00b9sto UK"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1595516216618,
+      "content": "If u want I could promote it but that would need to be a paid promotion I'm afraid.",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Glasgow | food | foodie | Scottish",
+      "timestamp_ms": 1595515993503,
+      "content": "I don't drink tea or coffee so I wouldn't know what to do with it lol",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Z\u00c3\u00b9sto UK",
+      "timestamp_ms": 1595504014870,
+      "content": "Would you be interested in a sample?",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    },
+    {
+      "sender_name": "Z\u00c3\u00b9sto UK",
+      "timestamp_ms": 1595496345687,
+      "content": "Z\u00c3\u00b9sto sent an attachment.",
+      "share": {
+        "link": "https://www.facebook.com/www.zusto.co.uk",
+        "share_text": "Zusto is a revolutionary sugar substitute that offers 75% fewer calories in end products compared to sugar. Buy your Zusto online today."
+      },
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Z\u00c3\u00b9sto UK",
+  "is_still_participant": true,
+  "thread_path": "inbox/zustouk_525572908832158",
+  "magic_words": [
+    
+  ]
+}

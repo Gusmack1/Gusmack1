@@ -1,0 +1,25 @@
+{
+  "participants": [
+    {
+      "name": "Personal Chef & Caterer"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Personal Chef & Caterer",
+      "timestamp_ms": 1641649444593,
+      "content": "Thank you for the follow!  I followed back.  In your food arsenal do you have a recipe for lambchops that is distinctly Scottish?  I'm doing another Scotch tasting for the same clients, they want lambchops again, but I want to mix it up!  Thank you!  Cheers!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Personal Chef & Caterer",
+  "is_still_participant": true,
+  "thread_path": "inbox/personalchefcaterer_661865334833880",
+  "magic_words": [
+    
+  ]
+}

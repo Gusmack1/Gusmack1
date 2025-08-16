@@ -1,0 +1,26 @@
+{
+  "participants": [
+    {
+      "name": "Instagram User"
+    },
+    {
+      "name": "Glasgow | food | foodie | Scottish"
+    }
+  ],
+  "messages": [
+    {
+      "sender_name": "Instagram User",
+      "timestamp_ms": 1722272248314,
+      "content": "Hi there! We love your page \u00e2\u009d\u00a4\u00ef\u00b8\u008f We're currently casting for the next series of MasterChef. It would be amazing if you could share one of our posts to get the word out. We're coming up to Scotland for auditions next week!",
+      "is_geoblocked_for_viewer": false,
+      "is_unsent_image_by_messenger_kid_parent": false
+    }
+  ],
+  "title": "Instagram User",
+  "is_still_participant": true,
+  "thread_path": "message_requests/instagramuser_1320769852643100",
+  "magic_words": [
+    
+  ],
+  "is_pending": true
+}
